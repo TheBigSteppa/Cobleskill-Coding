@@ -1,0 +1,7 @@
+sword
+gun
+tie
+healing potion
+shield
+boots
+armour

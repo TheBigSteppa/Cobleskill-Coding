@@ -1,0 +1,3793 @@
+Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py
+
+
+        Welcome to my
+
+
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
+        
+
+                                       Calculator() By: Mark 
+
+
+
+
+				Press ENTER to go to make your selection. 
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 1
+
+
+Computing the area of a rectangle.
+
+                        |--------|
+                        |        |
+                        |--------|       
+
+First, Enter the Lenth: 
+1
+Second, Enter the Width: 
+2
+	The Length was "1" and, the width was "2."
+	After computing the equation 'Length x Width = Area'
+	The Area of your rectangle is "2."
+
+None
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 2
+
+
+Computing the Vol of a cube.
+
+                           +--------------+
+                          /|             /|
+                         / |            / |
+                        *--+-----------*  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  +-----------+--+
+                        | /            | /
+                        |/             |/
+                        *--------------*
+
+First, Enter the Length: 
+1
+Second, enter the Width: 
+3
+Lastly, enter the depth: 
+5
+	The Length was "1," the width was "3," and the depth was "5."
+	After computing the equation 'Length x Width x depth = Volume'
+	The area of your Cube is "15."
+
+None
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 3
+
+
+Computing the area of a circle.
+
+                             .-""-.
+                            /      \  
+                           ;        ;
+                            \      /
+                             '-..-'
+
+Please enter the radius of the circle: 
+3
+	The radius of your circle was "3."
+	After computing the equation 'PI * (r*r) = Area'
+	The area of your circle is "28.27433388231."
+None
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+
+        Welcome to my
+
+
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
+        
+
+                                       Calculator() By: Mark 
+
+
+
+
+				Press ENTER to go to make your selection. 
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 1
+
+
+Computing the area of a rectangle.
+
+                        |--------|
+                        |        |
+                        |--------|       
+
+First, Enter the Lenth: 
+1
+Second, Enter the Width: 
+3
+	The Length was "1" and, the width was "3."
+	After computing the equation 'Length x Width = Area'
+	The Area of your rectangle is "3."
+
+Press enter to go back to the main menu
+None
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 2
+
+
+Computing the Vol of a cube.
+
+                           +--------------+
+                          /|             /|
+                         / |            / |
+                        *--+-----------*  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  +-----------+--+
+                        | /            | /
+                        |/             |/
+                        *--------------*
+
+First, Enter the Length: 
+2
+Second, enter the Width: 
+4
+Lastly, enter the depth: 
+6
+	The Length was "2," the width was "4," and the depth was "6."
+	After computing the equation 'Length x Width x depth = Volume'
+	The area of your Cube is "48."
+
+Press enter to go back to the main menu
+None
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 3
+
+
+Computing the area of a circle.
+
+                             .-""-.
+                            /      \  
+                           ;        ;
+                            \      /
+                             '-..-'
+
+Please enter the radius of the circle: 
+3
+	The radius of your circle was "3."
+	After computing the equation 'PI * (r*r) = Area'
+	The area of your circle is "28.27433388231."
+Press enter to go back to the main menu
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+
+        Welcome to my
+
+
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
+        
+
+                                       Calculator() By: Mark 
+
+
+
+
+				Press ENTER to go to make your selection. 
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 1
+
+
+Computing the area of a rectangle.
+
+                        |--------|
+                        |        |
+                        |--------|       
+
+First, Enter the Lenth: 
+2
+Second, Enter the Width: 
+4
+	The Length was "2" and, the width was "4."
+	After computing the equation 'Length x Width = Area'
+	The Area of your rectangle is "8."
+
+Press enter to go back to the main menu
+None
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 2
+
+
+Computing the Vol of a cube.
+
+                           +--------------+
+                          /|             /|
+                         / |            / |
+                        *--+-----------*  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  +-----------+--+
+                        | /            | /
+                        |/             |/
+                        *--------------*
+
+First, Enter the Length: 
+2
+Second, enter the Width: 
+4
+Lastly, enter the depth: 
+5
+	The Length was "2," the width was "4," and the depth was "5."
+	After computing the equation 'Length x Width x depth = Volume'
+	The area of your Cube is "40."
+
+Press enter to go back to the main menu
+None
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 3
+
+
+Computing the area of a circle.
+
+                             .-""-.
+                            /      \  
+                           ;        ;
+                            \      /
+                             '-..-'
+
+Please enter the radius of the circle: 
+4
+	The radius of your circle was "4."
+	After computing the equation 'PI * (r*r) = Area'
+	The area of your circle is "50.26548245744."
+
+Press enter to go back to the main menu
+None
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+
+                                                                                                        
+                                                                                                                                                                    
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 4
+	The radius of your sphere was "4."
+	After computing the equation '(4/3) * PI * (r*r*r) = Area'
+	The volume of your sphere is "."
+
+Press enter to go back to the main menu
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+
+        Welcome to my
+
+
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
+        
+
+                                       Calculator() By: Mark 
+
+
+
+
+				Press ENTER to go to make your selection. 
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+
+                                                                                                        
+                                                                                                                                                                    
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+4
+	The radius of your sphere was "4."
+	After computing the equation '(4/3) * PI * (r*r*r) = Area'
+	The volume of your sphere is "."
+
+Press enter to go back to the main menu
+None
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 9
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 8
+
+
+        Welcome to my
+
+
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
+        
+
+                                       Calculator() By: Mark 
+
+
+
+
+				Press ENTER to go to make your selection. 
+Make a selection
+None
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 9
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 0
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+        Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 1
+
+
+Computing the area of a rectangle.
+
+                        |--------|
+                        |        |
+                        |--------|
+
+First, Enter the Lenth: 
+2
+Second, Enter the Width: 
+3
+	The Length was "2" and, the width was "3."
+	After computing the equation 'Length x Width = Area'
+	The Area of your rectangle is "6."
+
+Press enter to go back to the main menu
+None
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 2
+
+
+Computing the Vol of a cube.
+
+                           +--------------+
+                          /|             /|
+                         / |            / |
+                        *--+-----------*  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  +-----------+--+
+                        | /            | /
+                        |/             |/
+                        *--------------*
+
+First, Enter the Length: 
+1
+Second, enter the Width: 
+2
+Lastly, enter the depth: 
+3
+	The Length was "1," the width was "2," and the depth was "3."
+	After computing the equation 'Length x Width x depth = Volume'
+	The area of your Cube is "6."
+
+Press enter to go back to the main menu
+None
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 3
+
+
+Computing the area of a circle.
+
+                             .-""-.
+                            /      \  
+                           ;        ;
+                            \      /
+                             '-..-'
+
+Please enter the radius of the circle: 
+5
+	The radius of your circle was "5."
+	After computing the equation 'PI * (r*r) = Area'
+	The area of your circle is "78.53981633975."
+
+Press enter to go back to the main menu
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 215, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 205, in main
+    intro()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 43, in intro
+    input("\t\t\t\tPress ENTER to go to make your selection. ")
+KeyboardInterrupt
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+					With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 12
+Not a selection
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 2
+
+
+Computing the Vol of a cube.
+
+                           +--------------+
+                          /|             /|
+                         / |            / |
+                        *--+-----------*  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  +-----------+--+
+                        | /            | /
+                        |/             |/
+                        *--------------*
+
+First, Enter the Length: 
+3
+Second, enter the Width: 
+6
+Lastly, enter the depth: 
+4
+	The Length was "3," the width was "6," and the depth was "4."
+	After computing the equation 'Length x Width x depth = Volume'
+	The area of your Cube is "72."
+
+Press enter to go back to the main menu
+None
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 9
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 9
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 
+not a valid entry, try again
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 9
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 9
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 8
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+Make a selection
+None
+None
+None
+None
+None
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 0
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 
+not a valid entry, try again
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 
+not a valid entry, try again
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 
+not a valid entry, try again
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 
+not a valid entry, try again
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 
+not a valid entry, try again
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 
+not a valid entry, try again
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 
+not a valid entry, try again
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+0
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 215, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 208, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 193, in user_pick
+    print(user_pick(9))            ## //
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 193, in user_pick
+    print(user_pick(9))            ## //
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 193, in user_pick
+    print(user_pick(9))            ## //
+  [Previous line repeated 4 more times]
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 191, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 160, in comp_sphere_vol
+    V = frac * PI * (r*r*r)
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+0
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 218, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 211, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 194, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 163, in comp_sphere_vol
+    V = frac * PI * (r*r*r)
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+
+NOT A VALID ENTRY, TRY AGAIN
+ invalid literal for int() with base 10: ''
+What is the radius: 
+
+NOT A VALID ENTRY, TRY AGAIN
+ invalid literal for int() with base 10: ''
+What is the radius: 
+0
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 218, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 211, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 194, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 163, in comp_sphere_vol
+    V = frac * PI * (r*r*r)
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+
+NOT A VALID ENTRY, TRY AGAIN
+ invalid literal for int() with base 10: ''
+What is the radius: 
+e
+NOT A VALID ENTRY, TRY AGAIN
+ invalid literal for int() with base 10: 'e'
+What is the radius: 
+d
+NOT A VALID ENTRY, TRY AGAIN
+ invalid literal for int() with base 10: 'd'
+What is the radius: 
+0
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 218, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 211, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 194, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 163, in comp_sphere_vol
+    V = frac * PI * (r*r*r)
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+0
+NOT A VALID ENTRY, TRY AGAIN
+ can't multiply sequence by non-int of type 'tuple'
+	The radius of your sphere was "(0,)."
+	After computing the equation '(4/3) * PI * (r*r*r) = V'
+	The volume of your sphere is "."
+
+Press enter to go back to the main menu
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+
+NOT A VALID ENTRY, TRY AGAIN
+ invalid literal for int() with base 10: ''
+What is the radius: 
+0
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 220, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 213, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 196, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 160, in comp_sphere_vol
+    while VALID == 1:
+UnboundLocalError: local variable 'VALID' referenced before assignment
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+0
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 220, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 213, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 196, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 160, in comp_sphere_vol
+    while VALID == 1:
+UnboundLocalError: local variable 'VALID' referenced before assignment
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+0
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 220, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 213, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 196, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 160, in comp_sphere_vol
+    while VALID == 1:
+UnboundLocalError: local variable 'VALID' referenced before assignment
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+0
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 220, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 213, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 196, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 160, in comp_sphere_vol
+    while VALID ==0:
+UnboundLocalError: local variable 'VALID' referenced before assignment
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 20, in <module>
+    done = true
+NameError: name 'true' is not defined
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 
+not a valid entry, try again
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+0
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 217, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 210, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 195, in user_pick
+    print(user_pick(9))            ## //
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 193, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 162, in comp_sphere_vol
+    V = frac * PI * (r*r*r)
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 
+not a valid entry, try again
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+0
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 217, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 210, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 195, in user_pick
+    print(user_pick(9))            ## //
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 193, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 160, in comp_sphere_vol
+    V = frac * PI * (r*r*r)
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+0
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 218, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 211, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 194, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 163, in comp_sphere_vol
+    V = frac * PI * (r*r*r)
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 4
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: f
+not a valid entry, try again
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                    7                  
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+r
+NOT A VALID ENTRY, TRY AGAIN
+ invalid literal for int() with base 10: 'r'
+What is the radius: 
+e
+NOT A VALID ENTRY, TRY AGAIN
+ invalid literal for int() with base 10: 'e'
+What is the radius: 
+4
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 218, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 211, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 196, in user_pick
+    print(user_pick(9))            ## //
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 194, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 163, in comp_sphere_vol
+    V = frac * PI * (r*r*r)
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                    7                  
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+4
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 215, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 208, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 191, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 160, in comp_sphere_vol
+    V = frac * PI * (r*r*r)
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+5
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 215, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 208, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 191, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 160, in comp_sphere_vol
+    V = frac * PI * (r*r*r)
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+
+============================================== RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1) (1).py ==============================================
+>>> 
+
+
+        Welcome to my
+
+
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
+        
+
+                                       Calculator() By: Mark 
+
+
+
+
+				Press ENTER to go to make your selection. 
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+
+                                                                                                        
+                                                                                                                                                                    
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 5
+	The radius of your sphere was "5."
+	After computing the equation '(4/3) * PI * (r*r*r) = Area'
+	The volume of your sphere is "."
+None
+
+			with this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+					Pick a number to get started: 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+4
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 215, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 208, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 191, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 160, in comp_sphere_vol
+    V = frac * PI * (r*r*r)
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 215, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 208, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 191, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 159, in comp_sphere_vol
+    r = float(int("What is the radius: \n"))
+ValueError: invalid literal for int() with base 10: 'What is the radius: \n'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 4
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+45
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 215, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 208, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 191, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 160, in comp_sphere_vol
+    V = frac * PI * (r*r*r)
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+
+				Press ENTER to go to make your selection. 3
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 5
+Not a selection
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 3
+
+
+Computing the area of a circle.
+
+                             .-""-.
+                            /      \  
+                           ;        ;
+                            \      /
+                             '-..-'
+
+Please enter the radius of the circle: 
+4
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 215, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 208, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 189, in user_pick
+    print(comp_circle_area(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 125, in comp_circle_area
+    A = (r*r) * PI
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 2
+
+
+Computing the Vol of a cube.
+
+                           +--------------+
+                          /|             /|
+                         / |            / |
+                        *--+-----------*  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  +-----------+--+
+                        | /            | /
+                        |/             |/
+                        *--------------*
+
+First, Enter the Length: 
+3
+Second, enter the Width: 
+2
+Lastly, enter the depth: 
+1
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 215, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 208, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 187, in user_pick
+    print(comp_cube_vol(L, W, D))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 105, in comp_cube_vol
+    V = L * W * D
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. TypeError: can't multiply sequence by non-int of type 'tuple'
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 3
+
+
+Computing the area of a circle.
+
+                             .-""-.
+                            /      \  
+                           ;        ;
+                            \      /
+                             '-..-'
+
+Please enter the radius of the circle: 
+45
+	The radius of your circle was "45."
+	After computing the equation 'PI * (r*r) = Area'
+	The area of your circle is "6361.72512351975."
+
+Press enter to go back to the main menu
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+4
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 215, in <module>
+    main()
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 208, in main
+    user_pick(SWITCH)
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 191, in user_pick
+    print(comp_sphere_vol(radius))
+  File "C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py", line 160, in comp_sphere_vol
+    V = frac * PI * (r*r*r)
+TypeError: can't multiply sequence by non-int of type 'tuple'
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+6
+	The radius of your sphere was "6."
+	After computing the equation '(4/3) * PI * (r*r*r) = V'
+	The volume of your sphere is "904.77868423392."
+
+Press enter to go back to the main menu
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+432
+	The radius of your sphere was "432."
+	After computing the equation '(4/3) * PI * (r*r*r) = V'
+	The volume of your sphere is "337706834.3329422."
+
+Press enter to go back to the main menu
+None
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 0
+>>> 
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+0
+	The radius of your sphere was "0."
+	After computing the equation '(4/3) * PI * (r*r*r) = V'
+	The volume of your sphere is "0.0."
+
+Press enter to go back to the main menu
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+0
+	The radius of your sphere was "0."
+	After computing the equation '(4/3) * PI * (r*r*r) = V'
+	The volume of your sphere is "0.0."
+
+Press enter to go back to the main menu
+================================================ RESTART: C:\Users\mjone\Downloads\SUPER Shape Calculator FINISHED challenge 8 python (1).py ================================================
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 3
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 3
+
+
+Computing the area of a circle.
+
+                             .-""-.
+                            /      \  
+                           ;        ;
+                            \      /
+                             '-..-'
+
+Please enter the radius of the circle: 
+0
+	The radius of your circle was "0."
+	After computing the equation 'PI * (r*r) = Area'
+	The area of your circle is "0.0."
+
+Press enter to go back to the main menu
+None
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 1
+
+
+Computing the area of a rectangle.
+
+                        |--------|
+                        |        |
+                        |--------|
+
+First, Enter the Lenth: 
+2
+Second, Enter the Width: 
+3
+	The Length was "2" and, the width was "3."
+	After computing the equation 'Length x Width = Area'
+	The Area of your rectangle is "6."
+
+Press enter to go back to the main menu
+None
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 2
+
+
+Computing the Vol of a cube.
+
+                           +--------------+
+                          /|             /|
+                         / |            / |
+                        *--+-----------*  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  +-----------+--+
+                        | /            | /
+                        |/             |/
+                        *--------------*
+
+First, Enter the Length: 
+1
+Second, enter the Width: 
+3
+Lastly, enter the depth: 
+5
+	The Length was "1," the width was "3," and the depth was "5."
+	After computing the equation 'Length x Width x depth = Volume'
+	The area of your Cube is "15."
+
+Press enter to go back to the main menu
+None
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 3
+
+
+Computing the area of a circle.
+
+                             .-""-.
+                            /      \  
+                           ;        ;
+                            \      /
+                             '-..-'
+
+Please enter the radius of the circle: 
+3
+	The radius of your circle was "3."
+	After computing the equation 'PI * (r*r) = Area'
+	The area of your circle is "28.27433388231."
+
+Press enter to go back to the main menu
+None
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+4
+	The radius of your sphere was "4."
+	After computing the equation '(4/3) * PI * (r*r*r) = Volume'
+	The volume of your sphere is "268.0825731063467."
+
+Press enter to go back to the main menu
+None
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 0
+>>> 
+
+========================================================= RESTART: C:\Users\mjone\Downloads\completed FINISHED challenge 8 python.py ========================================================
+>>> 
+
+                                            Welcome to my
+                                 (                        )             (      
+                           (     )\ )           (      ( /(    (        )\ )   
+                           )\   (()/(  (   (    )\     )\())   )\   (  (()/(   
+                        ((((_)(  /(_)) )\  )\((((_)(  ((_)\  (((_)  )\  /(_))  
+                         )\ _ )\(_))_ ((_)((_))\ _ )\  _((_) )\___ ((_)(_))_   
+                         (_)_\(_)|   \ \ / / (_)_\(_)| \| |((/ __|| __||   \  
+                          / _ \  | |) |\ V /   / _ \  | .` | | (__ | _| | |) | 
+                         /_/ \_\ |___/  \_/   /_/ \_\ |_|\_|  \___||___||___/  
+
+                             ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆        
+
+                                       Calculator() By: Mark 
+
+
+
+				Press ENTER to go to make your selection. 
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 1
+
+
+Computing the area of a rectangle.
+
+                        |--------|
+                        |        |
+                        |--------|
+
+First, Enter the Lenth: 
+1
+Second, Enter the Width: 
+1
+	The Length was "1" and, the width was "1."
+	After computing the equation 'Length x Width = Area'
+	The Area of your rectangle is "1."
+
+Press enter to go back to the main menu
+None
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 2
+
+
+Computing the Vol of a cube.
+
+                           +--------------+
+                          /|             /|
+                         / |            / |
+                        *--+-----------*  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  |           |  |
+                        |  +-----------+--+
+                        | /            | /
+                        |/             |/
+                        *--------------*
+
+First, Enter the Length: 
+1
+Second, enter the Width: 
+1
+Lastly, enter the depth: 
+1
+	The Length was "1," the width was "1," and the depth was "1."
+	After computing the equation 'Length x Width x depth = Volume'
+	The area of your Cube is "1."
+
+Press enter to go back to the main menu
+None
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 3
+
+
+Computing the area of a circle.
+
+                             .-""-.
+                            /      \  
+                           ;        ;
+                            \      /
+                             '-..-'
+
+Please enter the radius of the circle: 
+1
+	The radius of your circle was "1."
+	After computing the equation 'PI * (r*r) = Area'
+	The area of your circle is "3.14159265359."
+
+Press enter to go back to the main menu
+None
+
+				With this calculator, you can:
+
+			Compute the area of a Rectangle = 1
+			Compute the Volume of a Cube = 2
+			Compute the area of a circle = 3
+			Compute the volume of a sphere = 4
+
+			Other controls include: 
+
+			Make another selection = 9  
+			See the awesome intro again = 8
+			End the program = 0
+
+
+
+				Pick a number to get started: 4
+
+
+Computing the volume of a sphere.
+                                                                                                                                                                                                                                                                           
+                              ▓▓▓▓▓▓▓▓▓▓▓▓                                                                              
+                        ░░████░░░░░░░░░░░░████                                                                          
+                       ░░██▒▒░░░░░░░░░░░░░░░░░░██                                                                        
+                     ░░██▒▒▒▒░░░░░░░░░░░░░░░░░░░░██                                                                      
+                     ██▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░██                                                                    
+                     ██▒▒▒▒░░░░░░░░░░░░        ░░░░██                                                                    
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░        ░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░    ░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                   ██▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░██                                                                  
+                     ▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░██                                                                    
+                     ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒██                                                                    
+                     ░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                    
+                       ░░▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒██░░                                                                      
+                          ░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓████░░                                                                        
+                            ░░░░████████████░░                                                                            
+                              ░░░░░░░░░░░░                                                                              
+
+What is the radius: 
+1
+	The radius of your sphere was "1."
+	After computing the equation '(4/3) * PI * (r*r*r) = Volume'
+	The volume of your sphere is "4.188790204786667."
+
+Press enter to go back to the main menu

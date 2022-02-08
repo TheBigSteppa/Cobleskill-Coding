@@ -1,0 +1,676 @@
+Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 3
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 2
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 2
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. .5
+Traceback (most recent call last):
+  File "C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py", line 16, in <module>
+    numInterval = int(input("Finally, How would you like to count? \nPlease pick a number divisible by the numbers you choose. "))
+ValueError: invalid literal for int() with base 10: '.5'
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 10
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 2
+So your Starting point is  1 , your ending point is  10 , and how you would like to count is  2 .
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 10
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 2
+So your Starting point is 1 ,your ending point is 10 ,and how you would like to count is 2 .
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 10
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 2
+Traceback (most recent call last):
+  File "C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py", line 17, in <module>
+    print("So your Starting point is", numStart+",your ending point is", numEnd,",and how you would like to count is", numInterval,".")
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 10
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 2
+So, your Starting point is 1 , your ending point is 10 ,and how you would like to count is 2 .
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 100
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 5
+So, your Starting point is 1 , your ending point is 100 ,and how you would like to count is 5 .
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 100
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 2
+So, your Starting point is1, your ending point is 100 ,and how you would like to count is 2 .
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 100
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 5
+Traceback (most recent call last):
+  File "C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py", line 17, in <module>
+    print("So, your Starting point is "+str(numStart)+", your ending point is "+str(numEnd)+",and how you would like to count is ",+str(numInterval)+".")
+TypeError: bad operand type for unary +: 'str'
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 100
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 5
+So, your Starting point is 1, your ending point is 100,and how you would like to count is 5.
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 20
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 2
+So, your Starting point is 1, your ending point is 20, and how you would like to count is 2.
+Press enter to begin your counting
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 10
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 2
+So, your Starting point is 1, your ending point is 10, and how you would like to count is 2.
+Press enter to begin your counting
+1 3 5 7 9 
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 10
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 2
+So, your Starting point is 1, your ending point is 9, and how you would like to count is 2.
+Press enter to begin your counting
+1 3 5 7 
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 
+Traceback (most recent call last):
+  File "C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py", line 10, in <module>
+    numStart = int(input("Enter your starting number. "))
+ValueError: invalid literal for int() with base 10: ''
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 20
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 5
+So, your Starting point is 1, your ending point is 20, and how you would like to count is 5.
+
+Press enter to begin your counting
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. 1
+Now, enter your ending number. 20
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 5
+So, your Starting point is 1, your ending point is 20, and how you would like to count is 5.
+ Press enter to get started.
+
+Press enter to begin your counting
+1 6 11 16 
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+Enter your starting number. \1
+Now, enter your ending number. 50
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 2
+So, your Starting point is 1, your ending point is 50, and how you would like to count is 2.
+ Press enter to get started.
+
+1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+
+Enter your starting number. 1
+
+Now, enter your ending number. 20
+
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers you choose. 5
+So, your Starting point is 1, your ending point is 20, and how you would like to count is 5.
+ Press enter to get started.
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+
+Enter your starting number. 1
+
+Now, enter your ending number. 20000000
+
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers already choosen. 2
+
+So, your Starting point is 1, your ending point is 20000000, and how you would like to count is 2.
+ Press enter to get started.
+
+1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63 65 67 69 71 73 75 77 79 81 83 85 87 89 91 93 95 97 99 101 103 105 107 109 111 113 115 117 119 121 123 125 127 129 131 133 135 137 139 141 143 145 147 149 151 153 155 157 159 161 163 165 167 169 171 173 175 177 179 181 183 185 187 189 191 193 195 197 199 201 203 205 207 209 211 213 215 217 219 221 223 225 227 229 231 233 235 237 239 241 243 245 247 249 251 253 255 257 259 261 263 265 267 269 271 273 275 277 279 281 283 285 287 289 291 293 295 297 299 301 303 305 307 309 311 313 315 317 319 321 323 325 327 329 331 333 335 337 339 341 343 345 347 349 351 353 355 357 359 361 363 365 367 369 371 373 375 377 379 381 383 385 387 389 391 393 395 397 399 401 403 405 407 409 411 413 415 417 419 421 423 425 427 429 431 433 435 437 439 441 443 445 447 449 451 453 455 457 459 461 463 465 467 469 471 473 475 477 479 481 483 485 487 489 491 493 495 497 499 501 503 505 507 509 511 513 515 517 519 521 523 525 527 529 531 533 535 537 539 541 543 545 547 549 551 553 555 557 559 561 563 565 567 569 571 573 575 577 579 581 583 585 587 589 591 593 595 597 599 601 603 605 607 609 611 613 615 617 619 621 623 625 627 629 631 633 635 637 639 641 643 645 647 649 651 653 655 657 659 661 663 665 667 669 671 673 675 677 679 681 683 685 687 689 691 693 695 697 699 701 703 705 707 709 711 713 715 717 719 721 723 725 727 729 731 733 735 737 739 741 743 745 747 749 751 753 755 757 759 761 763 765 767 769 771 773 775 777 779 781 783 785 787 789 791 793 795 797 799 801 803 805 807 809 811 813 815 817 819 821 823 825 827 829 831 833 835 837 839 841 843 845 847 849 851 853 855 857 859 861 863 865 867 869 871 873 875 877 879 881 883 885 887 889 891 893 895 897 899 901 903 905 907 909 911 913 915 917 919 921 923 925 927 929 931 933 935 937 939 941 943 945 947 949 951 953 955 957 959 961 963 965 967 969 971 973 975 977 979 981 983 985 987 989 991 993 995 997 999 1001 1003 1005 1007 1009 1011 1013 1015 1017 1019 1021 1023 1025 1027 1029 1031 1033 1035 1037 1039 1041 1043 1045 1047 1049 1051 1053 1055 1057 1059 1061 1063 1065 1067 1069 1071 1073 1075 1077 1079 1081 1083 1085 1087 1089 1091 1093 1095 1097 1099 1101 1103 1105 1107 1109 1111 1113 1115 1117 1119 1121 1123 1125 1127 1129 1131 1133 1135 1137 1139 1141 1143 1145 1147 1149 1151 1153 1155 1157 1159 1161 1163 1165 1167 1169 1171 1173 1175 1177 1179 1181 1183 1185 1187 1189 1191 1193 1195 1197 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1229 1231 1233 1235 1237 1239 1241 1243 1245 1247 1249 1251 1253 1255 1257 1259 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1319 1321 1323 1325 1327 1329 1331 1333 1335 1337 1339 1341 1343 1345 1347 1349 1351 1353 1355 1357 1359 1361 1363 1365 1367 1369 1371 1373 1375 1377 1379 1381 1383 1385 1387 1389 1391 1393 1395 1397 1399 1401 1403 1405 1407 1409 1411 1413 1415 1417 1419 1421 1423 1425 1427 1429 1431 1433 1435 1437 1439 1441 1443 1445 1447 1449 1451 1453 1455 1457 1459 1461 1463 1465 1467 1469 1471 1473 1475 1477 1479 1481 1483 1485 1487 1489 1491 1493 1495 1497 1499 1501 1503 1505 1507 1509 1511 1513 1515 1517 1519 1521 1523 1525 1527 1529 1531 1533 1535 1537 1539 1541 1543 1545 1547 1549 1551 1553 1555 1557 1559 1561 1563 1565 1567 1569 1571 1573 1575 1577 1579 1581 1583 1585 1587 1589 1591 1593 1595 1597 1599 1601 1603 1605 1607 1609 1611 1613 1615 1617 1619 1621 1623 1625 1627 1629 1631 1633 1635 1637 1639 1641 1643 1645 1647 1649 1651 1653 1655 1657 1659 1661 1663 1665 1667 1669 1671 1673 1675 1677 1679 1681 1683 1685 1687 1689 1691 1693 1695 1697 1699 1701 1703 1705 1707 1709 1711 1713 1715 1717 1719 1721 1723 1725 1727 1729 1731 1733 1735 1737 1739 1741 1743 1745 1747 1749 1751 1753 1755 1757 1759 1761 1763 1765 1767 1769 1771 1773 1775 1777 1779 1781 1783 1785 1787 1789 1791 1793 1795 1797 1799 1801 1803 1805 1807 1809 1811 1813 1815 1817 1819 1821 1823 1825 1827 1829 1831 1833 1835 1837 1839 1841 1843 1845 1847 1849 1851 1853 1855 1857 1859 1861 1863 1865 1867 1869 1871 1873 1875 1877 1879 1881 1883 1885 1887 1889 1891 1893 1895 1897 1899 1901 1903 1905 1907 1909 1911 1913 1915 1917 1919 1921 1923 1925 1927 1929 1931 1933 1935 1937 1939 1941 1943 1945 1947 1949 1951 1953 1955 1957 1959 1961 1963 1965 1967 1969 1971 1973 1975 1977 1979 1981 1983 1985 1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025 2027 2029 2031 2033 2035 2037 2039 2041 2043 2045 2047 2049 2051 2053 2055 2057 2059 2061 2063 2065 2067 2069 2071 2073 2075 2077 2079 2081 2083 2085 2087 2089 2091 2093 2095 2097 2099 2101 2103 2105 2107 2109 2111 2113 2115 2117 2119 2121 2123 2125 2127 2129 2131 2133 2135 2137 2139 2141 2143 2145 2147 2149 2151 2153 2155 2157 2159 2161 2163 2165 2167 2169 2171 2173 2175 2177 2179 2181 2183 2185 2187 2189 2191 2193 2195 2197 2199 2201 2203 2205 2207 2209 2211 2213 2215 2217 2219 2221 Traceback (most recent call last):
+  File "C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py", line 21, in <module>
+    print(i, end=" ")
+KeyboardInterrupt
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+
+Enter your starting number. h
+Traceback (most recent call last):
+  File "C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py", line 10, in <module>
+    numStart = int(input("\nEnter your starting number. "))
+ValueError: invalid literal for int() with base 10: 'h'
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+
+Enter your starting number. 50
+
+Now, enter your ending number. 2
+
+No breaking the program, START OVER!
+Traceback (most recent call last):
+  File "C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py", line 18, in <module>
+    print(input("\nSo, your Starting point is "+str(numStart)+", your ending point is "+str(numEnd)+", and how you would like to count is "+str(numInterval)+".\n Press enter to get started."))
+NameError: name 'numInterval' is not defined
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+
+Enter your starting number. 1
+
+Now, enter your ending number. 1
+
+No breaking the program, START OVER!
+
+So, your Starting point is 1, your ending point is 1, and how you would like to count is .
+ Press enter to get started.1
+1
+Traceback (most recent call last):
+  File "C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py", line 25, in <module>
+    for i in range(numStart, numEnd, numInterval):
+TypeError: 'str' object cannot be interpreted as an integer
+>>> 
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+
+Enter your starting number. 1
+
+Now, enter your ending number. -1
+
+No breaking the program, START OVER!
+
+So, your Starting point is 1, your ending point is -1, and how you would like to count is .
+ Press enter to get started.
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+
+Enter your starting number. 1
+
+Now, enter your ending number. 1
+
+No breaking the program, START OVER!
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+
+Enter your starting number. 1
+
+Now, enter your ending number. 200
+
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers already choosen. 8
+
+So, your Starting point is 1, your ending point is 200, and how you would like to count is 8.
+ Press enter to get started.
+
+1 9 17 25 33 41 49 57 65 73 81 89 97 105 113 121 129 137 145 153 161 169 177 185 193 
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+
+Enter your starting number. ;
+Traceback (most recent call last):
+  File "C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py", line 15, in <module>
+    numStart = int(input("\nEnter your starting number. "))
+ValueError: invalid literal for int() with base 10: ';'
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+
+Enter your starting number. 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+
+
+🅲🅾🆄🅽🆃🅴🆁.🅿🆈
+
+
+
+
+
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for you based on the numbers that 
+you enter
+
+Press enter to start
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for you 
+based on the numbers that you enter!
+Press enter to get started
+
+
+Enter your starting number. 1
+
+Now, enter your ending number. 500
+
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers already choosen. 100
+
+So, your Starting point is 1, your ending point is 500, and how you would like to count is 100.
+ Press enter to get started.
+
+1 101 201 301 401 
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for you 
+based on the numbers that you enter!
+Press enter to get started
+
+
+Enter your starting number. 1
+
+Now, enter your ending number. 2000
+
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers already choosen. 10
+
+So, your Starting point is 1, your ending point is 2000, and how you would like to count is by 10.
+ Press enter to get started.
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for you 
+based on the numbers that you enter!
+Press enter to get started
+
+
+Enter your starting number. 10
+
+Now, enter your ending number. 1000
+
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers already choosen. 100
+
+So, your Starting point is 10, your ending point is 1000, and how you would like to count is by 100s.
+ Press enter to get started.
+
+10 110 210 310 410 510 610 710 810 910 
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for you 
+based on the numbers that you enter!
+Press enter to get started
+
+
+Enter your starting number. 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for you 
+based on the numbers that you enter!
+Press enter to get started
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for you 
+based on the numbers that you enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 1.88
+
+Now, enter your ending number. 200.64
+
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers already choosen. .84
+
+So, your Starting point is 1.88, your ending point is 200.64, and how you would like to count is by 0.84s.
+ Press enter to get started.
+
+Traceback (most recent call last):
+  File "C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py", line 38, in <module>
+    for i in range(numStart, numEnd, numInterval):
+TypeError: 'float' object cannot be interpreted as an integer
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for you 
+based on the numbers that you enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 100
+
+Now, enter your ending number. 1
+
+No breaking the program, START OVER!
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for you 
+based on the numbers that you enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 151515
+
+Now, enter your ending number. 1515155151
+
+Finally, How would you like to count? 
+Please pick a number divisible by the numbers already choosen. 151515
+
+So, your Starting point is 151515, your ending point is 1515155151, and how you would like to count is by 151515s.
+ Press enter to get started.
+
+151515 303030 454545 606060 757575 909090 1060605 1212120 1363635 1515150 1666665 1818180 1969695 2121210 2272725 2424240 2575755 2727270 2878785 3030300 3181815 3333330 3484845 3636360 3787875 3939390 4090905 4242420 4393935 4545450 4696965 4848480 4999995 5151510 5303025 5454540 5606055 5757570 5909085 6060600 6212115 6363630 6515145 6666660 6818175 6969690 7121205 7272720 7424235 7575750 7727265 7878780 8030295 8181810 8333325 8484840 8636355 8787870 8939385 9090900 9242415 9393930 9545445 9696960 9848475 9999990 10151505 10303020 10454535 10606050 10757565 10909080 11060595 11212110 11363625 11515140 11666655 11818170 11969685 12121200 12272715 12424230 12575745 12727260 12878775 13030290 13181805 13333320 13484835 13636350 13787865 13939380 14090895 14242410 14393925 14545440 14696955 14848470 14999985 15151500 15303015 15454530 15606045 15757560 15909075 16060590 16212105 16363620 16515135 16666650 16818165 16969680 17121195 17272710 17424225 17575740 17727255 17878770 18030285 18181800 18333315 18484830 18636345 18787860 18939375 19090890 19242405 19393920 19545435 19696950 19848465 19999980 20151495 20303010 20454525 20606040 20757555 20909070 21060585 21212100 21363615 21515130 21666645 21818160 21969675 22121190 22272705 22424220 22575735 22727250 22878765 23030280 23181795 23333310 23484825 23636340 23787855 23939370 24090885 24242400 24393915 24545430 24696945 24848460 24999975 25151490 25303005 25454520 25606035 25757550 25909065 26060580 26212095 26363610 26515125 26666640 26818155 26969670 27121185 27272700 27424215 27575730 27727245 27878760 28030275 28181790 28333305 28484820 28636335 28787850 28939365 29090880 29242395 29393910 29545425 29696940 29848455 29999970 30151485 30303000 30454515 30606030 30757545 30909060 31060575 31212090 31363605 31515120 31666635 31818150 31969665 32121180 32272695 32424210 32575725 32727240 32878755 33030270 33181785 33333300 33484815 33636330 33787845 33939360 34090875 34242390 34393905 34545420 34696935 34848450 34999965 35151480 35302995 35454510 35606025 35757540 35909055 36060570 36212085 36363600 36515115 36666630 36818145 36969660 37121175 37272690 37424205 37575720 37727235 37878750 38030265 38181780 38333295 38484810 38636325 38787840 38939355 39090870 39242385 39393900 39545415 39696930 39848445 39999960 40151475 40302990 40454505 40606020 40757535 40909050 41060565 41212080 41363595 41515110 41666625 41818140 41969655 42121170 42272685 42424200 42575715 42727230 42878745 43030260 43181775 43333290 43484805 43636320 43787835 43939350 44090865 44242380 44393895 44545410 44696925 44848440 44999955 45151470 45302985 45454500 45606015 45757530 45909045 46060560 46212075 46363590 46515105 46666620 46818135 46969650 47121165 47272680 47424195 47575710 47727225 47878740 48030255 48181770 48333285 48484800 48636315 48787830 48939345 49090860 49242375 49393890 49545405 49696920 49848435 49999950 50151465 50302980 50454495 50606010 50757525 50909040 51060555 51212070 51363585 51515100 51666615 51818130 51969645 52121160 52272675 52424190 52575705 52727220 52878735 53030250 53181765 53333280 53484795 53636310 53787825 53939340 54090855 54242370 54393885 54545400 54696915 54848430 54999945 55151460 55302975 55454490 55606005 55757520 55909035 56060550 56212065 56363580 56515095 56666610 56818125 56969640 57121155 57272670 57424185 57575700 57727215 57878730 58030245 58181760 58333275 58484790 58636305 58787820 58939335 59090850 59242365 59393880 59545395 59696910 59848425 59999940 60151455 60302970 60454485 60606000 60757515 60909030 61060545 61212060 61363575 61515090 61666605 61818120 61969635 62121150 62272665 62424180 62575695 62727210 62878725 63030240 63181755 63333270 63484785 63636300 63787815 63939330 64090845 64242360 64393875 64545390 64696905 64848420 64999935 65151450 65302965 65454480 65605995 65757510 65909025 66060540 66212055 66363570 66515085 66666600 66818115 66969630 67121145 67272660 67424175 67575690 67727205 67878720 68030235 68181750 68333265 68484780 68636295 68787810 68939325 69090840 69242355 69393870 69545385 69696900 69848415 69999930 70151445 70302960 70454475 70605990 70757505 70909020 71060535 71212050 71363565 71515080 71666595 71818110 71969625 72121140 72272655 72424170 72575685 72727200 72878715 73030230 73181745 73333260 73484775 73636290 73787805 73939320 74090835 74242350 74393865 74545380 74696895 74848410 74999925 75151440 75302955 75454470 75605985 75757500 75909015 76060530 76212045 76363560 76515075 76666590 76818105 76969620 77121135 77272650 77424165 77575680 77727195 77878710 78030225 78181740 78333255 78484770 78636285 78787800 78939315 79090830 79242345 79393860 79545375 79696890 79848405 79999920 80151435 80302950 80454465 80605980 80757495 80909010 81060525 81212040 81363555 81515070 81666585 81818100 81969615 82121130 82272645 82424160 82575675 82727190 82878705 83030220 83181735 83333250 83484765 83636280 83787795 83939310 84090825 84242340 84393855 84545370 84696885 84848400 84999915 85151430 85302945 85454460 85605975 85757490 85909005 86060520 86212035 86363550 86515065 86666580 86818095 86969610 87121125 87272640 87424155 87575670 87727185 87878700 88030215 88181730 88333245 88484760 88636275 88787790 88939305 89090820 89242335 89393850 89545365 89696880 89848395 89999910 90151425 90302940 90454455 90605970 90757485 90909000 91060515 91212030 91363545 91515060 91666575 91818090 91969605 92121120 92272635 92424150 92575665 92727180 92878695 93030210 93181725 93333240 93484755 93636270 93787785 93939300 94090815 94242330 94393845 94545360 94696875 94848390 94999905 95151420 95302935 95454450 95605965 95757480 95908995 96060510 96212025 96363540 96515055 96666570 96818085 96969600 97121115 97272630 97424145 97575660 97727175 97878690 98030205 98181720 98333235 98484750 98636265 98787780 98939295 99090810 99242325 99393840 99545355 99696870 99848385 99999900 100151415 100302930 100454445 100605960 100757475 100908990 101060505 101212020 101363535 101515050 101666565 101818080 101969595 102121110 102272625 102424140 102575655 102727170 102878685 103030200 103181715 103333230 103484745 103636260 103787775 103939290 104090805 104242320 104393835 104545350 104696865 104848380 104999895 105151410 105302925 105454440 105605955 105757470 105908985 106060500 106212015 106363530 106515045 106666560 106818075 106969590 107121105 107272620 107424135 107575650 107727165 107878680 108030195 108181710 108333225 108484740 108636255 108787770 108939285 109090800 109242315 109393830 109545345 109696860 109848375 109999890 110151405 110302920 110454435 110605950 110757465 110908980 111060495 111212010 111363525 111515040 111666555 111818070 111969585 112121100 112272615 112424130 112575645 112727160 112878675Traceback (most recent call last):
+  File "C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py", line 39, in <module>
+    print(i, end=" ")
+KeyboardInterrupt
+>>> 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for you 
+based on the numbers that you enter!
+Press enter to get started
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 
+================================== RESTART: C:\Users\mjone\Documents\Sunycobleskill Year 1\Python ch 4\Counter program.py ==================================
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 5
+
+Now, enter your ending NUMBER. 212
+
+Finally, How would you like to count? 6
+
+So, your Starting point is 5, your ending point is 212, and how you would like to count is by 6s.
+ Press enter to get started.
+
+5 11 17 23 29 35 41 47 53 59 65 71 77 83 89 95 101 107 113 119 125 131 137 143 149 155 161 167 173 179 185 191 197 203 209 
+>>> 

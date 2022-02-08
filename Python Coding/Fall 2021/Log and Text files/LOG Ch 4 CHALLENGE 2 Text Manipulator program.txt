@@ -1,0 +1,200 @@
+Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py =============
+Funny text manipulator 
+ this program will take any text you input and throw it back at you backwards! press enter to get started
+============= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py =============
+Funny text manipulator 
+This program will take any text you input 
+and throw it back at you backwards! 
+press enter to get started
+
+>>> 
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started
+
+Enter your messageYERRR
+DEBUG:: YERRR
+>>> 
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started
+
+Enter your message. YERRR my dude
+Traceback (most recent call last):
+  File "C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py", line 13, in <module>
+    print("Your message is "+message+" and it contains "+len(message)+" characters.")
+TypeError: can only concatenate str (not "int") to str
+>>> 
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started
+
+Enter your message. 
+Your message is    and it contains  0  characters.
+Press enter to flip it
+>>> 
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started
+
+
+Enter your message. yerr my dude
+Your message is  yerr my dude  and it contains  12  characters.
+Press enter to flip it
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started
+
+Enter your message. Yerr my dude
+Your message is " Yerr my dude " and it contains  12  characters.
+Press enter to flip it
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started
+
+Enter your message. yerr my dude
+Your message is "yerr my dude" and it contains  12  characters.
+Press enter to flip it
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started
+
+Enter your message. 
+Traceback (most recent call last):
+  File "C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py", line 13, in <module>
+    print('Your message is "'+message+'" and it contains "'+len(message)+'" characters.')
+TypeError: can only concatenate str (not "int") to str
+>>> 
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+>>> 
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started
+
+Enter your message. dd
+Traceback (most recent call last):
+  File "C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py", line 13, in <module>
+    print('Your message is "'+message+'" and it contains "'+len(message)+'" characters.')
+TypeError: can only concatenate str (not "int") to str
+>>> 
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started
+
+Enter your message. yerrrr
+Your message is "yerrrr" and it contains " 6 " characters.
+Press enter to flip it
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started 
+
+Enter your message. 
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started 
+
+Enter your message.==> Yerrrrrrrr
+Your message is "Yerrrrrrrr" and it contains " 10 " characters.
+Press enter to flip it! 
+>>> 
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started 
+
+Enter your message.==> yerr
+Your message is "yerr" and it contains " 4 " characters.
+Press enter to flip it! 
+yerr
+>>> 
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started 
+
+Enter your message.==> YERRR
+Your message is "YERRR" and it contains " 5 " characters.
+Press enter to flip it! 
+RRREY
+>>> 
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started 
+
+Enter your message.==> hey my name is mark and i like icecream
+Your message is "hey my name is mark and i like icecream" and it contains " 39 " characters.
+Press enter to flip it! 
+maerceci ekil i dna kram si eman ym yeh
+>>> 
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+Funny text manipulator 
+
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started 
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+			\\\Funny text manipulator\\\ 
+
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started 
+
+Enter your message.==> 
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+			\\\Funny text manipulator\\\ 
+
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started 
+
+Enter your message.==> Hey my name is mark
+Your message is "Hey my name is mark" and it contains " 19 " characters.
+Press enter to flip it! 
+kram si eman ym yeH
+Press enter to end this program
+= RESTART: C:/Users/mjone/Documents/Sunycobleskill Year 1/Python HW Chapter 4/PROGRAM Ch 4 CHALLENGE 2 Text Manipulator program.py
+			\\\Funny text manipulator\\\ 
+
+This program will take any text you input
+and throw it back at you backwards! 
+press enter to get started 
+
+Enter your message.==> 
+Your message is "" and it contains " 0 " characters.
+Press enter to flip it! 
+
+Press enter to end this program
+>>> 

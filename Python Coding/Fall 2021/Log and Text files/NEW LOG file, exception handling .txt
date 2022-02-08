@@ -1,0 +1,693 @@
+Python 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+==================== RESTART: C:\Users\mjone\Downloads\EDIT AddExceptionHandling.py ===================
+unable to open file  InputForChapter7.txt 
+ending program.
+ [Errno 2] No such file or directory: 'InputForChapter7.txt'
+
+
+Press enter to exit
+==================== RESTART: C:\Users\mjone\Downloads\EDIT AddExceptionHandling.py ===================
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 5
+you have  6 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  boots
+
+	 6  -  armour
+
+>>> 4
+4
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 5
+you have  6 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  boots
+
+	 6  -  armour
+
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 
+
+Your entry is not a valid one
+
+invalid literal for int() with base 10: ''
+
+
+ Press enter to quit
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: re
+
+Your entry is not a valid one
+
+invalid literal for int() with base 10: 're'
+
+
+ Press enter to quit
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 9
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\Program File, exception handling .py", line 75, in <module>
+    del inventory[itemToDelete]
+IndexError: list assignment index out of range
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 9
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\Program File, exception handling .py", line 78, in <module>
+    del inventory[itemToDelete]
+IndexError: list assignment index out of range
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 9
+test
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 6
+you have  6 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  armour
+
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 
+
+Your entry is not a valid one
+
+invalid literal for int() with base 10: ''
+
+
+ Press enter to quit
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 0
+you have  6 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+>>> 0
+0
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 9
+test
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 0
+you have  6 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 0
+you have  6 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+>>> 
+==================== RESTART: C:\Users\mjone\Downloads\AddExceptionHandling (1).py ====================
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 0
+you have  6 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+>>> 
+KeyboardInterrupt
+>>> 
+==================== RESTART: C:\Users\mjone\Downloads\AddExceptionHandling (1).py ====================
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 0
+you have  6 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+>>> 
+==================== RESTART: C:\Users\mjone\Downloads\EDIT AddExceptionHandling.py ===================
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: -1
+you have  6 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  armour
+
+>>> 
+==================== RESTART: C:\Users\mjone\Downloads\EDIT AddExceptionHandling.py ===================
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 199
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\EDIT AddExceptionHandling.py", line 68, in <module>
+    del inventory[itemToDelete]
+IndexError: list assignment index out of range
+>>> 
+==================== RESTART: C:\Users\mjone\Downloads\EDIT AddExceptionHandling.py ===================
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 1999
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\EDIT AddExceptionHandling.py", line 68, in <module>
+    del inventory[itemToDelete]
+IndexError: list assignment index out of range
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 199
+test
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 19
+Your input is not a valid entry
+list assignment index out of range
+Press enter to Quit
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 19
+Your input is not a valid entry
+
+" list assignment index out of range "
+
+Press enter to Quit
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 19
+Your input is not a valid entry
+
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\Program File, exception handling .py", line 82, in <module>
+    del inventory[itemToDelete]
+IndexError: list assignment index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mjone\Downloads\Program File, exception handling .py", line 85, in <module>
+    print("\"",e2+"\"")
+TypeError: unsupported operand type(s) for +: 'IndexError' and 'str'
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 19
+Your input is not a valid entry
+
+" list assignment index out of range "
+
+Press enter to Quit
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 19
+
+Your input is not a valid entry
+
+" list assignment index out of range "
+
+Press enter to Quit
+>>> 
+================ RESTART: C:\Users\mjone\Downloads\Program File, exception handling .py ===============
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 
+	
+
+Your entry is not a valid one
+
+" invalid literal for int() with base 10: '' "
+
+
+ Press enter to quit
+>>> 
+>>> 

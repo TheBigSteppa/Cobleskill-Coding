@@ -1,0 +1,307 @@
+Python 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+The list of unrandomized words
+	 This
+	 is
+	 the
+	 correct
+	 order
+This
+the
+correct
+order
+is
+>>> 
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+hi aaliyah
+None
+The list of unrandomized words
+	 This
+	 is
+	 the
+	 correct
+	 order
+order
+correct
+the
+is
+This
+>>> 
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+hi aaliyah
+None
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+The list of unrandomized words
+	 This
+	 is
+	 the
+	 correct
+	 order
+the
+order
+This
+is
+correct
+>>> 
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+The list of unrandomized words
+	 This
+	 is
+	 the
+	 correct
+	 order
+is
+the
+order
+This
+correct
+>>> 
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+The list of unrandomized words
+	 This
+	 is
+	 the
+	 correct
+	 order
+This
+correct
+order
+is
+the
+>>> 
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+
+
+Welcome to the random word generator
+this program will put a list of words in random order!
+without using the "random.choice()" function lol..
+
+
+
+
+None
+The list of unrandomized words
+	 This
+	 is
+	 the
+	 correct
+	 order
+order
+This
+the
+correct
+is
+>>> 
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+
+
+Welcome to the random word generator
+this program will put a list of words in random order!
+without using the "random.choice()" function lol..
+
+
+
+
+Press enter to get started!
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+
+
+		Welcome to the random word generator
+		this program will put a list of words in random order!
+		without using the "random.choice()" function lol..
+
+
+
+
+Press enter to get started!
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+
+
+	Welcome to the random word generator
+	this program will put a list of words in random order!
+	without using the "random.choice()" function lol..
+
+
+Press enter to get started!
+The list of unrandomized words
+	 This
+	 is
+	 the
+	 correct
+	 order
+This
+is
+the
+correct
+order
+>>> 
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+
+
+	Welcome to the random word generator
+	this program will put a list of words in random order!
+	without using the "random.choice()" function lol..
+
+
+Press enter to get started!
+
+The list of unrandomized words are:
+	 This
+	 is
+	 the
+	 correct
+	 order
+correct
+is
+the
+This
+order
+Thanks for playing, press enter to quit
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+
+
+	Welcome to the random word generator
+	this program will put a list of words in random order!
+	without using the "random.choice()" function lol..
+
+
+Press enter to get started!
+
+The list of unrandomized words are:
+	 This
+	 is
+	 the
+	 correct
+	 order
+Press enter to see the random words
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+
+
+	Welcome to the random word generator
+	this program will put a list of words in random order!
+	without using the "random.choice()" function lol..
+
+
+Press enter to get started!
+
+
+The list of unrandomized words are:
+	 This
+	 is
+	 the
+	 correct
+	 order
+Press enter to see the random words
+order
+correct
+the
+This
+is
+Thanks for playing, press enter to quit
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+
+
+	Welcome to the random word generator
+	this program will put a list of words in random order!
+	without using the "random.choice()" function lol..
+
+
+Press enter to get started!
+
+The list of unrandomized words are:
+	 This
+	 is
+	 the
+	 correct
+	 order
+
+Press enter to see the random words
+is
+This
+correct
+the
+order
+Thanks for playing, press enter to quit
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+
+
+	Welcome to the random word generator
+	this program will put a list of words in random order!
+	without using the "random.choice()" function lol..
+
+
+Press enter to get started!
+
+The list of unrandomized words are:
+	 This
+	 is
+	 the
+	 correct
+	 order
+
+Press enter to see the random words
+
+The randomized list of words are:
+correct
+order
+is
+This
+the
+Thanks for playing, press enter to quit
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+
+
+	Welcome to the random word generator
+	this program will put a list of words in random order!
+	without using the "random.choice()" function lol..
+
+
+Press enter to get started!
+
+The list of unrandomized words are:
+	 This
+	 is
+	 the
+	 correct
+	 order
+
+Press enter to see the random words
+
+The randomized list of words are:
+is
+This
+the
+order
+correct
+
+Thanks for playing, press enter to quit
+= RESTART: C:\Users\mjone\Documents\WORKING!!!! original while PROGRAM Python Chapter 5 challenege 1.py
+
+
+	Welcome to the random word generator
+	this program will put a list of words in random order!
+	without using the "random.choice()" function lol..
+
+
+Press enter to get started!
+
+The list of unrandomized words are:
+	 This
+	 is
+	 the
+	 correct
+	 order
+
+Press enter to see the random words
+
+The randomized list of words are:
+	 This
+	 correct
+	 order
+	 is
+	 the
+
+Thanks for playing, press enter to quit
+>>> 

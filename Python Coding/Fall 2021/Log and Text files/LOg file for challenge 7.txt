@@ -1,0 +1,271 @@
+Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=== RESTART: C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py ===
+unable to open file  InputForChapter7.txt 
+ending program.
+ [Errno 2] No such file or directory: 'InputForChapter7.txt'
+
+
+Press enter to exit
+>>> 
+========= RESTART: C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py =========
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 
+Traceback (most recent call last):
+  File "C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py", line 63, in <module>
+    itemToDelete = ask_for_an_item ("Enter the item number to be deleted: ")
+  File "C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py", line 28, in ask_for_an_item
+    response = int(input(question))
+KeyboardInterrupt
+>>> 
+========= RESTART: C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py =========
+unable to open the file  InputForChapte7.txt 
+Killing the program.
+ [Errno 2] No such file or directory: 'InputForChapte7.txt'
+
+
+Press enter to exit
+>>> 
+========= RESTART: C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py =========
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: c
+Traceback (most recent call last):
+  File "C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py", line 62, in <module>
+    itemToDelete = ask_for_an_item ("Enter the item number to be deleted: ")
+  File "C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py", line 28, in ask_for_an_item
+    response = int(input(question))
+ValueError: invalid literal for int() with base 10: 'c'
+>>> 
+========= RESTART: C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py =========
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: t
+blaw
+Traceback (most recent call last):
+  File "C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py", line 70, in <module>
+    itemToDelete -= 1
+TypeError: unsupported operand type(s) for -=: 'NoneType' and 'int'
+>>> 
+========= RESTART: C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py =========
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: g
+blaw
+>>> 
+========= RESTART: C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py =========
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: 4
+you have  6 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  shield
+
+	 5  -  boots
+
+	 6  -  armour
+
+>>> 
+========= RESTART: C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py =========
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: x
+blaw
+>>> 
+========= RESTART: C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py =========
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: t
+Traceback (most recent call last):
+  File "C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py", line 28, in ask_for_an_item
+    response = int(input(question))
+ValueError: invalid literal for int() with base 10: 't'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py", line 67, in <module>
+    itemToDelete = ask_for_an_item ("Enter the item number to be deleted: ")
+  File "C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py", line 30, in ask_for_an_item
+    print("Your entry", response," is not valid")
+UnboundLocalError: local variable 'response' referenced before assignment
+>>> 
+========= RESTART: C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py =========
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: s
+Your entry is not a valid one
+
+
+ Press enter to quit
+>>> 
+========= RESTART: C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py =========
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: f
+
+Your entry is not a valid one
+
+
+
+ Press enter to quit
+========= RESTART: C:\Users\mjone\Desktop\Python Temp\EDIT AddExceptionHandling.py =========
+you have  7 items
+inventory :
+	 1  -  sword
+
+	 2  -  gun
+
+	 3  -  tie
+
+	 4  -  healing potion
+
+	 5  -  shield
+
+	 6  -  boots
+
+	 7  -  armour
+
+Enter the item number to be deleted: f
+
+Your entry is not a valid one
+
+invalid literal for int() with base 10: 'f'
+
+
+ Press enter to quit
+>>> 

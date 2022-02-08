@@ -1,0 +1,2518 @@
+Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: cooperstown
+The jumble is: epotrcsnwoo
+
+Your guess: 
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 183, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 163, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 115, in keepPlaying
+    guess = ask_user("\nYour guess: ")
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 49, in ask_user
+    response = (input(Question))
+KeyboardInterrupt
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 191, in <module>
+    WORDS = listWords()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 77, in listWords
+    word = text_file.readline().replace("\n", "")
+NameError: name 'text_file' is not defined
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: oneonta
+The jumble is: noaotne
+
+Your guess: oneonta
+Ayeee you did it
+DEBUG:: ['cobleskill', 'middleburgh', 'richmondville', 'worcester', 'warnerville', 'albany', 'saratoga', 'cooperstown', 'schenevus']
+Would you like to contiune playing? y/n: y
+DEBUG:: middleburgh
+The jumble is: ddibhelgmru
+
+Your guess: middleburgh
+Ayeee you did it
+DEBUG:: ['cobleskill', 'richmondville', 'worcester', 'warnerville', 'albany', 'saratoga', 'cooperstown', 'schenevus']
+Would you like to contiune playing? y/n: y
+DEBUG:: worcester
+The jumble is: seterworc
+
+Your guess: worcester
+Ayeee you did it
+DEBUG:: ['cobleskill', 'richmondville', 'warnerville', 'albany', 'saratoga', 'cooperstown', 'schenevus']
+Would you like to contiune playing? y/n: n
+DEBUG:: ['cobleskill', 'richmondville', 'warnerville', 'albany', 'saratoga', 'cooperstown', 'schenevus']
+DEBUG:: ['cobleskill', 'richmondville', 'warnerville', 'albany', 'saratoga', 'cooperstown', 'schenevus']
+DEBUG:: ['cobleskill', 'richmondville', 'warnerville', 'albany', 'saratoga', 'cooperstown', 'schenevus']
+DEBUG:: ['cobleskill', 'richmondville', 'warnerville', 'albany', 'saratoga', 'cooperstown', 'schenevus']
+DEBUG:: ['cobleskill', 'richmondville', 'warnerville', 'albany', 'saratoga', 'cooperstown', 'schenevus']
+DEBUG:: ['cobleskill', 'richmondville', 'warnerville', 'albany', 'saratoga', 'cooperstown', 'schenevus']
+DEBUG:: ['cobleskill', 'richmondville', 'warnerville', 'albany', 'saratoga', 'cooperstown', 'schenevus']
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 191, in <module>
+    WORDS = listWords()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 93, in listWords
+    WORDS.append(word)
+NameError: name 'WORDS' is not defined
+>>> 
+KeyboardInterrupt
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: albany
+The jumble is: yanbal
+
+Your guess: 
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 195, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 175, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 127, in keepPlaying
+    guess = ask_user("\nYour guess: ")
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 49, in ask_user
+    response = (input(Question))
+KeyboardInterrupt
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: cooperstown
+The jumble is: enwotsocopr
+
+Your guess: 
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 144, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 124, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 97, in keepPlaying
+    guess = ask_user("\nYour guess: ")
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 49, in ask_user
+    response = (input(Question))
+KeyboardInterrupt
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: warnerville
+The jumble is: ilelarevnwr
+
+Your guess: warnerville
+Ayeee you did it
+DEBUG:: ['cobleskill', 'richmondville', 'albany', 'saratoga', 'cooperstown', 'schenevus']
+Would you like to contiune playing? y/n: y
+DEBUG:: saratoga
+The jumble is: ogtaraas
+
+Your guess: saratoga
+Ayeee you did it
+DEBUG:: ['cobleskill', 'richmondville', 'albany', 'cooperstown', 'schenevus']
+Would you like to contiune playing? y/n: n
+DEBUG:: ['cobleskill', 'richmondville', 'albany', 'cooperstown', 'schenevus']
+DEBUG:: ['cobleskill', 'richmondville', 'albany', 'cooperstown', 'schenevus']
+DEBUG:: ['cobleskill', 'richmondville', 'albany', 'cooperstown', 'schenevus']
+DEBUG:: ['cobleskill', 'richmondville', 'albany', 'cooperstown', 'schenevus']
+DEBUG:: ['cobleskill', 'richmondville', 'albany', 'cooperstown', 'schenevus']
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: albany
+The jumble is: yabnla
+
+Your guess: albany
+Ayeee you did it
+DEBUG:: ['cobleskill', 'richmondville', 'cooperstown', 'schenevus']
+Would you like to contiune playing? y/n: y
+DEBUG:: cobleskill
+The jumble is: loblleicks
+
+Your guess: cobleskill
+Ayeee you did it
+DEBUG:: ['richmondville', 'cooperstown', 'schenevus']
+Would you like to contiune playing? y/n: y
+DEBUG:: cooperstown
+The jumble is: ncotrspoweo
+
+Your guess: cooperstown
+Ayeee you did it
+DEBUG:: ['richmondville', 'schenevus']
+Would you like to contiune playing? y/n: y
+DEBUG:: richmondville
+The jumble is: iollhvinredcm
+
+Your guess: richmondville
+Ayeee you did it
+DEBUG:: ['schenevus']
+Would you like to contiune playing? y/n: y
+DEBUG:: schenevus
+The jumble is: uvssnceeh
+
+Your guess: schenevus
+Ayeee you did it
+DEBUG:: []
+all done
+Would you like to contiune playing? y/n: y
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 100, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 85, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 52, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: cooperstown
+The jumble is: oeoptnrcwso
+
+Your guess: cooperstown
+Ayeee you did it
+DEBUG:: ['cobleskill', 'richmondville', 'albany', 'schenevus']
+Would you like to contiune playing? y/n: y
+DEBUG:: albany
+The jumble is: nyblaa
+
+Your guess: albany
+Ayeee you did it
+DEBUG:: ['cobleskill', 'richmondville', 'schenevus']
+Would you like to contiune playing? y/n: y
+DEBUG:: schenevus
+The jumble is: nceeushvs
+
+Your guess: schenevus
+Ayeee you did it
+DEBUG:: ['cobleskill', 'richmondville']
+Would you like to contiune playing? y/n: y
+DEBUG:: cobleskill
+The jumble is: llicebolks
+
+Your guess: cobleskill
+Ayeee you did it
+DEBUG:: ['richmondville']
+Would you like to contiune playing? y/n: y
+DEBUG:: richmondville
+The jumble is: rchmellinviod
+
+Your guess: richmondville
+Ayeee you did it
+DEBUG:: []
+all done
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 101, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 86, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 52, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: schenevus
+The jumble is: eueshvsnc
+
+Your guess: schenevus
+Ayeee you did it
+DEBUG:: ['cobleskill', 'richmondville', 'albany', 'cooperstown']
+all done
+DEBUG:: albany
+The jumble is: alnyab
+
+Your guess: albany
+Ayeee you did it
+DEBUG:: ['cobleskill', 'richmondville', 'cooperstown']
+all done
+DEBUG:: richmondville
+The jumble is: nvcrldloehmii
+
+Your guess: 
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 101, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 86, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 62, in keepPlaying
+    guess = ask_user("\nYour guess: ")
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 24, in ask_user
+    response = (input(Question))
+KeyboardInterrupt
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: albany
+The jumble is: lanbya
+
+Your guess: 
+	File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 24, in ask_user
+Yeah... no, try again
+Your guess: Yeah... no, try again
+Your guess: 
+Yeah... no, try again
+Your guess: 
+Yeah... no, try again
+Your guess: albany
+Ayeee you did it
+DEBUG:: []
+all done
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 101, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 86, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 52, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: albany
+The jumble is: yabnla
+
+Your guess: albany
+Ayeee you did it
+DEBUG:: []
+all done
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 101, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 86, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 52, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: albany
+The jumble is: naalyb
+
+Your guess: albany
+Ayeee you did it
+DEBUG:: []
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 101, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 86, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 52, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: albany
+The jumble is: alynba
+
+Your guess: albany
+Ayeee you did it
+DEBUG:: []
+all done
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 101, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 86, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 52, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: albany
+The jumble is: aynlba
+
+Your guess: albany
+Ayeee you did it
+DEBUG:: []
+all done
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 102, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 87, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 52, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: albany
+The jumble is: aaynbl
+
+Your guess: albany
+Ayeee you did it
+DEBUG:: []
+all done
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 102, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 87, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 52, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+====== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py =====
+DEBUG:: albany
+The jumble is: ylaabn
+
+Your guess: albany
+Ayeee you did it
+DEBUG:: []
+all done
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 102, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 87, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 52, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+DEBUG:: albany
+The jumble is: banyla
+
+Your guess: albany
+Ayeee you did it
+DEBUG:: []
+all done
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 102, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 87, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 52, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+DEBUG:: albany
+The jumble is: bnyala
+
+Your guess: albany
+Ayeee you did it
+DEBUG:: []
+all done
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+DEBUG:: albany
+The jumble is: aylanb
+
+Your guess: albany
+Ayeee you did it
+DEBUG:: []
+Congrats you've finished all the words!!!
+Thanks for playing!!! have a wonderful Christmas!!
+Press ENTER to quit
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+DEBUG:: albany
+The jumble is: nblaya
+
+Your guess: albany
+Ayeee you did it
+DEBUG:: []
+Congrats you've finished all the words!!!
+Thanks for playing!!! have a wonderful Christmas!!
+Press ENTER to quit
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+GoodLuck!!!
+DEBUG:: albany
+The jumble is: ynlaba
+
+Your guess: 
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 134, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 119, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 92, in keepPlaying
+    guess = ask_user("\nYour guess: ")
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 24, in ask_user
+    response = (input(Question))
+KeyboardInterrupt
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 136, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 118, in main
+    welcome()
+NameError: name 'welcome' is not defined
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+			By: Mark Fraser
+
+
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 136, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 119, in main
+    instruct()
+NameError: name 'instruct' is not defined
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+DEBUG:: albany
+The jumble is: lanyba
+
+Your guess: 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+The jumble is: laaybn
+
+Your guess: albany
+Ayeee you did it
+Congrats you've finished all the words!!!
+Thanks for playing!!! have a wonderful Christmas!!
+Press ENTER to quit
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+The jumble is: ynblaa
+
+Your guess: albany
+Ayeee you did it
+
+Congrats you've finished all the words!!!
+Thanks for playing!!! have a wonderful Christmas!!
+
+
+Press ENTER to quit
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+The jumble is: nyaalb
+
+Your guess: albany
+Ayeee you did it
+
+Congrats you've finished all the words!!!
+Thanks for playing!!! You have earned yourself a bottle of whiskey
+
+
+                                                                                                                    
+                              ░░▓▓██▓▓           
+                              ░░▓▓▓▓▓▓         
+                              ░░████▓▓         
+                            ▓▓▓▓▒▒██▓▓██       
+                                ▓▓▓▓▓▓                                                                       
+                              ░░▓▓░░▓▓           
+                            ▓▓██▓▓▓▓██▓▓       
+                            ▓▓▓▓▓▓▒▒▒▒██      
+                            ▓▓▓▓▓▓▒▒░░██      
+                            ░░░░▓▓▒▒▓▓░░                
+                            ▓▓▓▓▒▒▒▒▒▒██      
+                          ▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓    
+                        ░░▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓░░  
+                        ▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    
+                        ██▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██                     
+                        ▓▓▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██    
+                        ██▒▒▓▓▒▒▒▒▒▒▒▒▓▓▒▒██  
+                        ████▓▓▓▓▓▓██▓▓▓▓▓▓▓▓  
+                        ████░░░░░░░░░░░░████    
+                        ██░░▓▓██████████▒▒██  
+  ██████████████████    ██████▓▓░░░░░░████▓▓  
+  ██            ░░██    ██████▓▓██████▓▓▓▓██  
+  ██      ░░      ██    ██▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓██  
+  ██      ░░░░  ░░██    ████░░░░░░░░░░▒▒████   
+  ██▒▒▒▒▒▒▒▒░░▒▒▒▒██    ████████▓▓██████████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ████▒▒░░░░░░▒▒▒▒████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ██▓▓▓▓▓▓▓▓▒▒▒▒▒▒▓▓██     
+    ██████▓▓▓▓██▓▓        ████▓▓██████████       
+                                
+                                                                                                                    
+                                                                                                            
+
+
+
+
+Press ENTER to quit and have a great Christmas!
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+that the computer chooses randomly from a file.
+GoodLuck!!!
+
+The jumble is: alybna
+
+Your guess: albany
+Ayeee you did it
+
+Congrats you've finished all the words!!!
+Thanks for playing!!! You have earned yourself a bottle of whiskey
+
+
+                                                                                                                    
+                              ░░▓▓██▓▓           
+                              ░░▓▓▓▓▓▓         
+                              ░░████▓▓         
+                            ▓▓▓▓▒▒██▓▓██       
+                                ▓▓▓▓▓▓                                                                       
+                              ░░▓▓░░▓▓           
+                            ▓▓██▓▓▓▓██▓▓       
+                            ▓▓▓▓▓▓▒▒▒▒██      
+                            ▓▓▓▓▓▓▒▒░░██      
+                            ░░░░▓▓▒▒▓▓░░                
+                            ▓▓▓▓▒▒▒▒▒▒██      
+                          ▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓    
+                        ░░▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓░░  
+                        ▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    
+                        ██▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██                     
+                        ▓▓▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██    
+                        ██▒▒▓▓▒▒▒▒▒▒▒▒▓▓▒▒██  
+                        ████▓▓▓▓▓▓██▓▓▓▓▓▓▓▓  
+                        ████░░░░░░░░░░░░████    
+                        ██░░▓▓██████████▒▒██  
+  ██████████████████    ██████▓▓░░░░░░████▓▓  
+  ██            ░░██    ██████▓▓██████▓▓▓▓██  
+  ██      ░░      ██    ██▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓██  
+  ██      ░░░░  ░░██    ████░░░░░░░░░░▒▒████   
+  ██▒▒▒▒▒▒▒▒░░▒▒▒▒██    ████████▓▓██████████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ████▒▒░░░░░░▒▒▒▒████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ██▓▓▓▓▓▓▓▓▒▒▒▒▒▒▓▓██     
+    ██████▓▓▓▓██▓▓        ████▓▓██████████       
+                                
+                                                                                                                    
+                                                                                                            
+
+
+
+
+Press ENTER to quit and have a great Christmas!
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+The jumble is: yalnba
+
+Your guess: 
+Yeah... no, try again
+Your guess: 
+Yeah... no, try again
+Your guess: d
+Yeah... no, try again
+Your guess: f
+Yeah... no, try again
+Your guess: d
+Yeah... no, try again
+Your guess: albany
+Ayeee you did it
+
+Congrats you've finished all the words!!!
+Thanks for playing!!! You have earned yourself a bottle of whiskey
+
+
+                                                                                                                    
+                              ░░▓▓██▓▓           
+                              ░░▓▓▓▓▓▓         
+                              ░░████▓▓         
+                            ▓▓▓▓▒▒██▓▓██       
+                                ▓▓▓▓▓▓                                                                       
+                              ░░▓▓░░▓▓           
+                            ▓▓██▓▓▓▓██▓▓       
+                            ▓▓▓▓▓▓▒▒▒▒██      
+                            ▓▓▓▓▓▓▒▒░░██      
+                            ░░░░▓▓▒▒▓▓░░                
+                            ▓▓▓▓▒▒▒▒▒▒██      
+                          ▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓    
+                        ░░▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓░░  
+                        ▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    
+                        ██▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██                     
+                        ▓▓▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██    
+                        ██▒▒▓▓▒▒▒▒▒▒▒▒▓▓▒▒██  
+                        ████▓▓▓▓▓▓██▓▓▓▓▓▓▓▓  
+                        ████░░░░░░░░░░░░████    
+                        ██░░▓▓██████████▒▒██  
+  ██████████████████    ██████▓▓░░░░░░████▓▓  
+  ██            ░░██    ██████▓▓██████▓▓▓▓██  
+  ██      ░░      ██    ██▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓██  
+  ██      ░░░░  ░░██    ████░░░░░░░░░░▒▒████   
+  ██▒▒▒▒▒▒▒▒░░▒▒▒▒██    ████████▓▓██████████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ████▒▒░░░░░░▒▒▒▒████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ██▓▓▓▓▓▓▓▓▒▒▒▒▒▒▓▓██     
+    ██████▓▓▓▓██▓▓        ████▓▓██████████       
+                                
+                                                                                                                    
+                                                                                                            
+
+
+
+
+Press ENTER to quit and have a great Christmas!
+>>> 
+\========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+DEBUG:: schenevus
+The jumble is: nsvescueh
+
+Your guess: schenevus
+Ayeee you did it
+Would you like to contiune playing? y/n: y
+DEBUG:: albany
+The jumble is: lbayan
+
+Your guess: 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+DEBUG:: schenevus
+The jumble is: usvscehen
+
+Your guess: schenevua
+Yeah... no, try again
+Your guess: 
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 172, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 157, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 95, in keepPlaying
+    guess = ask_user("Your guess: ")
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 24, in ask_user
+    response = (input(Question))
+KeyboardInterrupt
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+DEBUG:: albany
+The jumble is: lynaab
+
+Your guess: albany
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: richmondville
+The jumble is: vlelodhcrinim
+
+Your guess: 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 173, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 158, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 78, in keepPlaying
+    print("GoodLuck!!!\n")
+UnboundLocalError: local variable 'print' referenced before assignment
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+DEBUG:: schenevus
+The jumble is: nshvceeus
+
+Your guess: schenevus
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: warnerville
+The jumble is: lrvrwelneai
+
+Your guess: warnerville
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: cobleskill
+The jumble is: ieklolcbls
+
+Your guess: cobleskill
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: n
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+DEBUG:: richmondville
+The jumble is: nloichlvedirm
+
+Your guess: richmondville
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: n
+OK =( I saved your progress so you may continue when you get back =)
+Press enter to be a quitter
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+DEBUG:: oneonta
+The jumble is: nooaent
+
+Your guess: oneonta
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: n
+
+OK =( I saved your progress so you may continue when you get back =)
+
+Press enter to be a quitter
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+DEBUG:: worcester
+The jumble is: serwetorc
+
+Your guess: worcester
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: middleburgh
+The jumble is: urdgeldibmh
+
+Your guess: middleburgh
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: saratoga
+The jumble is: rsaoatag
+
+Your guess: saratoga
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: cooperstown
+The jumble is: oepornsowtc
+
+Your guess: cooperstown
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: albany
+The jumble is: naaylb
+
+Your guess: albany
+
+Ayeee you did it
+
+
+Congrats you've finished all the words!!!
+Thanks for playing!!! You have earned yourself a bottle of whiskey
+
+
+                                                                                                                    
+                              ░░▓▓██▓▓           
+                              ░░▓▓▓▓▓▓         
+                              ░░████▓▓         
+                            ▓▓▓▓▒▒██▓▓██       
+                                ▓▓▓▓▓▓                                                                       
+                              ░░▓▓░░▓▓           
+                            ▓▓██▓▓▓▓██▓▓       
+                            ▓▓▓▓▓▓▒▒▒▒██      
+                            ▓▓▓▓▓▓▒▒░░██      
+                            ░░░░▓▓▒▒▓▓░░                
+                            ▓▓▓▓▒▒▒▒▒▒██      
+                          ▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓    
+                        ░░▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓░░  
+                        ▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    
+                        ██▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██                     
+                        ▓▓▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██    
+                        ██▒▒▓▓▒▒▒▒▒▒▒▒▓▓▒▒██  
+                        ████▓▓▓▓▓▓██▓▓▓▓▓▓▓▓  
+                        ████░░░░░░░░░░░░████    
+                        ██░░▓▓██████████▒▒██  
+  ██████████████████    ██████▓▓░░░░░░████▓▓  
+  ██            ░░██    ██████▓▓██████▓▓▓▓██  
+  ██      ░░      ██    ██▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓██  
+  ██      ░░░░  ░░██    ████░░░░░░░░░░▒▒████   
+  ██▒▒▒▒▒▒▒▒░░▒▒▒▒██    ████████▓▓██████████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ████▒▒░░░░░░▒▒▒▒████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ██▓▓▓▓▓▓▓▓▒▒▒▒▒▒▓▓██     
+    ██████▓▓▓▓██▓▓        ████▓▓██████████       
+                                
+                                                                                                                    
+                                                                                                            
+
+
+
+
+Press ENTER to quit and have a great Christmas!
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+DEBUG:: saratoga
+The jumble is: rotaagsa
+
+Your guess: saratoga
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: middleburgh
+The jumble is: buemlrdghid
+
+Your guess: middleburgh
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: albany
+The jumble is: abnayl
+
+Your guess: albany
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: cooperstown
+The jumble is: ptswroncoeo
+
+Your guess: cooperstown
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: worcester
+The jumble is: ecowrrest
+
+Your guess: worcester
+
+Ayeee you did it
+
+
+Congrats you've finished all the words!!!
+Thanks for playing!!! You have earned yourself a bottle of whiskey
+
+
+                                                                                                                    
+                              ░░▓▓██▓▓           
+                              ░░▓▓▓▓▓▓         
+                              ░░████▓▓         
+                            ▓▓▓▓▒▒██▓▓██       
+                                ▓▓▓▓▓▓                                                                       
+                              ░░▓▓░░▓▓           
+                            ▓▓██▓▓▓▓██▓▓       
+                            ▓▓▓▓▓▓▒▒▒▒██      
+                            ▓▓▓▓▓▓▒▒░░██      
+                            ░░░░▓▓▒▒▓▓░░                
+                            ▓▓▓▓▒▒▒▒▒▒██      
+                          ▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓    
+                        ░░▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓░░  
+                        ▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    
+                        ██▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██                     
+                        ▓▓▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██    
+                        ██▒▒▓▓▒▒▒▒▒▒▒▒▓▓▒▒██  
+                        ████▓▓▓▓▓▓██▓▓▓▓▓▓▓▓  
+                        ████░░░░░░░░░░░░████    
+                        ██░░▓▓██████████▒▒██  
+  ██████████████████    ██████▓▓░░░░░░████▓▓  
+  ██            ░░██    ██████▓▓██████▓▓▓▓██  
+  ██      ░░      ██    ██▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓██  
+  ██      ░░░░  ░░██    ████░░░░░░░░░░▒▒████   
+  ██▒▒▒▒▒▒▒▒░░▒▒▒▒██    ████████▓▓██████████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ████▒▒░░░░░░▒▒▒▒████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ██▓▓▓▓▓▓▓▓▒▒▒▒▒▒▓▓██     
+    ██████▓▓▓▓██▓▓        ████▓▓██████████       
+                                
+                                                                                                                    
+                                                                                                            
+
+
+
+
+Press ENTER to quit and have a great Christmas!
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+DEBUG:: middleburgh
+The jumble is: bgrmlduhdei
+
+Your guess: 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+DEBUG:: albany
+The jumble is: abynla
+
+Your guess: albany
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: cooperstown
+The jumble is: poctoseronw
+
+Your guess: cooperstown
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: middleburgh
+The jumble is: gbdmhlerudi
+
+Your guess: middleburgh
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: saratoga
+The jumble is: rasaatog
+
+Your guess: saratoga
+
+Ayeee you did it
+
+Would you like to contiune playing? y/n: y
+DEBUG:: worcester
+The jumble is: trsrweceo
+
+Your guess: worcester
+
+Ayeee you did it
+
+
+Congrats you've finished all the words!!!
+Thanks for playing!!! You have earned yourself a bottle of whiskey
+
+
+                                                                                                                    
+                              ░░▓▓██▓▓           
+                              ░░▓▓▓▓▓▓         
+                              ░░████▓▓         
+                            ▓▓▓▓▒▒██▓▓██       
+                                ▓▓▓▓▓▓                                                                       
+                              ░░▓▓░░▓▓           
+                            ▓▓██▓▓▓▓██▓▓       
+                            ▓▓▓▓▓▓▒▒▒▒██      
+                            ▓▓▓▓▓▓▒▒░░██      
+                            ░░░░▓▓▒▒▓▓░░                
+                            ▓▓▓▓▒▒▒▒▒▒██      
+                          ▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓    
+                        ░░▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓░░  
+                        ▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    
+                        ██▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██                     
+                        ▓▓▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██    
+                        ██▒▒▓▓▒▒▒▒▒▒▒▒▓▓▒▒██  
+                        ████▓▓▓▓▓▓██▓▓▓▓▓▓▓▓  
+                        ████░░░░░░░░░░░░████    
+                        ██░░▓▓██████████▒▒██  
+  ██████████████████    ██████▓▓░░░░░░████▓▓  
+  ██            ░░██    ██████▓▓██████▓▓▓▓██  
+  ██      ░░      ██    ██▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓██  
+  ██      ░░░░  ░░██    ████░░░░░░░░░░▒▒████   
+  ██▒▒▒▒▒▒▒▒░░▒▒▒▒██    ████████▓▓██████████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ████▒▒░░░░░░▒▒▒▒████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ██▓▓▓▓▓▓▓▓▒▒▒▒▒▒▓▓██     
+    ██████▓▓▓▓██▓▓        ████▓▓██████████       
+                                
+                                                                                                                    
+                                                                                                            
+
+
+
+
+Press ENTER to quit and have a great Christmas!
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 180, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 165, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 84, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 182, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 167, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 86, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 182, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 167, in main
+    keepPlaying(WORDS)
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 86, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 182, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 167, in main
+    keepPlaying(WORDS)
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 86, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 182, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 167, in main
+    keepPlaying(WORDS)
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 86, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 180, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 165, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 84, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+DEBUG:: albany
+The jumble is: byaaln
+
+Your guess: albany
+
+Ayeee you did it
+
+
+Congrats you've finished all the words!!!
+Thanks for playing!!! You have earned yourself a bottle of whiskey
+
+
+                                                                                                                    
+                              ░░▓▓██▓▓           
+                              ░░▓▓▓▓▓▓         
+                              ░░████▓▓         
+                            ▓▓▓▓▒▒██▓▓██       
+                                ▓▓▓▓▓▓                                                                       
+                              ░░▓▓░░▓▓           
+                            ▓▓██▓▓▓▓██▓▓       
+                            ▓▓▓▓▓▓▒▒▒▒██      
+                            ▓▓▓▓▓▓▒▒░░██      
+                            ░░░░▓▓▒▒▓▓░░                
+                            ▓▓▓▓▒▒▒▒▒▒██      
+                          ▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓    
+                        ░░▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓░░  
+                        ▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    
+                        ██▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██                     
+                        ▓▓▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██    
+                        ██▒▒▓▓▒▒▒▒▒▒▒▒▓▓▒▒██  
+                        ████▓▓▓▓▓▓██▓▓▓▓▓▓▓▓  
+                        ████░░░░░░░░░░░░████    
+                        ██░░▓▓██████████▒▒██  
+  ██████████████████    ██████▓▓░░░░░░████▓▓  
+  ██            ░░██    ██████▓▓██████▓▓▓▓██  
+  ██      ░░      ██    ██▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓██  
+  ██      ░░░░  ░░██    ████░░░░░░░░░░▒▒████   
+  ██▒▒▒▒▒▒▒▒░░▒▒▒▒██    ████████▓▓██████████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ████▒▒░░░░░░▒▒▒▒████   
+  ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ██▓▓▓▓▓▓▓▓▒▒▒▒▒▒▓▓██     
+    ██████▓▓▓▓██▓▓        ████▓▓██████████       
+                                
+                                                                                                                    
+                                                                                                            
+
+
+
+
+Press ENTER to quit and have a great Christmas!
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 187, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 172, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 90, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 186, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 171, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 89, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 186, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 171, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 89, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 186, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 171, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 89, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+Traceback (most recent call last):
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 187, in <module>
+    main()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 172, in main
+    keepPlaying()
+  File "C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py", line 90, in keepPlaying
+    word = random.choice(WORDS)
+  File "C:\Users\mjone\AppData\Local\Programs\Python\Python39\lib\random.py", line 346, in choice
+    return seq[self._randbelow(len(seq))]
+IndexError: list index out of range
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+check your word file, it may be blank
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+check your .txt file, it may be blank
+list index out of range
+press enter to quit
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+
+check your .txt file, it may be blank
+
+list index out of range
+
+press enter to quit
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+
+check your .txt file, it may be blank
+
+" list index out of range "
+
+press enter to quit
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+
+check your .txt file, it may be blank
+
+"list index out of range"
+
+press enter to quit
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+DEBUG:: albany
+The jumble is: nabaly
+
+Your guess: albany
+
+Ayeee you did it
+
+
+Congrats you've finished all the words!!!
+Thanks for playing!!! You have earned yourself a bottle of whiskey
+
+
+                                                                                                                        
+                                  ░░▓▓██▓▓           
+                                  ░░▓▓▓▓▓▓         
+                                  ░░████▓▓         
+                                ▓▓▓▓▒▒██▓▓██       
+                                    ▓▓▓▓▓▓                                                                       
+                                  ░░▓▓░░▓▓           
+                                ▓▓██▓▓▓▓██▓▓       
+                                ▓▓▓▓▓▓▒▒▒▒██      
+                                ▓▓▓▓▓▓▒▒░░██      
+                                ░░░░▓▓▒▒▓▓░░                
+                                ▓▓▓▓▒▒▒▒▒▒██      
+                              ▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓    
+                            ░░▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓░░  
+                            ▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    
+                            ██▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██                     
+                            ▓▓▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██    
+                            ██▒▒▓▓▒▒▒▒▒▒▒▒▓▓▒▒██  
+                            ████▓▓▓▓▓▓██▓▓▓▓▓▓▓▓  
+                            ████░░░░░░░░░░░░████    
+                            ██░░▓▓██████████▒▒██  
+      ██████████████████    ██████▓▓░░░░░░████▓▓  
+      ██            ░░██    ██████▓▓██████▓▓▓▓██  
+      ██      ░░      ██    ██▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓██  
+      ██      ░░░░  ░░██    ████░░░░░░░░░░▒▒████   
+      ██▒▒▒▒▒▒▒▒░░▒▒▒▒██    ████████▓▓██████████   
+      ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ████▒▒░░░░░░▒▒▒▒████   
+      ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ██▓▓▓▓▓▓▓▓▒▒▒▒▒▒▓▓██     
+        ██████▓▓▓▓██▓▓        ████▓▓██████████       
+                                    
+                                                                                                                        
+                                                                                                                
+
+    
+
+
+Press ENTER to quit and have a great Christmas!
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+
+check your .txt file, it may be blank
+
+"list index out of range"
+
+press enter to quit
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+The jumble is: lbyaan
+
+Your guess: yerr
+Yeah... no, try again
+Your guess: albany
+
+Ayeee you did it
+
+
+Congrats you've finished all the words!!!
+Thanks for playing!!! You have earned yourself a bottle of whiskey
+
+
+                                                                                                                        
+                                  ░░▓▓██▓▓           
+                                  ░░▓▓▓▓▓▓         
+                                  ░░████▓▓         
+                                ▓▓▓▓▒▒██▓▓██       
+                                    ▓▓▓▓▓▓                                                                       
+                                  ░░▓▓░░▓▓           
+                                ▓▓██▓▓▓▓██▓▓       
+                                ▓▓▓▓▓▓▒▒▒▒██      
+                                ▓▓▓▓▓▓▒▒░░██      
+                                ░░░░▓▓▒▒▓▓░░                
+                                ▓▓▓▓▒▒▒▒▒▒██      
+                              ▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓    
+                            ░░▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓░░  
+                            ▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    
+                            ██▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██                     
+                            ▓▓▓▓▓▓▒▒▒▒▒▒▓▓▓▓▒▒██    
+                            ██▒▒▓▓▒▒▒▒▒▒▒▒▓▓▒▒██  
+                            ████▓▓▓▓▓▓██▓▓▓▓▓▓▓▓  
+                            ████░░░░░░░░░░░░████    
+                            ██░░▓▓██████████▒▒██  
+      ██████████████████    ██████▓▓░░░░░░████▓▓  
+      ██            ░░██    ██████▓▓██████▓▓▓▓██  
+      ██      ░░      ██    ██▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓██  
+      ██      ░░░░  ░░██    ████░░░░░░░░░░▒▒████   
+      ██▒▒▒▒▒▒▒▒░░▒▒▒▒██    ████████▓▓██████████   
+      ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ████▒▒░░░░░░▒▒▒▒████   
+      ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██    ██▓▓▓▓▓▓▓▓▒▒▒▒▒▒▓▓██     
+        ██████▓▓▓▓██▓▓        ████▓▓██████████       
+                                    
+                                                                                                                        
+                                                                                                                
+
+    
+
+
+Press ENTER to quit and have a great Christmas!
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+
+check your .txt file, it may be blank
+
+"list index out of range"
+
+press enter to quit
+>>> 
+========================================================================================================== RESTART: C:/Users/mjone/OneDrive/Python challenge 10/ghjwdaghjkf.py ==========================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+
+check your .txt file, it may be blank
+
+"list index out of range"
+
+press enter to quit
+==================================================================================================== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\FINISHED word jumble V2 .py ===================================================================================================
+
+                U  ___ u   ____     ____            _      _   _   __  __     ____     _     U _____ u 
+ __        __    \/"_ \/U |  _"\ u |  _"\        U |"| uU |"|u| |U|' \/ '|uU | __")u  |"|    \| ___"|/ 
+ "\      /"/    | | | | \| |_) |//| | | |      _ \| |/  \| |\| |\| |\/| |/ \|  _ \/U | | u   |  _|"   
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\    | |_| |_,-.| |_| | | |  | |   | |_) | \| |/__  | |___   
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u     \___/-(_/<<\___/  |_|  |_|   |____/   |_____| |_____|  
+.-,_\ /\ /_,-.     \     //   \_  |||_         _//    (__) )(  <<,-,,-.   _|| \_   //  \  <<   >>  
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)       (__)        (__)  (./  \.) (__) (__) (_")("_)(__) (__) 
+
+
+				By: Mark Fraser
+
+
+
+
+
+			The goal of this game is to guess the jumbled word
+			that the computer chooses randomly from a file.
+			Those who complete the list get a
+			COMPLEMENTARY BOTTLE OF WHISKEY!!!!!!
+
+			there are 10 words in total and the topic is:
+
+					Upstate New York
+
+			 Press enter when you are ready to play.
+
+
+GoodLuck!!!
+
+
+check your .txt file, it may be blank
+
+"list index out of range"
+
+press enter to quit

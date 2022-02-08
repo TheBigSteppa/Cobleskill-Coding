@@ -1,0 +1,454 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 20:34:20) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 11
+
+Now, enter your ending NUMBER. 1
+
+No breaking the program, START OVER!
+Traceback (most recent call last):
+  File "C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py", line 39, in <module>
+    for i in range(numStart, numEnd, numInterval):
+TypeError: 'str' object cannot be interpreted as an integer
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 11
+
+Now, enter your ending NUMBER. 1
+
+No breaking the program, START OVER!
+
+Thanks for playing! Enter to quit
+
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 1
+
+Now, enter your ending NUMBER. 11
+
+Finally, How would you like to count? 1
+
+So, your Starting point is 1, your ending point is 11, and how you would like to count is by 1s.
+ Press enter to get started.
+
+1 2 3 4 5 6 7 8 9 10 
+Thanks for playing! Enter to quit
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 1
+
+Now, enter your ending NUMBER. 1
+
+No breaking the program, START OVER!
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 1
+
+Now, enter your ending NUMBER. 20
+
+Finally, How would you like to count? -2
+
+So, your Starting point is 1, your ending point is 20, and how you would like to count is by -2s.
+ Press enter to get started.
+
+lol
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 1
+
+Now, enter your ending NUMBER. 10
+
+Finally, How would you like to count? -2
+
+So, your Starting point is 1, your ending point is 10, and how you would like to count is by -2s.
+ Press enter to get started.
+
+108642
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 
+Traceback (most recent call last):
+  File "C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py", line 28, in <module>
+    numStart = int(input("\nEnter your starting NUMBER. "))
+ValueError: invalid literal for int() with base 10: ''
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+ 
+>>> 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 1
+
+Now, enter your ending NUMBER. 200
+
+Finally, How would you like to count? -5
+
+So, your Starting point is 1, your ending point is 200, and how you would like to count is by -5s.
+ Press enter to get started.
+
+200 195 190 185 180 175 170 165 160 155 150 145 140 135 130 125 120 115 110 105 100 95 90 85 80 75 70 65 60 55 50 45 40 35 30 25 20 15 10 5 
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+ 
+>>> 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 0
+
+Now, enter your ending NUMBER. 0
+
+No breaking the program, START OVER!
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. -2
+
+Now, enter your ending NUMBER. -100
+
+No breaking the program, START OVER!
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 10
+
+Now, enter your ending NUMBER. 80
+
+Finally, How would you like to count? -2
+
+So, your Starting point is 10, your ending point is 80, and how you would like to count is by -2s.
+ Press enter to get started.
+
+80 78 76 74 72 70 68 66 64 62 60 58 56 54 52 50 48 46 44 42 40 38 36 34 32 30 28 26 24 22 20 18 16 14 12 
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your starting NUMBER. 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your 1st NUMBER here. 50
+
+Now, enter your 2nd NUMBER here(make it lower than your first). 2
+
+No breaking the program, START OVER!
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your 1st NUMBER here. 50
+
+Now, enter your 2nd NUMBER here (make it higer than your first). 100
+
+Finally, How would you like to count?
+(P.S. use a negative num to count backwards) -5
+
+So, your Starting point is 50, your ending point is 100, and how you would like to count is by -5s.
+ Press enter to get started.
+
+100 95 90 85 80 75 70 65 60 55 
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+Traceback (most recent call last):
+  File "C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py", line 19, in <module>
+    print(input("This is a program that'll count for youuu \nbased on the numbers that YOUUU enter!\nPress enter to get started"))
+KeyboardInterrupt
+>>> 
+ RESTART: C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py 
+
+
+
+░█████╗░░█████╗░██╗░░░██╗███╗░░██╗████████╗███████╗██████╗░░░░██████╗░██╗░░░██╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔══██╗░░░██╔══██╗╚██╗░██╔╝
+██║░░╚═╝██║░░██║██║░░░██║██╔██╗██║░░░██║░░░█████╗░░██████╔╝░░░██████╔╝░╚████╔╝░
+██║░░██╗██║░░██║██║░░░██║██║╚████║░░░██║░░░██╔══╝░░██╔══██╗░░░██╔═══╝░░░╚██╔╝░░
+╚█████╔╝╚█████╔╝╚██████╔╝██║░╚███║░░░██║░░░███████╗██║░░██║██╗██║░░░░░░░░██║░░░
+░╚════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░░░░░░░╚═╝░░░
+
+By: Mark Fraser
+
+
+This is a program that'll count for youuu 
+based on the numbers that YOUUU enter!
+Press enter to get started
+
+
+Enter your 1st NUMBER here. 20
+Traceback (most recent call last):
+  File "C:\Users\fraserm976\Downloads\PROGRAM Chapter 4 Challenge 1 COUNTER.py", line 28, in <module>
+    numStart = int(input("\nEnter your 1st NUMBER here. "))
+KeyboardInterrupt
+>>> 

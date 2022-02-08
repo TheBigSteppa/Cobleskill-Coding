@@ -1,0 +1,3633 @@
+Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark !
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+So mark This tool will help you figure out 
+The extra fees associated with your car purchase.
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+So mark This tool will help you figure out 
+The extra fees associated with your car purchase.
+the fees associated with your car purchase are the following
+
+ Taxes (NY sales tax for a car purchase is about 4%
+            Registration
+            license
+            dealer fees
+            destination charge
+            and your extended warranty!!
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all
+      The extra fees associated with your car purchase.
+the fees associated with your car purchase are the following
+
+		Taxes (NY sales tax for a car purchase is about 4%
+            Registration
+            license
+            dealer fees
+            destination charge
+            and your extended warranty!!
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all
+      The extra fees associated with your car purchase.
+the fees associated with your car purchase are the following
+
+	\Taxes (NY sales tax for a car purchase is about 4%
+            Registration
+            license
+            dealer fees
+            destination charge
+            and your extended warranty!!
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all
+      The extra fees associated with your car purchase.
+the fees associated with your car purchase are the following
+
+	   Taxes (NY sales tax for a car purchase is about 4%
+            Registration
+            license
+            dealer fees
+            destination charge
+            and your extended warranty!!
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all
+      The extra fees associated with your car purchase.
+the fees associated with your car purchase are the following
+
+	    Taxes (NY sales tax for a car purchase is about 4%
+            Registration
+            license
+            dealer fees
+            destination charge
+            and your extended warranty!!
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all
+      The extra fees associated with your car purchase.
+the fees are the following
+
+	    Taxes (NY sales tax for a car purchase is about 4%
+            Registration
+            license
+            dealer fees
+            destination charge
+            and your extended warranty!!
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The extra fees associated with your car purchase.
+the fees are the following
+
+	    Taxes (NY sales tax for a car purchase is about 4%
+            Registration
+            license
+            dealer fees
+            destination charge
+            and your extended warranty!!
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The extra fees associated with your car purchase.
+the fees are the following
+press enter to see the numbers
+
+	    Taxes (NY sales tax is 8%)
+            Registration ==> $47 
+            license ==> $25
+            dealer fees ==> $500 (hey, we have to eat too lol)
+            destination charge ==> $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The extra fees associated with your car purchase.
+the fees are the following
+press enter to see the numbers
+
+	    Taxes (NY sales tax is 8%)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The extra fees associated with your car purchase.
+the fees are the following
+press enter to see the numbers
+
+ NY state Taxes                       8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>m
+Great! nice to meet you m!
+This tool will help you figure out all The extra fees associated with your car purchase.
+the fees are the following
+press enter to see the numbers
+
+		NY state Taxes                       8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The extra fees associated with your car purchase.
+the fees are the following
+press enter to see the numbers
+
+	NY state Taxes                       8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The extra fees associated with your car purchase.
+the fees are the following
+press enter to see the numbers
+
+	     NY state Taxes             8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+]
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The extra fees associated with your car purchase.
+the fees are the following
+press enter to see the numbers
+
+	   NY state Taxes             8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The extra fees associated with your car purchase.
+the fees are the following
+press enter to see the numbers
+
+	    NY state Taxes             8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The extra fees associated with your car purchase.
+the fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                  8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The extra fees associated with your car purchase.
+the fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>MArk
+Great! nice to meet you MArk!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==> 5000
+Great MArk the car you would like to but has a base price of  5000
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of5000.
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 28, in <module>
+    print("Great",userName,"the car you would like to but has a base price of"+carPrice+".")
+TypeError: can only concatenate str (not "int") to str
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000 .
+to see the final price, press enter
+with all the fees added, you are looking at paying
+9572
+>>> 
+\================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 26, in <module>
+    carPrice = int(input("price of the car, no $ just number. ==>"))
+ValueError: invalid literal for int() with base 10: ''
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000 .
+to see the final price, press enter
+with all the fees added, you are looking at paying
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 31, in <module>
+    print("with all the fees added, you are looking at paying")(carPrice+47+25+500+1000+3000)
+TypeError: 'NoneType' object is not callable
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>Mark
+Great! nice to meet you Mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great Mark the car you would like to but has a base price of 5000 .
+to see the final price, press enter
+with all the fees added, you are looking at paying
+		$ 9572
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 26, in <module>
+    carPrice = int(input("price of the car, no $ just number. ==>"))
+ValueError: invalid literal for int() with base 10: ''
+>>> 
+
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+>>> 
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 32, in <module>
+    print("\t\t$",carPrice = +47+25+500+1000+3000)
+TypeError: 'carPrice' is an invalid keyword argument for print()
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572
+5000
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 4572
+4572
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572
+9572
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>Mark
+Great! nice to meet you Mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great Mark the car you would like to but has a base price of 5000 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572
+Press Enter to add sales Tax
+With sales tax added, you are looking at paying about 1196499000.0
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572
+Press Enter to add sales Tax
+With sales tax added, you are looking at paying about 0.0
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572
+Press Enter to add sales Tax
+With sales tax added, you are looking at paying about 119649900.0
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572
+Press Enter to add sales Tax
+76.57600000000001
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572
+Press Enter to add sales Tax
+765.76
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572
+Press Enter to add sales Tax
+With your taxes being 765.76 the total price of your car comes out to be 9572
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000.0 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572.0
+Press Enter to add sales Tax
+With your taxes being $ 765.76 the total price of your car comes out to be $ 10337.76
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000.0 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572.0
+to reuse this tool please restart me, if not i hope you have a wonderful day 
+and i hope you do get your car!
+Press Enter to add sales Tax
+With your taxes being $ 765.76 the total price of your car comes out to be $ 10337.76
+>>> 
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000.0 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572.0
+Press Enter to add sales Tax
+With your taxes being $ 765.76 the total price of your car comes out to be $ 10337.76
+to reuse this tool please restart me,if not i hope you have a wonderful day nd i hope you do get your car!
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started]
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000.0 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572.0
+Press Enter to add sales Tax
+With your taxes being $ 765.76 the total price of your car comes out to be $ 10337.76
+to reuse this tool please restart me,
+if not i hope you have a wonderful day
+and i hope you do get your car!
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+First things first, whats your name? ==>mark
+Great! nice to meet you mark!
+This tool will help you figure out all The mandatory and extra fees associated with your car purchase.
+the MANDATORY fees are the following
+press enter to see the numbers
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>5000
+Great mark the car you would like to but has a base price of 5000.0 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572.0
+Press Enter to add sales Tax
+With your taxes being $ 765.76 the total price of your car comes out to be $ 10337.76
+
+
+to reuse this tool please restart me,
+if not i hope you have a wonderful day
+and i hope you do get your car!
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+
+First things first, whats your name? ==>MArk
+Second, what is the name of the care you plan on purchasing?Tesla
+
+Great! nice to meet you MArk!
+I will make sure we get aTeslain your drive way pronto
+Press Enter to continue
+
+This tool will help you figure out the FINAL price of a theTeslayou wish to buy.
+the MANDATORY fees are the following
+press enter to see the numbers
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+
+First things first, whats your name? ==>Mark
+Second, what is the name of the care you plan on purchasing?tesla
+\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Great! nice to meet you Mark!
+I will make sure we get a tesla in your drive way pronto
+Press Enter to continue
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+
+First things first, whats your name? ==>mark
+Second, what is the name of the care you plan on purchasing?tesla
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Great! nice to meet you mark!
+I will make sure we get a tesla in your drive way pronto
+Press Enter to continue
+
+This tool will help you figure out the FINAL price of a theteslayou wish to buy.
+the MANDATORY fees are the following
+press enter to see the numbers
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+
+First things first, whats your name? ==>Mark
+Second, what is the name of the care you plan on purchasing?
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+
+First things first, whats your name? ==>Mark
+Second, what is the name of the car you plan on purchasing? Tesla
+__________________________________________________________
+
+Great! nice to meet you Mark!
+I will make sure we get a  Tesla in your drive way pronto
+Press Enter to continue to addional fees disclaimer
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+
+First things first, whats your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==>
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+
+First things first, whats your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+I will make sure we get a Tesla in your drive way pronto
+Press Enter to continue to addional fees disclaimer
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+
+First things first, whats your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+I will make sure we get a Tesla in your drive way pronto
+Press ENTER to continue to see fees disclaimer
+
+This tool will help you figure out the FINAL price of a theTeslayou wish to buy.
+the MANDATORY fees that are added to all car purchases are the following
+press enter to see the numbers
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+Hi! Welcome to Mark's car dealership, located in Cobleskill NY.
+
+First things first, whats your name? ==> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+			Hi! Welcome to
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██      
+                                                                           
+                                                                           
+
+First things first, whats your name? ==> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase as well as label fees and Taxes
+Press the ENTER key to get startedThis provided tool will give you a rough estimate on your car purchase as well as label fees and Taxes
+
+First things first, whats your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+I will make sure we get a Tesla in your drive way pronto
+Press ENTER to continue to see fees disclaimer
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, whats your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+I will make sure we get a Tesla in your drive way pronto
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+This tool will help you figure out the FINAL price of a theTeslayou wish to buy.
+the MANDATORY fees that are added to all car purchases are the following
+press enter to see the numbers
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, whats your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your drive way pronto
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of a the Tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+first things first, we need the price of the vehicle you wish to purchase
+price of the car, no $ just number. ==>
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, whats your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of a the Tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following
+
+press enter to see the numbers_______________________________________________________________________________________
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+first things first, we need the price of the Tesla  you wish to purchase
+price of the car, no $ just number. ==>
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes
+
+Press the ENTER key to get started
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, whats your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of a the Tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8%
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of a the Tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+\First, Enter the price of the Tesla you wish to purchase
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 58, in <module>
+    carPrice = float(input("price of the",carName,",no dollar sign ($) just number. ==>"))
+TypeError: input expected at most 1 argument, got 3
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of a the Tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+\First, Enter the price of the Tesla you wish to purchase
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 58, in <module>
+    carPrice = float(input("price of the",carName,",no dollar sign just numbers. ==>"))
+TypeError: input expected at most 1 argument, got 3
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get startedMark
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> MArk
+Second, what is the name of the car you plan on purchasing? ==> tes
+_______________________________________________________________________________________
+
+Great! nice to meet you MArk!
+We will make sure we get a tes in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of a the tes you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the tes you wish to purchase
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 58, in <module>
+    carPrice = float(input("price of the",carName,",no dollar sign just numbers. ==> "))
+TypeError: input expected at most 1 argument, got 3
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of a the Tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the Tesla you wish to purchase
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 58, in <module>
+    carPrice = float(input("Enter Price of",carName,"Only numbers or the tool goes bye bye"))
+TypeError: input expected at most 1 argument, got 3
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> m
+Second, what is the name of the car you plan on purchasing? ==> t
+_______________________________________________________________________________________
+
+Great! nice to meet you m!
+We will make sure we get a t in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the t you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the t you wish to purchase
+Enter base Price
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 58, in <module>
+    carPrice = float(input("Enter base Price"))
+ValueError: could not convert string to float: ''
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get startedcould not convert string to float
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> 
+Second, what is the name of the car you plan on purchasing? ==> 
+_______________________________________________________________________________________
+
+Great! nice to meet you !
+We will make sure we get a  in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the  you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the  you wish to purchase
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 60, in <module>
+    print("Great",userName,"the",carName,"you would like to buy has a base price of",carPrice,".")
+NameError: name 'carPrice' is not defined
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> f
+Second, what is the name of the car you plan on purchasing? ==> f
+_______________________________________________________________________________________
+
+Great! nice to meet you f!
+We will make sure we get a f in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the f you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the f you wish to purchase
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 58, in <module>
+    carPrice = input(float("yly)"))
+ValueError: could not convert string to float: 'yly)'
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> mark
+Second, what is the name of the car you plan on purchasing? ==> tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you mark!
+We will make sure we get a tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the tesla you wish to purchase
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 58, in <module>
+    carPrice = input("Enter BASE price of your",carName,".")
+TypeError: input expected at most 1 argument, got 3
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get startedinput expected at most 1 argument, got 3
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> mark
+Second, what is the name of the car you plan on purchasing? ==> tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you mark!
+We will make sure we get a tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the tesla you wish to purchase
+Enter BASE price of yourtesla.5000
+Great mark the tesla you would like to buy has a base price of 5000.0 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572.0
+Press Enter to add sales Tax
+With your taxes being $ 765.76 the total price of your car comes out to be $ 10337.76
+
+
+This is the end of mark's dealership tool!
+to reuse this tool please restart me,
+if not i hope you have a wonderful day
+and i hope you do get your car!
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the Tesla you wish to purchase
+Enter only the BASE price of your Tesla. ==> 5000
+_______________________________________________________________________________________
+Great Mark the Tesla you would like to buy has a base price of 5000.0 .
+to see the final price, press enter
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> mark
+Second, what is the name of the car you plan on purchasing? ==> tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you mark!
+We will make sure we get a tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes                   8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> ff
+Second, what is the name of the car you plan on purchasing? ==> ffd
+_______________________________________________________________________________________
+
+Great! nice to meet you ff!
+We will make sure we get a ffd in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the ffd you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the ffd you wish to purchase
+Enter only the BASE price of your ffd. ==> 
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 59, in <module>
+    carPrice = float(carPrice)
+ValueError: could not convert string to float: ''
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car purchase 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get started
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car's final 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get started
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your car's final price 
+as well as additonal fees and Taxes.
+
+Press the ENTER key to get started
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your vehicle's price 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the Tesla you wish to purchase, non entry or using letters will reslut in an error.
+Enter only the BASE price of your Tesla.==> 5000
+_______________________________________________________________________________________
+Great! so Mark , the Tesla you would like to buy has a base price of 5000.0 .
+to see the final price, press enter
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> mark
+Second, what is the name of the car you plan on purchasing? ==> tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you mark!
+We will make sure we get a tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the tesla you wish to purchase, non entry or using letters will result in an error.
+Enter only the BASE price of your tesla.==> 50000
+_______________________________________________________________________________________
+Great! so mark, the tesla you would like to buy has a base price of 50000.0 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+		$ 54572.0
+Press Enter to add sales Tax
+With your taxes being $ 4365.76 the total price of your car comes out to be $ 58937.76
+
+
+This is the end of mark's dealership tool!
+to reuse this tool please restart me,
+if not i hope you have a wonderful day
+and i hope you do get your car!
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> mark
+Second, what is the name of the car you plan on purchasing? ==> tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you mark!
+We will make sure we get a tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the tesla you wish to purchase, non entry or using letters will result in an error.
+Enter only the BASE price of your tesla.==> 50000
+_______________________________________________________________________________________
+Great! 
+mark, the tesla you would like to buy has a base price of 50000.0 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> mark
+Second, what is the name of the car you plan on purchasing? ==> tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you mark!
+We will make sure we get a tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the tesla you wish to purchase, non entry or using letters will result in an error.
+Enter only the BASE price of your tesla.==> 5000
+_______________________________________________________________________________________
+Great! 
+mark, the tesla you would like to buy has a base price of 5000.0 .
+to see the final price, press enter
+with all the fees added,and before taxes, you are looking at paying
+_______________________________________________________________________________________
+		$ 9572.0
+_______________________________________________________________________________________
+Press Enter to add sales Tax
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> mark
+Second, what is the name of the car you plan on purchasing? ==> tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you mark!
+We will make sure we get a tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the tesla you wish to purchase, non entry or using letters will result in an error.
+Enter only the BASE price of your tesla.==> 50000
+_______________________________________________________________________________________
+Great! 
+mark, the tesla you would like to buy has a base price of 50000.0 .
+to see the final price, press enter
+_______________________________________________________________________________________
+
+with all the fees added,and before taxes, you are looking at paying
+		$ 54572.0
+_______________________________________________________________________________________
+Press Enter to add sales Tax
+With your taxes being $ 4365.76 the total price of your car comes out to be $ 58937.76
+
+
+This is the end of mark's dealership tool!
+to reuse this tool please restart me,
+if not i hope you have a wonderful day
+and i hope you do get your car!
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the Tesla you wish to purchase, non entry or using letters will result in an error.
+Enter only the BASE price of your Tesla.==> 5000
+_______________________________________________________________________________________
+Great! 
+Mark, the Tesla you would like to buy has a base price of 5000.0 .
+to see the final price, press enter
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> mark
+Second, what is the name of the car you plan on purchasing? ==> tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you mark!
+We will make sure we get a tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press enter to get started
+
+First, Enter the price of the tesla you wish to purchase, (non entry or using letters will result in an error.)
+Enter only the BASE price of your tesla.==> 500000
+_______________________________________________________________________________________
+Great! 
+mark, the tesla you would like to buy has a base price of $ 500000.0 .
+to see the final price, press enter
+_______________________________________________________________________________________
+
+with all the fees added,and before taxes, you are looking at paying
+		$ 504572.0
+_______________________________________________________________________________________
+Press Enter to add sales Tax
+_______________________________________________________________________________________
+With your taxes being $ 40365.76 the total price of your car comes out to be $ 544937.76
+_______________________________________________________________________________________
+
+
+This is the end of mark's dealership tool!
+to reuse this tool please restart me,
+if not i hope you have a wonderful day
+and i hope you do get your car!
+>>> 
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+the MANDATORY fees that are added to all car purchases are the following:
+
+press enter to see the numbers
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> mark
+Second, what is the name of the car you plan on purchasing? ==> tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you mark!
+We will make sure we get a tesla in your drive way pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the tesla you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbersGreat! nice to meet you mark!
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the price of the tesla you wish to purchase, (non entry or using letters will result in an error.)
+Enter only the BASE price of your tesla.==> 50000
+_______________________________________________________________________________________
+Great! 
+mark, the tesla you would like to buy has a base price of $ 50000.0 .
+to see the final price, press enter
+_______________________________________________________________________________________
+
+with all the fees added,and before taxes, you are looking at paying
+		$ 54572.0
+_______________________________________________________________________________________
+Press ENTER to add sales Tax
+_______________________________________________________________________________________
+With your taxes being $ 4365.76 the total price of your car comes out to be $ 58937.76
+_______________________________________________________________________________________
+
+
+This is the end of Mark's dealership tool!
+to reuse this tool please restart me,
+if not i wish you a great day mark .
+and i hope you do get your tesla !
+press Enter to quit
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> 
+Second, what is the name of the car you plan on purchasing? ==> 
+_______________________________________________________________________________________
+
+Great! nice to meet you !
+We will make sure we get a  in your driveway pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the  you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the  you wish to purchase, (non entry or using letters will result in an error.)
+Enter only the BASE price of your .==> 
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 59, in <module>
+    carPrice = float(carPrice)
+ValueError: could not convert string to float: ''
+>>> 
+>>> 
+
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+>>> 
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> fd
+Second, what is the name of the car you plan on purchasing? ==> sd
+_______________________________________________________________________________________
+
+Great! nice to meet you fd!
+We will make sure we get a sd in your driveway pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the sd you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the sd you wish to purchase, (non entry or using letters will result in an error.)
+Enter only the BASE price of your sd.==> 
+Traceback (most recent call last):
+  File "C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py", line 59, in <module>
+    carPrice = float(carPrice)
+ValueError: could not convert string to float: ''
+>>> 
+
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+>>> 
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> 
+Second, what is the name of the car you plan on purchasing? ==> 
+_______________________________________________________________________________________
+
+Great! nice to meet you !
+We will make sure we get a  in your driveway pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the  you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the  you wish to purchase, (non entry or using letters will result in an error.)
+Enter only the BASE price of your .==> 7
+_______________________________________________________________________________________
+Great! 
+, the  you would like to buy has a base price of $ 7.0 .
+to see the final price, press enter
+_______________________________________________________________________________________
+
+with all the fees added,and before taxes, you are looking at paying
+		$ 4579.0
+_______________________________________________________________________________________
+Press ENTER to add sales Tax
+_______________________________________________________________________________________
+With your taxes being $ 366.32 the total price of your car comes out to be $ 4945.32
+_______________________________________________________________________________________
+
+
+This is the end of Mark's dealership tool!
+to reuse this tool please restart me,
+if not i wish you a great day  .
+and we hope you do get your  !
+
+
+
+
+              ____----------- _____
+\~~~~~~~~~~/~_--~~~------~~~~~      `---`\  _-~      |                      _-~  <_         |                     \[]
+ / ___     ~~--[""] |      ________-------'_
+> /~` \    |-.   `\~~.~~~~~                _ ~ - _
+ ~|  ||\%  |       |    ~  ._                ~ _   ~ ._
+   `_//|_%  \      |          ~  .              ~-_   /          `--__     |    _-____  /\               ~-_ \/.
+               ~--_ /  ,/ -~-_ \ \/          _______---~/
+                   ~~-/._<   \ \`~~~~~~~~~~~~~     ##--~/
+                         \    ) |`------##---~~~~-~  ) )
+                          ~-_/_/                  ~~ ~~
+
+
+
+
+
+press Enter to quit
+================ RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ================
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your driveway pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the Tesla you wish to purchase, (non entry or using letters will result in an error.)
+Enter only the BASE price of your Tesla.==> 89999999
+_______________________________________________________________________________________
+Great! 
+Mark, the Tesla you would like to buy has a base price of $ 89999999.0 .
+to see the final price, press enter
+_______________________________________________________________________________________
+
+with all the fees added,and before taxes, you are looking at paying
+		$ 90004571.0
+_______________________________________________________________________________________
+Press ENTER to add sales Tax
+_______________________________________________________________________________________
+With your taxes being $ 7200365.68 the total price of your car comes out to be $ 97204936.68
+_______________________________________________________________________________________
+
+
+This is the end of Mark's dealership tool!
+to reuse this tool please restart me,
+if not i wish you a great day Mark .
+and we hope you do get your Tesla !
+Thanks and be safe on your way to our dealership
+
+
+        _______
+       //  ||\  _____//___||_\ \___
+ )  _          _     |_/ \________/ \___|
+___\_/________\_/______
+
+
+
+press Enter to quit
+=============== RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ==============
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get startedwith all the fees added,and before taxes, you are looking at paying
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> mark
+Second, what is the name of the car you plan on purchasing? ==> tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you mark!
+We will make sure we get a tesla in your driveway pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the tesla you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the tesla you wish to purchase, (non entry or using letters will result in an error.)
+Enter only the BASE price of your tesla.==> 70000
+_______________________________________________________________________________________
+Great! 
+mark, the tesla you would like to buy has a base price of $ 70000.0 .
+to see the final price, press enter
+_______________________________________________________________________________________
+
+with all the fees added,and before taxes, you are looking at paying
+		$ 74572.0
+_______________________________________________________________________________________
+Press ENTER to add sales Tax
+=============== RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ==============
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+=============== RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ==============
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your driveway pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the Tesla you wish to purchase, (non entry or using letters will result in an error.)
+Enter only the BASE price of your Tesla.==> 50000
+_______________________________________________________________________________________
+Great! 
+Mark, the Tesla you would like to buy has a base price of $ 50000.0 .
+to see the price before taxes, press enter
+_______________________________________________________________________________________
+
+with all the fees added,and before taxes, you are looking at paying
+		$ 54572.0
+_______________________________________________________________________________________
+Press ENTER to add sales Tax
+With your taxes being $ 4365.76 the total price of your car comes out to be $ 58937.76
+_______________________________________________________________________________________
+
+
+This is the end of Mark's dealership tool!
+to reuse this tool please restart me,
+if not i wish you a great day Mark .
+and we hope you do get your Tesla !
+Thanks and be safe on your way to our dealership
+=============== RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ==============
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your driveway pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the Tesla you wish to purchase, (non entry or using letters will result in an error.)
+Enter only the BASE price of your Tesla.==> 5000
+_______________________________________________________________________________________
+Great! 
+Mark, the Tesla you would like to buy has a base price of $ 5000.0 .
+to see the price before taxes, press ENTER
+_______________________________________________________________________________________
+
+with all the fees added,and before taxes, you are looking at paying
+		$ 9572.0
+_______________________________________________________________________________________
+Press ENTER to add sales Tax
+With your taxes being
+$ 765.76
+the total price of your car comes out to be
+$ 10337.76
+_______________________________________________________________________________________
+ENTER to conclude tool use
+=============== RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ==============
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your driveway pronto!!!
+
+Press ENTER to continue to see fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+=============== RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ==============
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your driveway pronto!!!
+
+Press ENTER to continue to fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the Tesla you wish to purchase, (non entry or using letters will result in an error.)
+Enter only the BASE price of your Tesla.==> 
+=============== RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ==============
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> MArk
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you MArk!
+We will make sure we get a Tesla in your driveway pronto!!!
+
+Press ENTER to continue to the fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the Tesla you wish to purchase, (
+non entry or using letters will result in an error.)
+Enter only the BASE price of your Tesla.==> 
+=============== RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ==============
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your driveway pronto!!!
+
+Press ENTER to continue to the fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the Tesla you wish to purchase, 
+(non entry or using letters will result in an error.)
+Enter only the BASE price of your Tesla.==> 51000
+_______________________________________________________________________________________
+Great! 
+Mark, the Tesla you would like to buy has a base price of $ 51000.0 .
+to see the price before taxes, press ENTER
+_______________________________________________________________________________________
+
+with all the fees added,and before taxes, you are looking at paying
+		$ 55572.0
+_______________________________________________________________________________________
+Press ENTER to add sales Tax
+_______________________________________________________________________________________
+
+With your taxes being
+$ 4445.76
+the total price of your car comes out to be
+$ 60017.76
+_______________________________________________________________________________________
+ENTER to conclude tool use
+
+
+This is the end of Mark's dealership tool!
+to reuse this tool please restart me,
+if not i wish you a great day Mark .
+and we hope you do get your Tesla !
+Thanks and be safe on your way to our dealershipand we hope you do get your Tesla !
+
+
+        _______
+       //  ||\  _____//___||_\ \___
+ )  _          _     |_/ \________/ \___|
+___\_/________\_/______
+
+
+
+press Enter to quit
+=============== RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ==============
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your driveway pronto!!!
+
+Press ENTER to continue to the fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the Tesla you wish to purchase, 
+(non entry or using letters will result in an error.)
+Enter only the BASE price of your Tesla.==> 55555
+_______________________________________________________________________________________
+Great! 
+Mark, the Tesla you would like to buy has a base price of $ 55555.0 .
+to see the price before taxes, press ENTER
+_______________________________________________________________________________________
+
+With all the fees added,and before taxes, you are looking at paying
+		$ 60127.0
+_______________________________________________________________________________________
+Press ENTER to add sales Tax
+_______________________________________________________________________________________
+
+With your taxes being
+$ 4810.16
+the total price of your car comes out to be
+$ 64937.16
+_______________________________________________________________________________________
+ENTER to conclude tool use
+
+
+This is the end of Mark's dealership tool!
+to reuse this tool please restart me,
+if not i wish you a great day Mark .
+and we hope you do get your Tesla !
+Thanks and be safe on your way to our dealership!!!
+
+
+
+
+
+ 
+           .      ..
+   __..---/______//-----.        ((  )
+ .".--.```|    - /.--.  =:    ( VROOM! ))  
+(.: {} :__L______: {} :__; __--( __- -_= ) 
+   *--*           *--*                     
+ 
+
+
+
+
+
+
+
+press Enter to quit
+>>> 
+=============== RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ==============
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your driveway pronto!!!
+
+Press ENTER to continue to the fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the Tesla you wish to purchase, 
+(non entry or using letters will result in an error.)
+Enter only the BASE price of your Tesla.==> 65000
+_______________________________________________________________________________________
+Great! 
+Mark, the Tesla you would like to buy has a base price of $ 65000.0 .
+to see the price before taxes, press ENTER
+_______________________________________________________________________________________
+
+With all the fees added,and before taxes, you are looking at paying
+		$ 69572.0
+_______________________________________________________________________________________
+Press ENTER to add sales Tax
+_______________________________________________________________________________________
+
+With your taxes being
+$ 5565.76
+the total price of your car comes out to be
+$ 75137.76
+_______________________________________________________________________________________
+ENTER to conclude tool use
+
+
+This is the end of Mark's dealership tool!
+to reuse this tool please restart me,
+If not, I wish you a great day Mark.
+and we hope you do get your Tesla today!
+Thanks and be safe on your way to our dealership!!!
+
+
+
+
+
+ 
+           .      ..
+   __..---/______//-----.        ((  )
+ .".--.```|    - /.--.  =:    ( VROOM! ))  
+(.: {} :__L______: {} :__; __--( __- -_= ) 
+   *--*           *--*                     
+ 
+
+
+
+
+
+
+
+press Enter to quit
+>>> 
+=============== RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ==============
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> Mark
+Second, what is the name of the car you plan on purchasing? ==> Tesla
+_______________________________________________________________________________________
+
+Great! nice to meet you Mark!
+We will make sure we get a Tesla in your driveway pronto!!!
+
+Press ENTER to continue to the fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the Tesla you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the Tesla you wish to purchase, 
+(non entry or using letters will result in an error.)
+Enter only the BASE price of your Tesla.==> 5000
+_______________________________________________________________________________________
+Great! 
+Mark, the Tesla you would like to buy has a base price of $ 5000.0 .
+to see the price before taxes, press ENTER
+_______________________________________________________________________________________
+
+With all the fees added,and before taxes, you are looking at
+		$ 9572.0
+_______________________________________________________________________________________
+Press ENTER to add sales Tax
+_______________________________________________________________________________________
+
+With your taxes being
+$ 765.76
+the total price of your car comes out to be
+$ 10337.76
+_______________________________________________________________________________________
+ENTER to conclude tool use
+
+
+This is the end of Mark's dealership tool!
+to reuse this tool please restart me,
+If not, I wish you a great day Mark.
+and we hope you do get your Tesla today!
+Thanks and be safe on your way to our dealership!!!
+=============== RESTART: C:/Users/mjone/AppData/Local/Programs/Python/Python39/ch 2 Challenge 4.py ==============
+
+
+███    ███  █████  ██████  ██   ██ ███████                                 
+████  ████ ██   ██ ██   ██ ██  ██  ██                                      
+██ ████ ██ ███████ ██████  █████   ███████                                 
+██  ██  ██ ██   ██ ██   ██ ██  ██       ██                                 
+██      ██ ██   ██ ██   ██ ██   ██ ███████                                 
+                                                                           
+                                                                           
+██████  ███████  █████  ██      ███████ ██████  ███████ ██   ██ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██ ██      ██   ██ ██ ██   ██ 
+██   ██ █████   ███████ ██      █████   ██████  ███████ ███████ ██ ██████  
+██   ██ ██      ██   ██ ██      ██      ██   ██      ██ ██   ██ ██ ██      
+██████  ███████ ██   ██ ███████ ███████ ██   ██ ███████ ██   ██ ██ ██       Located in Cobleskill, NY
+                                                                           
+                                                                           
+This provided tool will give you a rough estimate on your 
+vehicle's purchase price, 
+as well as label all additonal fees and Taxes.
+
+Press the ENTER key to get started
+_______________________________________________________________________________________
+
+First things first, what is your name? ==> billy
+Second, what is the name of the car you plan on purchasing? ==> honda
+_______________________________________________________________________________________
+
+Great! nice to meet you billy!
+We will make sure we get a honda in your driveway pronto!!!
+
+Press ENTER to continue to the fees disclaimer
+_______________________________________________________________________________________
+
+As stated previously, this tool is desgined to help you figure out the FINAL price of the honda you wish to buy.
+these MANDATORY fees that are added to all car purchases are the following:
+
+press ENTER to see the numbers
+_______________________________________________________________________________________
+
+	    NY state Taxes ==>               8% (added after fees)
+            Registration ==>                 $47 
+            license ==>                      $25
+            dealer fees ==>                  $500 (hey, we have to eat too lol)
+            destination charge ==>           $1000
+            and your extended warranty!! ==> $3000 (not a scam)
+            
+_______________________________________________________________________________________
+Press ENTER to get started
+
+First, Enter the base price of the honda you wish to purchase, 
+(non entry or using letters will result in an error.)
+Enter only the BASE price of your honda.==> 1200
+_______________________________________________________________________________________
+Great! 
+billy, the honda you would like to buy has a base price of $ 1200.0 .
+to see the price before taxes, press ENTER
+_______________________________________________________________________________________
+
+With all the fees added,and before taxes, you are looking at
+		$ 5772.0
+_______________________________________________________________________________________
+Press ENTER to add sales Tax
+_______________________________________________________________________________________
+
+With your taxes being
+$ 461.76
+the total price of your car comes out to be
+$ 6233.76
+_______________________________________________________________________________________
+ENTER to conclude tool use
+
+
+This is the end of Mark's dealership tool!
+to reuse this tool please restart me,
+If not, I wish you a great day billy.
+and we hope you do get your honda today!
+
+Thanks and be safe on your way to our dealership!!!
+
+
+
+
+
+ 
+           .      ..
+   __..---/______//-----.        ((  )
+ .".--.```|    - /.--.  =:    ( VROOM! ))  
+(.: {} :__L______: {} :__; __--( __- -_= ) 
+   *--*           *--*                     
+ 
+
+
+
+
+
+
+
+press Enter to quit
+>>> 

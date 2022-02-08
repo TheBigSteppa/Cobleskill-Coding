@@ -1,0 +1,2379 @@
+Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 51, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 38, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 21, in userInput
+    y1  = ask_user("Enter the year of the first date(yyyy): ")
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 9, in ask_user
+    response = int(input(Question))
+KeyboardInterrupt
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+Enter the Month of the first date: 1111
+Enter the Day of the first date: 1
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 46, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 38, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 23, in userInput
+    d1   = ask_user("Enter the Day of the first date: ")
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 9, in ask_user
+    response = int(input(Question))
+KeyboardInterrupt
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+Enter the Month of the first date: 1
+Enter the Day of the first date: 1
+now the second date
+Enter the yeay of the second date(yyyy): 1111
+Enter the month of the second date: 1
+Enter the Day of the second date: 1
+1111 1 1 1111 1 1
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 46, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 39, in main
+    calaMath(y1, m1, d1, y2, m2, d2)
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 33, in calaMath
+    date1 = date(year1, month1, day1)
+NameError: name 'year1' is not defined
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+Enter the Month of the first date: 1
+Enter the Day of the first date: 1
+now the second date
+Enter the yeay of the second date(yyyy): 1111
+Enter the month of the second date: 1
+Enter the Day of the second date: 1
+1111 1 1 1111 1 1
+0 days
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 2021
+Enter the Month of the first date: 12
+Enter the Day of the first date: 7
+now the second date
+Enter the yeay of the second date(yyyy): 2022
+Enter the month of the second date: 5
+Enter the Day of the second date: 7
+2021 12 7 2022 5 7
+151 days
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+Enter the Month of the first date: 1
+Enter the Day of the first date: 1
+now the second date
+Enter the yeay of the second date(yyyy): 1111
+Enter the month of the second date: 1
+Enter the Day of the second date: 1
+1111 1 1 1111 1 1
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 48, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 41, in main
+    calaMath(y1, m1, d1, y2, m2, d2)
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 37, in calaMath
+    print(numOfDays(date1, date2), "days")
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 19, in numOfDays
+    return (date2-date1).date
+AttributeError: 'datetime.timedelta' object has no attribute 'date'
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+Enter the Month of the first date: 1
+Enter the Day of the first date: 1
+now the second date
+Enter the yeay of the second date(yyyy): 1
+Enter the month of the second date: 1
+Enter the Day of the second date: 2
+1 1 1 1 1 2
+1 days
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+Enter the Month of the first date: 
+
+NOT A VALID ENTRY, TRY AGAIN
+
+Enter the Month of the first date: 1
+Enter the Day of the first date: 1
+now the second date
+Enter the yeay of the second date(yyyy): 1111
+Enter the month of the second date: 1
+Enter the Day of the second date: 2
+1111 1 1 1111 1 2
+y 1 days
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 10
+This is a days calculator, not a B.C. one
+Enter the year of the first date(yyyy): 3001
+Enter the Month of the first date: 
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 51, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 43, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 27, in userInput
+    m1 = ask_user("Enter the Month of the first date: ")
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 9, in ask_user
+    response = int(input(Question))
+KeyboardInterrupt
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 99999
+This is a days calculator, not a B.C. one
+Enter the year of the first date(yyyy): 3002
+Enter the Month of the first date: 
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 51, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 43, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 27, in userInput
+    m1 = ask_user("Enter the Month of the first date: ")
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 9, in ask_user
+    response = int(input(Question))
+KeyboardInterrupt
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+This is a days calculator, not a B.C. one
+Enter the year of the first date(yyyy): 1
+Enter the Month of the first date: 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+This is a days calculator, not a B.C. one
+Enter the year of the first date(yyyy): 1
+Enter the Month of the first date: 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+This is a days calculator, not a B.C. one
+Enter the year of the first date(yyyy): 1
+This is a days calculator, not a B.C. one
+Enter the year of the first date(yyyy): 1
+This is a days calculator, not a B.C. one
+Enter the year of the first date(yyyy): 3001
+This is a days calculator, not a B.C. one
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+This is a days calculator, not a B.C. one
+Enter the year of the first date(yyyy): 19999
+This is a days calculator, not a B.C. one
+Enter the year of the first date(yyyy): 2021
+Enter the Month of the first date: 13
+there are 12 months bruh... read the instructions
+Enter the Month of the first date: -1
+there are 12 months bruh... read the instructions
+Enter the Month of the first date: 0
+there are 12 months bruh... read the instructions
+Enter the Month of the first date: 1
+there are 12 months bruh... read the instructions
+Enter the Month of the first date: 1
+there are 12 months bruh... read the instructions
+Enter the Month of the first date: 1
+there are 12 months bruh... read the instructions
+Enter the Month of the first date: 1
+there are 12 months bruh... read the instructions
+Enter the Month of the first date: 1
+there are 12 months bruh... read the instructions
+Enter the Month of the first date: 1
+there are 12 months bruh... read the instructions
+Enter the Month of the first date: 1
+there are 12 months bruh... read the instructions
+Enter the Month of the first date: 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+Enter the Month of the first date: 13
+there are 12 months bruh... read the instructions
+Enter the Month of the first date: 0
+there are 12 months bruh... read the instructions
+Enter the Month of the first date: 1
+Enter the Day of the first date: 1
+now the second date
+Enter the yeay of the second date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+This is a days calculator, not a B.C. one
+Enter the year of the first date(yyyy): 
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 61, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 53, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 26, in userInput
+    y1  = ask_user("Enter the year of the first date(yyyy): ")
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 9, in ask_user
+    response = int(input(Question))
+KeyboardInterrupt
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+This is a days calculator, not a B.C. one
+
+Enter the year of the first date(yyyy): 1111
+Enter the Month of the first date: 1
+Enter the Day of the first date: 0
+
+there are 12 months bruh... read the instructions
+
+Enter the Month of the first date: 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+This is a days calculator, not a B.C. one
+
+Enter the year of the first date(yyyy): 3000
+Enter the Month of the first date: 0
+
+there are 12 months bruh... read the instructions
+
+Enter the Month of the first date: 1
+Enter the Day of the first date: 0
+
+Which month has 0 days in it? cause that aint any month i know
+
+Enter the Month of the first date: 61
+
+Which month has 61 days in it? cause that aint any month i know
+
+Enter the Month of the first date: 
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 61, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 53, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 36, in userInput
+    d1 = ask_user("Enter the Month of the first date: ")
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 9, in ask_user
+    response = int(input(Question))
+KeyboardInterrupt
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+you a time traveler? what buisness you got in the year 1 
+
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+you a time traveler? What buisness do you have in the year 1 ?
+
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+you a time traveler? What buisness do you have in the year 1 ?
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+you a time traveler? What buisness do you have in the year 1 ?
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+you a time traveler? What buisness do you have in the year 1?Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+you a time traveler? What buisness do you have in the year 1?
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+
+Enter the year of the first date(yyyy): 1
+
+you a time traveler? What buisness do you have in the year 1?
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+
+Enter the year of the first date(yyyy): 1
+you a time traveler? What buisness do you have in the year 1?
+
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+
+Enter the year of the first date(yyyy): 
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 61, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 53, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 23, in userInput
+    y1  = ask_user("\nEnter the year of the first date(yyyy): \n")
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 9, in ask_user
+    response = int(input(Question))
+KeyboardInterrupt
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+you a time traveler? What buisness do you have in the year 1?
+
+Enter the year of the first date(yyyy): 99
+
+you a time traveler? What buisness do you have in the year 99?
+
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+you a time traveler? What buisness do you have in the year 1?
+Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 88
+
+you a time traveler? What buisness do you have in the year 88?
+Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 62, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 54, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 27, in userInput
+    y1  = ask_user("\nEnter the year of the first date(yyyy): ")
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 9, in ask_user
+    response = int(input(Question))
+KeyboardInterrupt
+>>> 
+
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+>>> 
+Enter the year of the first date(yyyy): 1
+
+you a time traveler? What buisness do you have in the year 1?
+Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 1999
+Enter the Month of the first date: 10
+Enter the Day of the first date: 99
+
+Which month has 99 days in it? cause that aint any month i know
+
+Enter the Month of the first date: 20
+
+Now the second date
+
+Enter the yeay of the second date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+you a time traveler? What buisness do you have in the year 1?
+Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 1999
+Enter the Month of the first date: 10
+Enter the Day of the first date: 20
+
+ The first date you entered is 1999-10-20 Now the second date
+
+Enter the yeay of the second date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1999
+Enter the Month of the first date: 
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 63, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 55, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 29, in userInput
+    m1 = ask_user("Enter the Month of the first date: ")
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 9, in ask_user
+    response = int(input(Question))
+KeyboardInterrupt
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1993
+Enter the Month of the first date: 10
+Enter the Day of the first date: 20
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 63, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 55, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 39, in userInput
+    date1 = date(m1, d1, y1)
+ValueError: month must be in 1..12
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1993
+Enter the Month of the first date: 10
+Enter the Day of the first date: 20
+
+ The first date you entered is 1993-10-20 Now the second date
+
+Enter the yeay of the second date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1999
+Enter the Month of the first date: 10
+Enter the Day of the first date: 20
+
+		The first date you entered is 1999-10-20 Now the second date
+
+Enter the year of the second date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1993
+Enter the Month of the first date: 10
+Enter the Day of the first date: 20
+
+		The first date you entered is 1993-10-20 Now the second date
+
+is this correct? y/n: n
+Enter the year of the second date(yyyy): 
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 71, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 63, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 50, in userInput
+    y2  = ask_user("Enter the year of the second date(yyyy): ")
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 9, in ask_user
+    response = int(input(Question))
+KeyboardInterrupt
+>>> 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1993
+Enter the Month of the first date: 10
+Enter the Day of the first date: 20
+
+		The first date you entered is 1993-10-20 Now the second date
+
+is this correct? y/n: y
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1993
+Enter the Month of the first date: 10
+Enter the Day of the first date: 20
+
+		The first date you entered is 1993-10-20 Now the second date
+
+is this correct? y/n: n
+Ok, try again
+Enter the year of the first date(yyyy): 1993
+Enter the Month of the first date: 10
+Enter the Day of the first date: 20
+
+		The first date you entered is 1993-10-20 Now the second date
+
+is this correct? y/n: 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+Enter the Month of the first date: 1
+Enter the Day of the first date: 1
+
+		The first date you entered is 1111-01-01 Now the second date
+
+is this correct? y/n: n
+Ok, press enter to try again
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date: 10
+
+Enter the Day of the first date: 20
+
+		The first date you entered is 1993-10-20 Now the second date
+
+is this correct? y/n: y
+Enter the year of the second date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date: 1
+
+Enter the Day of the first date: 1
+
+		The first date you entered is 1111-01-01
+is this correct? y/n: y
+Now the second date
+
+Enter the year of the second date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date: 1
+
+Enter the Day of the first date: 1
+
+		The first date you entered is 1111-01-01
+is this correct? y/n: y
+Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 01
+
+Enter the Day of the first date(D): 01
+
+		The first date you entered is 1111-01-01
+is this correct? y/n: y
+Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 11
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-11-01
+is this correct? y/n: 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1111
+
+there are 12 months bruh... read the instructions
+
+Enter the Month of the first date(M): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 111
+
+you a time traveler? What buisness do you have in the year 111?
+Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 2
+
+	you a time traveler? What buisness do you have in the year 2?
+Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+	you a time traveler? What buisness do you have in the year 1?
+	Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 11
+
+Enter the Day of the first date(D): 1
+
+		The first date you entered is 1111-11-01
+	is this correct? y/n: 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: n
+	Ok, press enter to try again
+
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: n
+	Ok, press enter to try again
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: n
+	
+Ok, press enter to try again
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: n
+
+	Ok, press enter to try again
+Enter the year of the first date(yyyy): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: n
+
+	Ok, press enter to try again
+
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1993-01-01
+	is this correct? y/n: n
+
+	Ok, press enter to try again
+
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 
+
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+	Are you a time traveler? What buisness do you have in the year 1?
+	Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 111
+
+	Are you a time traveler? What buisness do you have in the year 111?
+	Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 1
+
+	Are you a time traveler? What buisness do you have in the year 1?
+	Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 111
+
+	there are 12 months bruh... read the instructions
+
+Enter the Month of the first date(M): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 0
+
+	there are only 12 months bruh... you're killing me smalls
+
+Enter the Month of the first date(M): 
+======= RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py =======
+Enter the year of the first date(yyyy): 1
+
+	Are you a time traveler? What buisness do you have in the year 1?
+	Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 111
+
+	I don't know what planet your from, but on earth there are one 12 months
+
+Enter the Month of the first date(M): 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 00
+
+	I don't know what planet your from, but on earth there are only 12 months
+
+	Not 0 or whatever you put
+Enter the Month of the first date(M): 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 0
+
+	I don't know what planet your from, but on earth there are only 12 months
+	Not 0 or whatever you put
+
+Enter the Month of the first date(M): 9999
+
+	I don't know what planet your from, but on earth there are only 12 months
+	Not 9999 or whatever you put
+
+Enter the Month of the first date(M): 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 0
+
+	I don't know what planet you're from, but on earth there are only 12 months
+	Not 0 or whatever you put
+
+Enter the Month of the first date(M): 0
+
+	I don't know what planet you're from, but on earth there are only 12 months
+	Not 0 or whatever you put
+
+Enter the Month of the first date(M): 0222
+
+	I don't know what planet you're from, but on earth there are only 12 months
+	Not 222 or whatever you put
+
+Enter the Month of the first date(M): 012
+
+Enter the Day of the first date(D): 0
+
+	Which month has 0 days in it? cause that aint any month i know
+
+Enter the Month of the first date(D): 0
+
+	Which month has 0 days in it? cause that aint any month i know
+
+Enter the Month of the first date(D): 0
+
+	Which month has 0 days in it? cause that aint any month i know
+
+Enter the Month of the first date(D): 012
+
+	The first date you entered is 1111-12-12
+	is this correct? y/n: 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: 0
+
+	Awesome, press enter proceed to the second date
+
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1
+
+	Are you a time traveler? What buisness do you have in the year 1?
+	Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 888
+
+	Are you a time traveler? What buisness do you have in the year 888?
+	Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 4
+
+	Are you a time traveler? What buisness do you have in the year 4?
+	Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 0
+
+	I don't know what planet you're from, but on earth there are only 12 months
+	Not 0 or whatever you put
+
+Enter the Month of the first date(M): 222
+
+	I don't know what planet you're from, but on earth there are only 12 months
+	Not 222 or whatever you put
+
+Enter the Month of the first date(M): 0
+
+	I don't know what planet you're from, but on earth there are only 12 months
+	Not 0 or whatever you put
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 0
+
+	Which day has 0 days in it? cause that aint any month i know
+
+Enter the Month of the first date(D): 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: n
+
+	Ok, press enter to try again
+
+Enter the year of the first date(yyyy): 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1
+
+	Are you a time traveler? What buisness do you have in the year 1?
+	Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 0
+
+	I don't know what planet you're from, but on earth, there are only 12 months
+	Not 0 or whatever you put
+
+Enter the Month of the first date(M): 11
+
+Enter the Day of the first date(D): 0
+
+	What month has 0 days in it? This a days calendar for EARTHHHHHHH
+
+Enter the Month of the first date(D): 10
+
+	The first date you entered is 1111-11-10
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 1111
+Enter the month of the second date(M): 0
+
+	I don't know what planet you're from, but on earth, there are only 12 months
+	Not 0 or whatever you put
+
+Enter the Month of the first date(M): 11
+Enter the Day of the second date(D): 1
+
+	The first date you entered is 1111-11-01
+	is this correct? y/n: n
+
+	Ok, press enter to Enter the First Date again
+
+Enter the year of the second date(yyyy): 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 105, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 97, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 27, in userInput
+    y1  = ask_user("Enter the year of the first date(yyyy): ")
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 10, in ask_user
+    response = int(input(Question))
+KeyboardInterrupt
+>>> 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 11
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-11-01
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+11
+Enter the year of the second date(yyyy): 1111
+Enter the month of the second date(M): 11
+Enter the Day of the second date(D): 1
+
+	The first date you entered is 1111-11-01
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+1111 11 1 1111 11 1 1111-11-01 1111-11-01
+0 days
+>>> 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 11
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-11-01
+	is this correct? y/n: 
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 109, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 101, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 53, in userInput
+    Cc = input("\tis this correct? y/n: ")
+KeyboardInterrupt
+>>> 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+Enter the month of the second date(M): 12
+Enter the Day of the second date(D): 7
+
+	The first date you entered is 2021-12-07
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+1993 10 20 2021 12 7 1993-10-20 2021-12-07
+There are 10275 days between 1993-10-20 and 2021-12-07
+>>> 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 1111
+Enter the month of the second date(M): 1
+Enter the Day of the second date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+DEBUG:: 1111 1 1 1111 1 1 1111-01-01 1111-01-01
+There are 0 days between 1111-01-01 and 1111-01-01
+>>> 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+111
+Enter the year of the second date(yyyy): 1111
+Enter the month of the second date(M): 1
+Enter the Day of the second date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+DEBUG:: 1111 1 1 1111 1 1 1111-01-01 1111-01-01
+There are 0 days between 1111-01-01 and 1111-01-01
+0.0
+>>> 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+Enter the month of the second date(M): 12
+Enter the Day of the second date(D): 7
+
+	The first date you entered is 2021-12-07
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+DEBUG:: 1993 10 20 2021 12 7 1993-10-20 2021-12-07
+There are 10275 days between 1993-10-20 and 2021-12-07
+28.15068493150685
+>>> 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2012
+Enter the month of the second date(M): 1
+Enter the Day of the second date(D): 1
+
+	The first date you entered is 2012-01-01
+	is this correct? y/n: n
+
+	Ok, press enter to Enter the Second Date again
+
+Enter the year of the second date(yyyy): 2021
+Enter the month of the second date(M): 12
+Enter the Day of the second date(D): 7
+
+	The first date you entered is 2021-12-07
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+DEBUG:: 1993 10 20 2021 12 7 1993-10-20 2021-12-07
+There are 10275 days between 1993-10-20 and 2021-12-07 
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+That is 887760000 seconds!That is 14796000 minutes!That is 246600 hours!That is 1467.857142857143 weeks!That is 337.585125 months!And That is 28.15068493150685 years!
+>>> 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+2021
+Enter the year of the second date(yyyy): 2021
+Enter the month of the second date(M): 12
+Enter the Day of the second date(D): 7
+
+	The first date you entered is 2021-12-07
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+DEBUG:: 1993 10 20 2021 12 7 1993-10-20 2021-12-07
+There are 10275 days between 1993-10-20 and 2021-12-07 
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+That is 887760000 seconds!
+That is 14796000 minutes!
+That is 246600 hours!
+That is 1467.857142857143 weeks!
+That is 337.585125 months!
+And That is 28.15068493150685 years!
+>>> 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+Enter the month of the second date(M): 12
+Enter the Day of the second date(D): 7
+
+	The first date you entered is 2021-12-07
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are 10275 days between 1993-10-20 and 2021-12-07 
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is 887760000 seconds!
+		That is 14796000 minutes!
+			That is 246600 hours!
+			That is 1467.857142857143 weeks!
+		That is 337.585125 months!
+	And That is 28.15068493150685 years!
+>>> 
+KeyboardInterrupt
+>>> 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1988
+
+Enter the Month of the first date(M): 9
+
+Enter the Day of the first date(D): 14
+
+	The first date you entered is 1988-09-14
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+1993
+Enter the year of the second date(yyyy): 1993
+Enter the month of the second date(M): 10
+Enter the Day of the second date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are 1862 days between 1988-09-14 and 1993-10-20 
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is 160876800 seconds!
+		That is 2681280 minutes!
+			That is 44688 hours!
+			That is 266.0 weeks!
+		That is 61.176010000000005 months!
+	And That is 5.101369863013699 years!
+>>> 
+KeyboardInterrupt
+>>> 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 1988
+
+Enter the Month of the first date(M): 9
+
+Enter the Day of the first date(D): 14
+
+	The first date you entered is 1988-09-14
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+Enter the month of the second date(M): 12
+Enter the Day of the second date(D): 7
+
+	The first date you entered is 2021-12-07
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are 12137 days between 1988-09-14 and 2021-12-07 
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is 1048636800 seconds!
+		That is 17477280 minutes!
+			That is 291288 hours!
+			That is 1733.857142857143 weeks!
+		That is 398.761135 months!
+	And That is 33.25205479452055 years!
+would you like to play again? y/n:y
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+Enter the month of the second date(M): 12
+Enter the Day of the second date(D): 7
+
+	The first date you entered is 2021-12-07
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are 10275 days between 1993-10-20 and 2021-12-07 
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is 887760000 seconds!
+		That is 14796000 minutes!
+			That is 246600 hours!
+			That is 1467.857142857143 weeks!
+		That is 337.585125 months!
+	And That is 28.15068493150685 years!
+would you like to play again? y/n:
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+Enter the year of the first date(yyyy): 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+
+▓█████▄  ▄▄▄     ▓██   ██▓  ██████     ▄████▄   ▄▄▄       ██▓    ▓█████  ███▄    █ ▓█████▄  ▄▄▄       ██▀███  
+▒██▀ ██▌▒████▄    ▒██  ██▒▒██    ▒    ▒██▀ ▀█  ▒████▄    ▓██▒    ▓█   ▀  ██ ▀█   █ ▒██▀ ██▌▒████▄    ▓██ ▒ ██▒
+░██   █▌▒██  ▀█▄   ▒██ ██░░ ▓██▄      ▒▓█    ▄ ▒██  ▀█▄  ▒██░    ▒███   ▓██  ▀█ ██▒░██   █▌▒██  ▀█▄  ▓██ ░▄█ ▒
+░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░  ▒   ██▒   ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██░    ▒▓█  ▄ ▓██▒  ▐▌██▒░▓█▄   ▌░██▄▄▄▄██ ▒██▀▀█▄  
+░▒████▓  ▓█   ▓██▒ ░ ██▒▓░▒██████▒▒   ▒ ▓███▀ ░ ▓█   ▓██▒░██████▒░▒████▒▒██░   ▓██░░▒████▓  ▓█   ▓██▒░██▓ ▒██▒
+ ▒▒▓  ▒  ▒▒   ▓▒█░  ██▒▒▒ ▒ ▒▓▒ ▒ ░   ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░▓  ░░░ ▒░ ░░ ▒░   ▒ ▒  ▒▒▓  ▒  ▒▒   ▓▒█░░ ▒▓ ░▒▓░
+ ░ ▒  ▒   ▒   ▒▒ ░▓██ ░▒░ ░ ░▒  ░ ░     ░  ▒     ▒   ▒▒ ░░ ░ ▒  ░ ░ ░  ░░ ░░   ░ ▒░ ░ ▒  ▒   ▒   ▒▒ ░  ░▒ ░ ▒░
+ ░ ░  ░   ░   ▒   ▒ ▒ ░░  ░  ░  ░     ░          ░   ▒     ░ ░      ░      ░   ░ ░  ░ ░  ░   ░   ▒     ░░   ░ 
+   ░          ░  ░░ ░           ░     ░ ░            ░  ░    ░  ░   ░  ░         ░    ░          ░  ░   ░     
+ ░                ░ ░                 ░                                             ░                         
+
+
+                                                          ░░                          
+                                                ▒▒▓▓▓▓██▓▓▓▓                        
+                                                ▒▒░░░░░░░░░░                        
+                                                ▒▒░░▒▒▓▓░░░░                        
+                                                ▒▒░░░░▓▓░░░░                        
+                                                ▒▒░░▒▒▓▓▒▒░░                        
+                                                ▒▒░░░░░░░░░░                        
+                                                ░░                        
+
+
+
+                         ▄▄▄▄ ▓██   ██▓    ███▄ ▄███▓ ▄▄▄       ██▀███   ██ ▄█▀     █████▒
+                        ▓█████▄▒██  ██▒   ▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓██   ▒ 
+                        ▒██▒ ▄██▒██ ██░   ▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░    ▒████ ░ 
+                        ▒██░█▀  ░ ▐██▓░   ▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄    ░▓█▒  ░ 
+                        ░▓█  ▀█▓░ ██▒▓░   ▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄   ░▒█░    
+                        ░▒▓███▀▒ ██▒▒▒    ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒    ▒ ░    
+                        ▒░▒   ░▓██ ░▒░    ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░    ░      
+                         ░    ░▒ ▒ ░░     ░      ░     ░   ▒     ░░   ░ ░ ░░ ░     ░ ░    
+                         ░     ░ ░               ░         ░  ░   ░     ░  ░              
+                              ░░ ░
+
+Enter the year of the first date(yyyy): 
+================================================================================== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ==================================================================================
+
+▓█████▄  ▄▄▄     ▓██   ██▓  ██████     ▄████▄   ▄▄▄       ██▓    ▓█████  ███▄    █ ▓█████▄  ▄▄▄       ██▀███  
+▒██▀ ██▌▒████▄    ▒██  ██▒▒██    ▒    ▒██▀ ▀█  ▒████▄    ▓██▒    ▓█   ▀  ██ ▀█   █ ▒██▀ ██▌▒████▄    ▓██ ▒ ██▒
+░██   █▌▒██  ▀█▄   ▒██ ██░░ ▓██▄      ▒▓█    ▄ ▒██  ▀█▄  ▒██░    ▒███   ▓██  ▀█ ██▒░██   █▌▒██  ▀█▄  ▓██ ░▄█ ▒
+░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░  ▒   ██▒   ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██░    ▒▓█  ▄ ▓██▒  ▐▌██▒░▓█▄   ▌░██▄▄▄▄██ ▒██▀▀█▄  
+░▒████▓  ▓█   ▓██▒ ░ ██▒▓░▒██████▒▒   ▒ ▓███▀ ░ ▓█   ▓██▒░██████▒░▒████▒▒██░   ▓██░░▒████▓  ▓█   ▓██▒░██▓ ▒██▒
+ ▒▒▓  ▒  ▒▒   ▓▒█░  ██▒▒▒ ▒ ▒▓▒ ▒ ░   ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░▓  ░░░ ▒░ ░░ ▒░   ▒ ▒  ▒▒▓  ▒  ▒▒   ▓▒█░░ ▒▓ ░▒▓░
+ ░ ▒  ▒   ▒   ▒▒ ░▓██ ░▒░ ░ ░▒  ░ ░     ░  ▒     ▒   ▒▒ ░░ ░ ▒  ░ ░ ░  ░░ ░░   ░ ▒░ ░ ▒  ▒   ▒   ▒▒ ░  ░▒ ░ ▒░
+ ░ ░  ░   ░   ▒   ▒ ▒ ░░  ░  ░  ░     ░          ░   ▒     ░ ░      ░      ░   ░ ░  ░ ░  ░   ░   ▒     ░░   ░ 
+   ░          ░  ░░ ░           ░     ░ ░            ░  ░    ░  ░   ░  ░         ░    ░          ░  ░   ░     
+ ░                ░ ░                 ░                                             ░                         
+                                                          ░░                          
+                                                ▒▒▓▓▓▓██▓▓▓▓                        
+                                                ▒▒░░░░░░░░░░                        
+                                                ▒▒░░▒▒▓▓░░░░                        
+                                                ▒▒░░░░▓▓░░░░                        
+                                                ▒▒░░▒▒▓▓▒▒░░                        
+                                                ▒▒░░░░░░░░░░                        
+                                                ░░                        
+
+                         ▄▄▄▄ ▓██   ██▓    ███▄ ▄███▓ ▄▄▄       ██▀███   ██ ▄█▀     █████▒
+                        ▓█████▄▒██  ██▒   ▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓██   ▒ 
+                        ▒██▒ ▄██▒██ ██░   ▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░    ▒████ ░ 
+                        ▒██░█▀  ░ ▐██▓░   ▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄    ░▓█▒  ░ 
+                        ░▓█  ▀█▓░ ██▒▓░   ▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄   ░▒█░    
+                        ░▒▓███▀▒ ██▒▒▒    ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒    ▒ ░    
+                        ▒░▒   ░▓██ ░▒░    ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░    ░      
+                         ░    ░▒ ▒ ░░     ░      ░     ░   ▒     ░░   ░ ░ ░░ ░     ░ ░    
+                         ░     ░ ░               ░         ░  ░   ░     ░  ░              
+                              ░░ ░
+
+Enter the year of the first date(yyyy): 
+================================================================================== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ==================================================================================
+
+▓█████▄  ▄▄▄     ▓██   ██▓  ██████     ▄████▄   ▄▄▄       ██▓     ▄████▄   █    ██  ██▓    ▄▄▄     ▄▄▄█████▓ ▒█████   ██▀███  
+▒██▀ ██▌▒████▄    ▒██  ██▒▒██    ▒    ▒██▀ ▀█  ▒████▄    ▓██▒    ▒██▀ ▀█   ██  ▓██▒▓██▒   ▒████▄   ▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒
+░██   █▌▒██  ▀█▄   ▒██ ██░░ ▓██▄      ▒▓█    ▄ ▒██  ▀█▄  ▒██░    ▒▓█    ▄ ▓██  ▒██░▒██░   ▒██  ▀█▄ ▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒
+░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░  ▒   ██▒   ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██░    ▒▓▓▄ ▄██▒▓▓█  ░██░▒██░   ░██▄▄▄▄██░ ▓██▓ ░ ▒██   ██░▒██▀▀█▄  
+░▒████▓  ▓█   ▓██▒ ░ ██▒▓░▒██████▒▒   ▒ ▓███▀ ░ ▓█   ▓██▒░██████▒▒ ▓███▀ ░▒▒█████▓ ░██████▒▓█   ▓██▒ ▒██▒ ░ ░ ████▓▒░░██▓ ▒██▒
+ ▒▒▓  ▒  ▒▒   ▓▒█░  ██▒▒▒ ▒ ▒▓▒ ▒ ░   ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░▓  ░░ ░▒ ▒  ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░▒▒   ▓▒█░ ▒ ░░   ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░
+ ░ ▒  ▒   ▒   ▒▒ ░▓██ ░▒░ ░ ░▒  ░ ░     ░  ▒     ▒   ▒▒ ░░ ░ ▒  ░  ░  ▒   ░░▒░ ░ ░ ░ ░ ▒  ░ ▒   ▒▒ ░   ░      ░ ▒ ▒░   ░▒ ░ ▒░
+ ░ ░  ░   ░   ▒   ▒ ▒ ░░  ░  ░  ░     ░          ░   ▒     ░ ░   ░         ░░░ ░ ░   ░ ░    ░   ▒    ░      ░ ░ ░ ▒    ░░   ░ 
+   ░          ░  ░░ ░           ░     ░ ░            ░  ░    ░  ░░ ░         ░         ░  ░     ░  ░            ░ ░     ░     
+ ░                ░ ░                 ░                          ░                                                            
+
+                                                              ░░                          
+                                                    ▒▒▓▓▓▓██▓▓▓▓                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ▒▒░░▒▒▓▓░░░░                        
+                                                    ▒▒░░░░▓▓░░░░                        
+                                                    ▒▒░░▒▒▓▓▒▒░░                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ░░
+                                                    
+
+                         ▄▄▄▄ ▓██   ██▓    ███▄ ▄███▓ ▄▄▄       ██▀███   ██ ▄█▀     █████▒
+                        ▓█████▄▒██  ██▒   ▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓██   ▒ 
+                        ▒██▒ ▄██▒██ ██░   ▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░    ▒████ ░ 
+                        ▒██░█▀  ░ ▐██▓░   ▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄    ░▓█▒  ░ 
+                        ░▓█  ▀█▓░ ██▒▓░   ▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄   ░▒█░    
+                        ░▒▓███▀▒ ██▒▒▒    ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒    ▒ ░    
+                        ▒░▒   ░▓██ ░▒░    ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░    ░      
+                         ░    ░▒ ▒ ░░     ░      ░     ░   ▒     ░░   ░ ░ ░░ ░     ░ ░    
+                         ░     ░ ░               ░         ░  ░   ░     ░  ░              
+                              ░░ ░
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+Enter the year of the first date(yyyy): 
+Traceback (most recent call last):
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 175, in <module>
+    main()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 165, in main
+    y1, m1, d1, y2, m2, d2 = userInput()
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 73, in userInput
+    y1  = ask_user("Enter the year of the first date(yyyy): ")
+  File "C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py", line 56, in ask_user
+    response = int(input(Question))
+KeyboardInterrupt
+>>> 
+================================================================================== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ==================================================================================
+
+▓█████▄  ▄▄▄     ▓██   ██▓  ██████     ▄████▄   ▄▄▄       ██▓     ▄████▄   █    ██  ██▓    ▄▄▄     ▄▄▄█████▓ ▒█████   ██▀███  
+▒██▀ ██▌▒████▄    ▒██  ██▒▒██    ▒    ▒██▀ ▀█  ▒████▄    ▓██▒    ▒██▀ ▀█   ██  ▓██▒▓██▒   ▒████▄   ▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒
+░██   █▌▒██  ▀█▄   ▒██ ██░░ ▓██▄      ▒▓█    ▄ ▒██  ▀█▄  ▒██░    ▒▓█    ▄ ▓██  ▒██░▒██░   ▒██  ▀█▄ ▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒
+░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░  ▒   ██▒   ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██░    ▒▓▓▄ ▄██▒▓▓█  ░██░▒██░   ░██▄▄▄▄██░ ▓██▓ ░ ▒██   ██░▒██▀▀█▄  
+░▒████▓  ▓█   ▓██▒ ░ ██▒▓░▒██████▒▒   ▒ ▓███▀ ░ ▓█   ▓██▒░██████▒▒ ▓███▀ ░▒▒█████▓ ░██████▒▓█   ▓██▒ ▒██▒ ░ ░ ████▓▒░░██▓ ▒██▒
+ ▒▒▓  ▒  ▒▒   ▓▒█░  ██▒▒▒ ▒ ▒▓▒ ▒ ░   ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░▓  ░░ ░▒ ▒  ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░▒▒   ▓▒█░ ▒ ░░   ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░
+ ░ ▒  ▒   ▒   ▒▒ ░▓██ ░▒░ ░ ░▒  ░ ░     ░  ▒     ▒   ▒▒ ░░ ░ ▒  ░  ░  ▒   ░░▒░ ░ ░ ░ ░ ▒  ░ ▒   ▒▒ ░   ░      ░ ▒ ▒░   ░▒ ░ ▒░
+ ░ ░  ░   ░   ▒   ▒ ▒ ░░  ░  ░  ░     ░          ░   ▒     ░ ░   ░         ░░░ ░ ░   ░ ░    ░   ▒    ░      ░ ░ ░ ▒    ░░   ░ 
+   ░          ░  ░░ ░           ░     ░ ░            ░  ░    ░  ░░ ░         ░         ░  ░     ░  ░            ░ ░     ░     
+ ░                ░ ░                 ░                          ░                                                            
+
+                                                              ░░                          
+                                                    ▒▒▓▓▓▓██▓▓▓▓                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ▒▒░░▒▒▓▓░░░░                        
+                                                    ▒▒░░░░▓▓░░░░                        
+                                                    ▒▒░░▒▒▓▓▒▒░░                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ░░
+                                                    
+
+                         ▄▄▄▄ ▓██   ██▓    ███▄ ▄███▓ ▄▄▄       ██▀███   ██ ▄█▀     █████▒
+                        ▓█████▄▒██  ██▒   ▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓██   ▒ 
+                        ▒██▒ ▄██▒██ ██░   ▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░    ▒████ ░ 
+                        ▒██░█▀  ░ ▐██▓░   ▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄    ░▓█▒  ░ 
+                        ░▓█  ▀█▓░ ██▒▓░   ▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄   ░▒█░    
+                        ░▒▓███▀▒ ██▒▒▒    ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒    ▒ ░    
+                        ▒░▒   ░▓██ ░▒░    ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░    ░      
+                         ░    ░▒ ▒ ░░     ░      ░     ░   ▒     ░░   ░ ░ ░░ ░     ░ ░    
+                         ░     ░ ░               ░         ░  ░   ░     ░  ░              
+                              ░░ ░
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+Enter the year of the first date(yyyy): 
+================================================================================== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ==================================================================================
+
+▓█████▄  ▄▄▄     ▓██   ██▓  ██████     ▄████▄   ▄▄▄       ██▓     ▄████▄   █    ██  ██▓    ▄▄▄     ▄▄▄█████▓ ▒█████   ██▀███  
+▒██▀ ██▌▒████▄    ▒██  ██▒▒██    ▒    ▒██▀ ▀█  ▒████▄    ▓██▒    ▒██▀ ▀█   ██  ▓██▒▓██▒   ▒████▄   ▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒
+░██   █▌▒██  ▀█▄   ▒██ ██░░ ▓██▄      ▒▓█    ▄ ▒██  ▀█▄  ▒██░    ▒▓█    ▄ ▓██  ▒██░▒██░   ▒██  ▀█▄ ▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒
+░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░  ▒   ██▒   ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██░    ▒▓▓▄ ▄██▒▓▓█  ░██░▒██░   ░██▄▄▄▄██░ ▓██▓ ░ ▒██   ██░▒██▀▀█▄  
+░▒████▓  ▓█   ▓██▒ ░ ██▒▓░▒██████▒▒   ▒ ▓███▀ ░ ▓█   ▓██▒░██████▒▒ ▓███▀ ░▒▒█████▓ ░██████▒▓█   ▓██▒ ▒██▒ ░ ░ ████▓▒░░██▓ ▒██▒
+ ▒▒▓  ▒  ▒▒   ▓▒█░  ██▒▒▒ ▒ ▒▓▒ ▒ ░   ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░▓  ░░ ░▒ ▒  ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░▒▒   ▓▒█░ ▒ ░░   ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░
+ ░ ▒  ▒   ▒   ▒▒ ░▓██ ░▒░ ░ ░▒  ░ ░     ░  ▒     ▒   ▒▒ ░░ ░ ▒  ░  ░  ▒   ░░▒░ ░ ░ ░ ░ ▒  ░ ▒   ▒▒ ░   ░      ░ ▒ ▒░   ░▒ ░ ▒░
+ ░ ░  ░   ░   ▒   ▒ ▒ ░░  ░  ░  ░     ░          ░   ▒     ░ ░   ░         ░░░ ░ ░   ░ ░    ░   ▒    ░      ░ ░ ░ ▒    ░░   ░ 
+   ░          ░  ░░ ░           ░     ░ ░            ░  ░    ░  ░░ ░         ░         ░  ░     ░  ░            ░ ░     ░     
+ ░                ░ ░                 ░                          ░                                                            
+
+                                                              ░░                          
+                                                    ▒▒▓▓▓▓██▓▓▓▓                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ▒▒░░▒▒▓▓░░░░                        
+                                                    ▒▒░░░░▓▓░░░░                        
+                                                    ▒▒░░▒▒▓▓▒▒░░                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ░░
+                                                    
+
+                         ▄▄▄▄ ▓██   ██▓    ███▄ ▄███▓ ▄▄▄       ██▀███   ██ ▄█▀     █████▒
+                        ▓█████▄▒██  ██▒   ▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓██   ▒ 
+                        ▒██▒ ▄██▒██ ██░   ▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░    ▒████ ░ 
+                        ▒██░█▀  ░ ▐██▓░   ▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄    ░▓█▒  ░ 
+                        ░▓█  ▀█▓░ ██▒▓░   ▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄   ░▒█░    
+                        ░▒▓███▀▒ ██▒▒▒    ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒    ▒ ░    
+                        ▒░▒   ░▓██ ░▒░    ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░    ░      
+                         ░    ░▒ ▒ ░░     ░      ░     ░   ▒     ░░   ░ ░ ░░ ░     ░ ░    
+                         ░     ░ ░               ░         ░  ░   ░     ░  ░              
+                              ░░ ░
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 1988
+Enter the month of the second date(M): 10
+Enter the Day of the second date(D): 20
+
+	The first date you entered is 1988-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are -1826 days between 1993-10-20 and 1988-10-20 
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is -157766400 seconds!
+		That is -2629440 minutes!
+			That is -43824 hours!
+			That is -260.85714285714283 weeks!
+		That is -59.993230000000004 months!
+	And That is -5.002739726027397 years!
+
+Would you like to play again? y/n: n
+>>> 
+================================================================================== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ==================================================================================
+
+▓█████▄  ▄▄▄     ▓██   ██▓  ██████     ▄████▄   ▄▄▄       ██▓     ▄████▄   █    ██  ██▓    ▄▄▄     ▄▄▄█████▓ ▒█████   ██▀███  
+▒██▀ ██▌▒████▄    ▒██  ██▒▒██    ▒    ▒██▀ ▀█  ▒████▄    ▓██▒    ▒██▀ ▀█   ██  ▓██▒▓██▒   ▒████▄   ▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒
+░██   █▌▒██  ▀█▄   ▒██ ██░░ ▓██▄      ▒▓█    ▄ ▒██  ▀█▄  ▒██░    ▒▓█    ▄ ▓██  ▒██░▒██░   ▒██  ▀█▄ ▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒
+░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░  ▒   ██▒   ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██░    ▒▓▓▄ ▄██▒▓▓█  ░██░▒██░   ░██▄▄▄▄██░ ▓██▓ ░ ▒██   ██░▒██▀▀█▄  
+░▒████▓  ▓█   ▓██▒ ░ ██▒▓░▒██████▒▒   ▒ ▓███▀ ░ ▓█   ▓██▒░██████▒▒ ▓███▀ ░▒▒█████▓ ░██████▒▓█   ▓██▒ ▒██▒ ░ ░ ████▓▒░░██▓ ▒██▒
+ ▒▒▓  ▒  ▒▒   ▓▒█░  ██▒▒▒ ▒ ▒▓▒ ▒ ░   ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░▓  ░░ ░▒ ▒  ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░▒▒   ▓▒█░ ▒ ░░   ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░
+ ░ ▒  ▒   ▒   ▒▒ ░▓██ ░▒░ ░ ░▒  ░ ░     ░  ▒     ▒   ▒▒ ░░ ░ ▒  ░  ░  ▒   ░░▒░ ░ ░ ░ ░ ▒  ░ ▒   ▒▒ ░   ░      ░ ▒ ▒░   ░▒ ░ ▒░
+ ░ ░  ░   ░   ▒   ▒ ▒ ░░  ░  ░  ░     ░          ░   ▒     ░ ░   ░         ░░░ ░ ░   ░ ░    ░   ▒    ░      ░ ░ ░ ▒    ░░   ░ 
+   ░          ░  ░░ ░           ░     ░ ░            ░  ░    ░  ░░ ░         ░         ░  ░     ░  ░            ░ ░     ░     
+ ░                ░ ░                 ░                          ░                                                            
+
+                                                              ░░                          
+                                                    ▒▒▓▓▓▓██▓▓▓▓                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ▒▒░░▒▒▓▓░░░░                        
+                                                    ▒▒░░░░▓▓░░░░                        
+                                                    ▒▒░░▒▒▓▓▒▒░░                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ░░
+                                                    
+
+                         ▄▄▄▄ ▓██   ██▓    ███▄ ▄███▓ ▄▄▄       ██▀███   ██ ▄█▀     █████▒
+                        ▓█████▄▒██  ██▒   ▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓██   ▒ 
+                        ▒██▒ ▄██▒██ ██░   ▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░    ▒████ ░ 
+                        ▒██░█▀  ░ ▐██▓░   ▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄    ░▓█▒  ░ 
+                        ░▓█  ▀█▓░ ██▒▓░   ▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄   ░▒█░    
+                        ░▒▓███▀▒ ██▒▒▒    ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒    ▒ ░    
+                        ▒░▒   ░▓██ ░▒░    ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░    ░      
+                         ░    ░▒ ▒ ░░     ░      ░     ░   ▒     ░░   ░ ░ ░░ ░     ░ ░    
+                         ░     ░ ░               ░         ░  ░   ░     ░  ░              
+                              ░░ ░
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+Enter the month of the second date(M): 10
+Enter the Day of the second date(D): 20
+
+	The first date you entered is 2021-10-20
+	is this correct? y/n: 
+================================================================================== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ==================================================================================
+
+▓█████▄  ▄▄▄     ▓██   ██▓  ██████     ▄████▄   ▄▄▄       ██▓     ▄████▄   █    ██  ██▓    ▄▄▄     ▄▄▄█████▓ ▒█████   ██▀███  
+▒██▀ ██▌▒████▄    ▒██  ██▒▒██    ▒    ▒██▀ ▀█  ▒████▄    ▓██▒    ▒██▀ ▀█   ██  ▓██▒▓██▒   ▒████▄   ▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒
+░██   █▌▒██  ▀█▄   ▒██ ██░░ ▓██▄      ▒▓█    ▄ ▒██  ▀█▄  ▒██░    ▒▓█    ▄ ▓██  ▒██░▒██░   ▒██  ▀█▄ ▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒
+░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░  ▒   ██▒   ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██░    ▒▓▓▄ ▄██▒▓▓█  ░██░▒██░   ░██▄▄▄▄██░ ▓██▓ ░ ▒██   ██░▒██▀▀█▄  
+░▒████▓  ▓█   ▓██▒ ░ ██▒▓░▒██████▒▒   ▒ ▓███▀ ░ ▓█   ▓██▒░██████▒▒ ▓███▀ ░▒▒█████▓ ░██████▒▓█   ▓██▒ ▒██▒ ░ ░ ████▓▒░░██▓ ▒██▒
+ ▒▒▓  ▒  ▒▒   ▓▒█░  ██▒▒▒ ▒ ▒▓▒ ▒ ░   ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░▓  ░░ ░▒ ▒  ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░▒▒   ▓▒█░ ▒ ░░   ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░
+ ░ ▒  ▒   ▒   ▒▒ ░▓██ ░▒░ ░ ░▒  ░ ░     ░  ▒     ▒   ▒▒ ░░ ░ ▒  ░  ░  ▒   ░░▒░ ░ ░ ░ ░ ▒  ░ ▒   ▒▒ ░   ░      ░ ▒ ▒░   ░▒ ░ ▒░
+ ░ ░  ░   ░   ▒   ▒ ▒ ░░  ░  ░  ░     ░          ░   ▒     ░ ░   ░         ░░░ ░ ░   ░ ░    ░   ▒    ░      ░ ░ ░ ▒    ░░   ░ 
+   ░          ░  ░░ ░           ░     ░ ░            ░  ░    ░  ░░ ░         ░         ░  ░     ░  ░            ░ ░     ░     
+ ░                ░ ░                 ░                          ░                                                            
+
+                                                              ░░                          
+                                                    ▒▒▓▓▓▓██▓▓▓▓                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ▒▒░░▒▒▓▓░░░░                        
+                                                    ▒▒░░░░▓▓░░░░                        
+                                                    ▒▒░░▒▒▓▓▒▒░░                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ░░
+                                                    
+
+                         ▄▄▄▄ ▓██   ██▓    ███▄ ▄███▓ ▄▄▄       ██▀███   ██ ▄█▀     █████▒
+                        ▓█████▄▒██  ██▒   ▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓██   ▒ 
+                        ▒██▒ ▄██▒██ ██░   ▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░    ▒████ ░ 
+                        ▒██░█▀  ░ ▐██▓░   ▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄    ░▓█▒  ░ 
+                        ░▓█  ▀█▓░ ██▒▓░   ▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄   ░▒█░    
+                        ░▒▓███▀▒ ██▒▒▒    ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒    ▒ ░    
+                        ▒░▒   ░▓██ ░▒░    ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░    ░      
+                         ░    ░▒ ▒ ░░     ░      ░     ░   ▒     ░░   ░ ░ ░░ ░     ░ ░    
+                         ░     ░ ░               ░         ░  ░   ░     ░  ░              
+                              ░░ ░
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+
+Enter the month of the second date(M): 10
+
+Enter the Day of the second date(D): 20
+
+	The first date you entered is 2021-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are 10227 days between 1993-10-20 and 2021-10-20 
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is 883612800 seconds!
+		That is 14726880 minutes!
+			That is 245448 hours!
+			That is 1461.0 weeks!
+		That is 336.00808500000005 months!
+	And That is 28.019178082191782 years!
+
+Would you like to play again? y/n: n
+
+ ▄▀▀█▄▄   ▄▀▀█▀▄    ▄▀▀▄ ▀▄  ▄▀▀▀▀▄        ▄▀▀█▄▄   ▄▀▀▀▀▄   ▄▀▀▄ ▀▄  ▄▀▀▀▀▄   
+▐ ▄▀   █ █   █  █  █  █ █ █ █             ▐ ▄▀   █ █      █ █  █ █ █ █         
+  █▄▄▄▀  ▐   █  ▐  ▐  █  ▀█ █    ▀▄▄        █▄▄▄▀  █      █ ▐  █  ▀█ █    ▀▄▄  
+  █   █      █       █   █  █     █ █       █   █  ▀▄    ▄▀   █   █  █     █ █ 
+ ▄▀▄▄▄▀   ▄▀▀▀▀▀▄  ▄▀   █   ▐▀▄▄▄▄▀ ▐      ▄▀▄▄▄▀    ▀▀▀▀   ▄▀   █   ▐▀▄▄▄▄▀ ▐ 
+█    ▐   █       █ █    ▐   ▐             █    ▐            █    ▐   ▐         
+▐        ▐       ▐ ▐                      ▐                 ▐                  
+                                                                               
+Watch our for the closing doors on your way out
+(Press enter to close the app)
+>>> 
+================================================================================== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ==================================================================================
+
+▓█████▄  ▄▄▄     ▓██   ██▓  ██████     ▄████▄   ▄▄▄       ██▓     ▄████▄   █    ██  ██▓    ▄▄▄     ▄▄▄█████▓ ▒█████   ██▀███  
+▒██▀ ██▌▒████▄    ▒██  ██▒▒██    ▒    ▒██▀ ▀█  ▒████▄    ▓██▒    ▒██▀ ▀█   ██  ▓██▒▓██▒   ▒████▄   ▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒
+░██   █▌▒██  ▀█▄   ▒██ ██░░ ▓██▄      ▒▓█    ▄ ▒██  ▀█▄  ▒██░    ▒▓█    ▄ ▓██  ▒██░▒██░   ▒██  ▀█▄ ▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒
+░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░  ▒   ██▒   ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██░    ▒▓▓▄ ▄██▒▓▓█  ░██░▒██░   ░██▄▄▄▄██░ ▓██▓ ░ ▒██   ██░▒██▀▀█▄  
+░▒████▓  ▓█   ▓██▒ ░ ██▒▓░▒██████▒▒   ▒ ▓███▀ ░ ▓█   ▓██▒░██████▒▒ ▓███▀ ░▒▒█████▓ ░██████▒▓█   ▓██▒ ▒██▒ ░ ░ ████▓▒░░██▓ ▒██▒
+ ▒▒▓  ▒  ▒▒   ▓▒█░  ██▒▒▒ ▒ ▒▓▒ ▒ ░   ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░▓  ░░ ░▒ ▒  ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░▒▒   ▓▒█░ ▒ ░░   ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░
+ ░ ▒  ▒   ▒   ▒▒ ░▓██ ░▒░ ░ ░▒  ░ ░     ░  ▒     ▒   ▒▒ ░░ ░ ▒  ░  ░  ▒   ░░▒░ ░ ░ ░ ░ ▒  ░ ▒   ▒▒ ░   ░      ░ ▒ ▒░   ░▒ ░ ▒░
+ ░ ░  ░   ░   ▒   ▒ ▒ ░░  ░  ░  ░     ░          ░   ▒     ░ ░   ░         ░░░ ░ ░   ░ ░    ░   ▒    ░      ░ ░ ░ ▒    ░░   ░ 
+   ░          ░  ░░ ░           ░     ░ ░            ░  ░    ░  ░░ ░         ░         ░  ░     ░  ░            ░ ░     ░     
+ ░                ░ ░                 ░                          ░                                                            
+
+                                                              ░░                          
+                                                    ▒▒▓▓▓▓██▓▓▓▓                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ▒▒░░▒▒▓▓░░░░                        
+                                                    ▒▒░░░░▓▓░░░░                        
+                                                    ▒▒░░▒▒▓▓▒▒░░                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ░░
+                                                    
+
+                         ▄▄▄▄ ▓██   ██▓    ███▄ ▄███▓ ▄▄▄       ██▀███   ██ ▄█▀     █████▒
+                        ▓█████▄▒██  ██▒   ▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓██   ▒ 
+                        ▒██▒ ▄██▒██ ██░   ▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░    ▒████ ░ 
+                        ▒██░█▀  ░ ▐██▓░   ▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄    ░▓█▒  ░ 
+                        ░▓█  ▀█▓░ ██▒▓░   ▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄   ░▒█░    
+                        ░▒▓███▀▒ ██▒▒▒    ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒    ▒ ░    
+                        ▒░▒   ░▓██ ░▒░    ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░    ░      
+                         ░    ░▒ ▒ ░░     ░      ░     ░   ▒     ░░   ░ ░ ░░ ░     ░ ░    
+                         ░     ░ ░               ░         ░  ░   ░     ░  ░              
+                              ░░ ░
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 1111
+
+Enter the month of the second date(M): 1
+
+Enter the Day of the second date(D): 2
+
+	The first date you entered is 1111-01-02
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are 1 days between 1111-01-01 and 1111-01-02 
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is" 86400 "seconds!
+		That is 1440 minutes!
+			That is 24 hours!
+			That is 0.14285714285714285 weeks!
+		That is 0.032855 months!
+	And That is 0.0027397260273972603 years!
+
+Would you like to play again? y/n: 
+================================================================================== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ==================================================================================
+
+▓█████▄  ▄▄▄     ▓██   ██▓  ██████     ▄████▄   ▄▄▄       ██▓     ▄████▄   █    ██  ██▓    ▄▄▄     ▄▄▄█████▓ ▒█████   ██▀███  
+▒██▀ ██▌▒████▄    ▒██  ██▒▒██    ▒    ▒██▀ ▀█  ▒████▄    ▓██▒    ▒██▀ ▀█   ██  ▓██▒▓██▒   ▒████▄   ▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒
+░██   █▌▒██  ▀█▄   ▒██ ██░░ ▓██▄      ▒▓█    ▄ ▒██  ▀█▄  ▒██░    ▒▓█    ▄ ▓██  ▒██░▒██░   ▒██  ▀█▄ ▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒
+░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░  ▒   ██▒   ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██░    ▒▓▓▄ ▄██▒▓▓█  ░██░▒██░   ░██▄▄▄▄██░ ▓██▓ ░ ▒██   ██░▒██▀▀█▄  
+░▒████▓  ▓█   ▓██▒ ░ ██▒▓░▒██████▒▒   ▒ ▓███▀ ░ ▓█   ▓██▒░██████▒▒ ▓███▀ ░▒▒█████▓ ░██████▒▓█   ▓██▒ ▒██▒ ░ ░ ████▓▒░░██▓ ▒██▒
+ ▒▒▓  ▒  ▒▒   ▓▒█░  ██▒▒▒ ▒ ▒▓▒ ▒ ░   ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░▓  ░░ ░▒ ▒  ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░▒▒   ▓▒█░ ▒ ░░   ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░
+ ░ ▒  ▒   ▒   ▒▒ ░▓██ ░▒░ ░ ░▒  ░ ░     ░  ▒     ▒   ▒▒ ░░ ░ ▒  ░  ░  ▒   ░░▒░ ░ ░ ░ ░ ▒  ░ ▒   ▒▒ ░   ░      ░ ▒ ▒░   ░▒ ░ ▒░
+ ░ ░  ░   ░   ▒   ▒ ▒ ░░  ░  ░  ░     ░          ░   ▒     ░ ░   ░         ░░░ ░ ░   ░ ░    ░   ▒    ░      ░ ░ ░ ▒    ░░   ░ 
+   ░          ░  ░░ ░           ░     ░ ░            ░  ░    ░  ░░ ░         ░         ░  ░     ░  ░            ░ ░     ░     
+ ░                ░ ░                 ░                          ░                                                            
+
+                                                              ░░                          
+                                                    ▒▒▓▓▓▓██▓▓▓▓                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ▒▒░░▒▒▓▓░░░░                        
+                                                    ▒▒░░░░▓▓░░░░                        
+                                                    ▒▒░░▒▒▓▓▒▒░░                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ░░
+                                                    
+
+                         ▄▄▄▄ ▓██   ██▓    ███▄ ▄███▓ ▄▄▄       ██▀███   ██ ▄█▀     █████▒
+                        ▓█████▄▒██  ██▒   ▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓██   ▒ 
+                        ▒██▒ ▄██▒██ ██░   ▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░    ▒████ ░ 
+                        ▒██░█▀  ░ ▐██▓░   ▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄    ░▓█▒  ░ 
+                        ░▓█  ▀█▓░ ██▒▓░   ▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄   ░▒█░    
+                        ░▒▓███▀▒ ██▒▒▒    ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒    ▒ ░    
+                        ▒░▒   ░▓██ ░▒░    ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░    ░      
+                         ░    ░▒ ▒ ░░     ░      ░     ░   ▒     ░░   ░ ░ ░░ ░     ░ ░    
+                         ░     ░ ░               ░         ░  ░   ░     ░  ░              
+                              ░░ ░
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+1
+Enter the year of the second date(yyyy): 1111
+
+Enter the month of the second date(M): 1
+
+Enter the Day of the second date(D): 2
+
+	The first date you entered is 1111-01-02
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are 1 days between 1111-01-01 and 1111-01-02 
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is"86400"seconds!
+		That is 1440 minutes!
+			That is 24 hours!
+			That is 0.14285714285714285 weeks!
+		That is 0.032855 months!
+	And That is 0.0027397260273972603 years!
+
+Would you like to play again? y/n: 
+================================================================================== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ==================================================================================
+
+▓█████▄  ▄▄▄     ▓██   ██▓  ██████     ▄████▄   ▄▄▄       ██▓     ▄████▄   █    ██  ██▓    ▄▄▄     ▄▄▄█████▓ ▒█████   ██▀███  
+▒██▀ ██▌▒████▄    ▒██  ██▒▒██    ▒    ▒██▀ ▀█  ▒████▄    ▓██▒    ▒██▀ ▀█   ██  ▓██▒▓██▒   ▒████▄   ▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒
+░██   █▌▒██  ▀█▄   ▒██ ██░░ ▓██▄      ▒▓█    ▄ ▒██  ▀█▄  ▒██░    ▒▓█    ▄ ▓██  ▒██░▒██░   ▒██  ▀█▄ ▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒
+░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░  ▒   ██▒   ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██░    ▒▓▓▄ ▄██▒▓▓█  ░██░▒██░   ░██▄▄▄▄██░ ▓██▓ ░ ▒██   ██░▒██▀▀█▄  
+░▒████▓  ▓█   ▓██▒ ░ ██▒▓░▒██████▒▒   ▒ ▓███▀ ░ ▓█   ▓██▒░██████▒▒ ▓███▀ ░▒▒█████▓ ░██████▒▓█   ▓██▒ ▒██▒ ░ ░ ████▓▒░░██▓ ▒██▒
+ ▒▒▓  ▒  ▒▒   ▓▒█░  ██▒▒▒ ▒ ▒▓▒ ▒ ░   ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░▓  ░░ ░▒ ▒  ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░▒▒   ▓▒█░ ▒ ░░   ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░
+ ░ ▒  ▒   ▒   ▒▒ ░▓██ ░▒░ ░ ░▒  ░ ░     ░  ▒     ▒   ▒▒ ░░ ░ ▒  ░  ░  ▒   ░░▒░ ░ ░ ░ ░ ▒  ░ ▒   ▒▒ ░   ░      ░ ▒ ▒░   ░▒ ░ ▒░
+ ░ ░  ░   ░   ▒   ▒ ▒ ░░  ░  ░  ░     ░          ░   ▒     ░ ░   ░         ░░░ ░ ░   ░ ░    ░   ▒    ░      ░ ░ ░ ▒    ░░   ░ 
+   ░          ░  ░░ ░           ░     ░ ░            ░  ░    ░  ░░ ░         ░         ░  ░     ░  ░            ░ ░     ░     
+ ░                ░ ░                 ░                          ░                                                            
+
+                                                              ░░                          
+                                                    ▒▒▓▓▓▓██▓▓▓▓                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ▒▒░░▒▒▓▓░░░░                        
+                                                    ▒▒░░░░▓▓░░░░                        
+                                                    ▒▒░░▒▒▓▓▒▒░░                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ░░
+                                                    
+
+                         ▄▄▄▄ ▓██   ██▓    ███▄ ▄███▓ ▄▄▄       ██▀███   ██ ▄█▀     █████▒
+                        ▓█████▄▒██  ██▒   ▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓██   ▒ 
+                        ▒██▒ ▄██▒██ ██░   ▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░    ▒████ ░ 
+                        ▒██░█▀  ░ ▐██▓░   ▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄    ░▓█▒  ░ 
+                        ░▓█  ▀█▓░ ██▒▓░   ▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄   ░▒█░    
+                        ░▒▓███▀▒ ██▒▒▒    ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒    ▒ ░    
+                        ▒░▒   ░▓██ ░▒░    ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░    ░      
+                         ░    ░▒ ▒ ░░     ░      ░     ░   ▒     ░░   ░ ░ ░░ ░     ░ ░    
+                         ░     ░ ░               ░         ░  ░   ░     ░  ░              
+                              ░░ ░
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 1111
+
+Enter the month of the second date(M): 1
+
+Enter the Day of the second date(D): 2
+
+	The first date you entered is 1111-01-02
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are 1 days between 1111-01-01 and 1111-01-02 
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is "86400" seconds!
+		That is 1440 minutes!
+			That is 24 hours!
+			That is 0.14285714285714285 weeks!
+		That is 0.032855 months!
+	And That is 0.0027397260273972603 years!
+
+Would you like to play again? y/n: 
+================================================================================== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ==================================================================================
+
+▓█████▄  ▄▄▄     ▓██   ██▓  ██████     ▄████▄   ▄▄▄       ██▓     ▄████▄   █    ██  ██▓    ▄▄▄     ▄▄▄█████▓ ▒█████   ██▀███  
+▒██▀ ██▌▒████▄    ▒██  ██▒▒██    ▒    ▒██▀ ▀█  ▒████▄    ▓██▒    ▒██▀ ▀█   ██  ▓██▒▓██▒   ▒████▄   ▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒
+░██   █▌▒██  ▀█▄   ▒██ ██░░ ▓██▄      ▒▓█    ▄ ▒██  ▀█▄  ▒██░    ▒▓█    ▄ ▓██  ▒██░▒██░   ▒██  ▀█▄ ▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒
+░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░  ▒   ██▒   ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██░    ▒▓▓▄ ▄██▒▓▓█  ░██░▒██░   ░██▄▄▄▄██░ ▓██▓ ░ ▒██   ██░▒██▀▀█▄  
+░▒████▓  ▓█   ▓██▒ ░ ██▒▓░▒██████▒▒   ▒ ▓███▀ ░ ▓█   ▓██▒░██████▒▒ ▓███▀ ░▒▒█████▓ ░██████▒▓█   ▓██▒ ▒██▒ ░ ░ ████▓▒░░██▓ ▒██▒
+ ▒▒▓  ▒  ▒▒   ▓▒█░  ██▒▒▒ ▒ ▒▓▒ ▒ ░   ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░▓  ░░ ░▒ ▒  ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░▒▒   ▓▒█░ ▒ ░░   ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░
+ ░ ▒  ▒   ▒   ▒▒ ░▓██ ░▒░ ░ ░▒  ░ ░     ░  ▒     ▒   ▒▒ ░░ ░ ▒  ░  ░  ▒   ░░▒░ ░ ░ ░ ░ ▒  ░ ▒   ▒▒ ░   ░      ░ ▒ ▒░   ░▒ ░ ▒░
+ ░ ░  ░   ░   ▒   ▒ ▒ ░░  ░  ░  ░     ░          ░   ▒     ░ ░   ░         ░░░ ░ ░   ░ ░    ░   ▒    ░      ░ ░ ░ ▒    ░░   ░ 
+   ░          ░  ░░ ░           ░     ░ ░            ░  ░    ░  ░░ ░         ░         ░  ░     ░  ░            ░ ░     ░     
+ ░                ░ ░                 ░                          ░                                                            
+
+                                                              ░░                          
+                                                    ▒▒▓▓▓▓██▓▓▓▓                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ▒▒░░▒▒▓▓░░░░                        
+                                                    ▒▒░░░░▓▓░░░░                        
+                                                    ▒▒░░▒▒▓▓▒▒░░                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ░░
+                                                    
+
+                         ▄▄▄▄ ▓██   ██▓    ███▄ ▄███▓ ▄▄▄       ██▀███   ██ ▄█▀     █████▒
+                        ▓█████▄▒██  ██▒   ▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓██   ▒ 
+                        ▒██▒ ▄██▒██ ██░   ▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░    ▒████ ░ 
+                        ▒██░█▀  ░ ▐██▓░   ▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄    ░▓█▒  ░ 
+                        ░▓█  ▀█▓░ ██▒▓░   ▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄   ░▒█░    
+                        ░▒▓███▀▒ ██▒▒▒    ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒    ▒ ░    
+                        ▒░▒   ░▓██ ░▒░    ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░    ░      
+                         ░    ░▒ ▒ ░░     ░      ░     ░   ▒     ░░   ░ ░ ░░ ░     ░ ░    
+                         ░     ░ ░               ░         ░  ░   ░     ░  ░              
+                              ░░ ░
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 1111
+
+Enter the Month of the first date(M): 1
+
+Enter the Day of the first date(D): 1
+
+	The first date you entered is 1111-01-01
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 1111
+
+Enter the month of the second date(M): 1
+
+Enter the Day of the second date(D): 2
+
+	The first date you entered is 1111-01-02
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are 1 days between 1111-01-01 and 1111-01-02 
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is "86400" seconds!
+		That is "1440" minutes!
+			That is "24" hours!
+			That is "0.14285714285714285" weeks!
+		That is "0.032855" months!
+	And That is "0.0027397260273972603" years!
+
+Would you like to play again? y/n: n
+
+ ▄▀▀█▄▄   ▄▀▀█▀▄    ▄▀▀▄ ▀▄  ▄▀▀▀▀▄        ▄▀▀█▄▄   ▄▀▀▀▀▄   ▄▀▀▄ ▀▄  ▄▀▀▀▀▄   
+▐ ▄▀   █ █   █  █  █  █ █ █ █             ▐ ▄▀   █ █      █ █  █ █ █ █         
+  █▄▄▄▀  ▐   █  ▐  ▐  █  ▀█ █    ▀▄▄        █▄▄▄▀  █      █ ▐  █  ▀█ █    ▀▄▄  
+  █   █      █       █   █  █     █ █       █   █  ▀▄    ▄▀   █   █  █     █ █ 
+ ▄▀▄▄▄▀   ▄▀▀▀▀▀▄  ▄▀   █   ▐▀▄▄▄▄▀ ▐      ▄▀▄▄▄▀    ▀▀▀▀   ▄▀   █   ▐▀▄▄▄▄▀ ▐ 
+█    ▐   █       █ █    ▐   ▐             █    ▐            █    ▐   ▐         
+▐        ▐       ▐ ▐                      ▐                 ▐                  
+                                                                               
+Watch our for the closing doors on your way out
+(Press enter to close the app)
+\
+>>> 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+press Enter to get started
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+
+Enter the month of the second date(M): 12
+
+Enter the Day of the second date(D): 8
+
+	The first date you entered is 2021-12-08
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are 10276 days between 1993-10-20 and 2021-12-08 
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+
+Enter the month of the second date(M): 12
+
+Enter the Day of the second date(D): 8
+
+	The first date you entered is 2021-12-08
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are "10276" days between1993-10-20and2021-12-08
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+
+Enter the month of the second date(M): 12
+
+Enter the Day of the second date(D): 7
+
+	The first date you entered is 2021-12-07
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are "10275" days between "1993-10-20" and "2021-12-07"
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is "887760000" seconds!
+		That is "14796000" minutes!
+			That is "246600" hours!
+			That is "1467.857142857143" weeks!
+		That is "337.585125" months!
+	And That is "28.15068493150685" years!
+
+Would you like to play again? y/n: 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+
+Enter the month of the second date(M): 12
+
+Enter the Day of the second date(D): 8
+
+	The first date you entered is 2021-12-08
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are "10276" days between "1993-10-20" and "2021-12-08"
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is "887846400" seconds!
+	That is "14797440" minutes!
+	That is "246624" hours!
+	That is "1468.0" weeks!
+	That is "337.61798000000005" months!
+	That is "28.153424657534245" years!
+
+Would you like to play again? y/n: 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 2001
+
+Enter the Month of the first date(M): 9
+
+Enter the Day of the first date(D): 11
+
+	The first date you entered is 2001-09-11
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+
+Enter the month of the second date(M): 12
+
+Enter the Day of the second date(D): 8
+
+	The first date you entered is 2021-12-08
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are "7393" days between "2001-09-11" and "2021-12-08"
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is "638755200" seconds!
+	That is "10645920" minutes!
+	That is "177432"    hours!
+	That is "1056.142857142857"    weeks!
+	That is "242.897015"   months!
+	That is "20.254794520547946"    years!
+
+Would you like to play again? y/n: 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+
+Enter the month of the second date(M): 21
+
+	I don't know what planet you're from, but on earth, there are only 12 months
+	Not 21 or whatever you put
+
+Enter the Month of the first date(M): 12
+
+Enter the Day of the second date(D): 8
+
+	The first date you entered is 2021-12-08
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are "10276" days between "1993-10-20" and "2021-12-08"
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is "887846400" seconds!
+	That is "14797440" minutes!
+	That is "246624" hours!
+	That is "1468.0" weeks!
+	That is "337.61798000000005" months!
+	That is "28.153424657534245" years!
+
+Would you like to play again? y/n: y
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 
+=========== RESTART: C:\Users\mjone\OneDrive\Python challenge 10\CAPSTONE.py ===========
+
+▓█████▄  ▄▄▄     ▓██   ██▓  ██████     ▄████▄   ▄▄▄       ██▓     ▄████▄   █    ██  ██▓    ▄▄▄     ▄▄▄█████▓ ▒█████   ██▀███  
+▒██▀ ██▌▒████▄    ▒██  ██▒▒██    ▒    ▒██▀ ▀█  ▒████▄    ▓██▒    ▒██▀ ▀█   ██  ▓██▒▓██▒   ▒████▄   ▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒
+░██   █▌▒██  ▀█▄   ▒██ ██░░ ▓██▄      ▒▓█    ▄ ▒██  ▀█▄  ▒██░    ▒▓█    ▄ ▓██  ▒██░▒██░   ▒██  ▀█▄ ▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒
+░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░  ▒   ██▒   ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██░    ▒▓▓▄ ▄██▒▓▓█  ░██░▒██░   ░██▄▄▄▄██░ ▓██▓ ░ ▒██   ██░▒██▀▀█▄  
+░▒████▓  ▓█   ▓██▒ ░ ██▒▓░▒██████▒▒   ▒ ▓███▀ ░ ▓█   ▓██▒░██████▒▒ ▓███▀ ░▒▒█████▓ ░██████▒▓█   ▓██▒ ▒██▒ ░ ░ ████▓▒░░██▓ ▒██▒
+ ▒▒▓  ▒  ▒▒   ▓▒█░  ██▒▒▒ ▒ ▒▓▒ ▒ ░   ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░▓  ░░ ░▒ ▒  ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░▒▒   ▓▒█░ ▒ ░░   ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░
+ ░ ▒  ▒   ▒   ▒▒ ░▓██ ░▒░ ░ ░▒  ░ ░     ░  ▒     ▒   ▒▒ ░░ ░ ▒  ░  ░  ▒   ░░▒░ ░ ░ ░ ░ ▒  ░ ▒   ▒▒ ░   ░      ░ ▒ ▒░   ░▒ ░ ▒░
+ ░ ░  ░   ░   ▒   ▒ ▒ ░░  ░  ░  ░     ░          ░   ▒     ░ ░   ░         ░░░ ░ ░   ░ ░    ░   ▒    ░      ░ ░ ░ ▒    ░░   ░ 
+   ░          ░  ░░ ░           ░     ░ ░            ░  ░    ░  ░░ ░         ░         ░  ░     ░  ░            ░ ░     ░     
+ ░                ░ ░                 ░                          ░                                                            
+
+                                                              ░░                          
+                                                    ▒▒▓▓▓▓██▓▓▓▓                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ▒▒░░▒▒▓▓░░░░                        
+                                                    ▒▒░░░░▓▓░░░░                        
+                                                    ▒▒░░▒▒▓▓▒▒░░                        
+                                                    ▒▒░░░░░░░░░░                        
+                                                    ░░
+                                                    
+
+                         ▄▄▄▄ ▓██   ██▓    ███▄ ▄███▓ ▄▄▄       ██▀███   ██ ▄█▀     █████▒
+                        ▓█████▄▒██  ██▒   ▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓██   ▒ 
+                        ▒██▒ ▄██▒██ ██░   ▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░    ▒████ ░ 
+                        ▒██░█▀  ░ ▐██▓░   ▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄    ░▓█▒  ░ 
+                        ░▓█  ▀█▓░ ██▒▓░   ▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄   ░▒█░    
+                        ░▒▓███▀▒ ██▒▒▒    ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒    ▒ ░    
+                        ▒░▒   ░▓██ ░▒░    ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░    ░      
+                         ░    ░▒ ▒ ░░     ░      ░     ░   ▒     ░░   ░ ░ ░░ ░     ░ ░    
+                         ░     ░ ░               ░         ░  ░   ░     ░  ░              
+                              ░░ ░
+
+
+		 This Calculator will calculate the number of days between 2 dates
+		 The format used for this calulator is:
+						 >>YYYY/MM/DD<<
+		 This application will also calulate the seconds, minutes, hours, weeks, months, and years! 
+
+press Enter to get started
+
+Enter the year of the first date(yyyy): 
+	press Enter to get started
+
+NOT A VALID ENTRY, TRY AGAIN
+
+Enter the year of the first date(yyyy): 
+NOT A VALID ENTRY, TRY AGAIN
+
+Enter the year of the first date(yyyy): 
+
+NOT A VALID ENTRY, TRY AGAIN
+
+Enter the year of the first date(yyyy): 1993
+
+Enter the Month of the first date(M): 10
+
+Enter the Day of the first date(D): 20
+
+	The first date you entered is 1993-10-20
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+
+Enter the year of the second date(yyyy): 2021
+
+Enter the month of the second date(M): 18
+
+	I don't know what planet you're from, but on earth, there are only 12 months
+	Not 18 or whatever you put
+
+Enter the Month of the first date(M): 12
+
+Enter the Day of the second date(D): 8
+
+	The first date you entered is 2021-12-08
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are "10276" days between "1993-10-20" and "2021-12-08"
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is "887846400" seconds!
+	That is "14797440" minutes!
+	That is "246624" hours!
+	That is "1468.0" weeks!
+	That is "337.61798000000005" months!
+	That is "28.153424657534245" years!
+
+Would you like to play again? y/n: nn
+Enter the year of the first date(yyyy): 200
+
+	Are you a time traveler? What buisness do you have in the year 200?
+	Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 2000
+
+Enter the Month of the first date(M): 20
+
+	I don't know what planet you're from, but on earth, there are only 12 months
+	Not 20 or whatever you put
+
+Enter the Month of the first date(M): 2
+
+Enter the Day of the first date(D): 2
+
+	The first date you entered is 2000-02-02
+	is this correct? y/n: y
+
+	Awesome, press enter proceed to the second date
+2000
+Enter the year of the second date(yyyy): 22
+
+	Are you a time traveler? What buisness do you have in the year 22?
+	Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 2
+
+	Are you a time traveler? What buisness do you have in the year 2?
+	Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 3
+
+	Are you a time traveler? What buisness do you have in the year 3?
+	Please use years from 999 to 9999 McFly
+
+Enter the year of the first date(yyyy): 2000
+
+Enter the month of the second date(M): 2
+
+Enter the Day of the second date(D): 3
+
+	The first date you entered is 2000-02-03
+	is this correct? y/n: y
+
+	Awesome, press enter begin calculating the days between your dates
+
+There are "1" days between "2000-02-02" and "2000-02-03"
+
+I also calulated the seconds, minutes, hours, weeks, and years!
+Press Enter to see =)
+	That is "86400" seconds!
+	That is "1440" minutes!
+	That is "24" hours!
+	That is "0.14285714285714285" weeks!
+	That is "0.032855" months!
+	That is "0.0027397260273972603" years!
+
+Would you like to play again? y/n: n
+
+ ▄▀▀█▄▄   ▄▀▀█▀▄    ▄▀▀▄ ▀▄  ▄▀▀▀▀▄        ▄▀▀█▄▄   ▄▀▀▀▀▄   ▄▀▀▄ ▀▄  ▄▀▀▀▀▄   
+▐ ▄▀   █ █   █  █  █  █ █ █ █             ▐ ▄▀   █ █      █ █  █ █ █ █         
+  █▄▄▄▀  ▐   █  ▐  ▐  █  ▀█ █    ▀▄▄        █▄▄▄▀  █      █ ▐  █  ▀█ █    ▀▄▄  
+  █   █      █       █   █  █     █ █       █   █  ▀▄    ▄▀   █   █  █     █ █ 
+ ▄▀▄▄▄▀   ▄▀▀▀▀▀▄  ▄▀   █   ▐▀▄▄▄▄▀ ▐      ▄▀▄▄▄▀    ▀▀▀▀   ▄▀   █   ▐▀▄▄▄▄▀ ▐ 
+█    ▐   █       █ █    ▐   ▐             █    ▐            █    ▐   ▐         
+▐        ▐       ▐ ▐                      ▐                 ▐                  
+                                                                               
+Watch our for the closing doors on your way out
+(Press enter to close the app)
+>>> 
