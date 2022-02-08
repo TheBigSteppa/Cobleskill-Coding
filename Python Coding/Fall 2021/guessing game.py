@@ -1,4 +1,4 @@
-# Kathy
+# Mark
 # This program generates a random number between lower and upper input by the user
 # The user is then prompted to guess the number.
 # The response is based on how far the user is away from the guess
